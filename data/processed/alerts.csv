@@ -1,0 +1,14 @@
+alert_id,supplier_id,supplier_name,event_id,event_type,deterministic_risk,graphsage_risk,gat_risk,combined_risk,risk_score_100,risk_band,reasons,explanation,created_at,data_status
+ALT-EVT-NEWS00001-SUP00001,SUP00001,Apparel Supplier 0001,EVT-NEWS00001,Supply Disruption,0.4275,0.4957,0.5246,0.4688,46.88,MEDIUM,Moderate disruption event detected; Direct operational dependency; Moderate baseline heuristic risk; Graph propagation from affected upstream nodes,"Supplier:
+SUP00001 (Apparel Supplier 0001)
+
+Risk:
+MEDIUM
+
+Reasons:
+* Moderate disruption event detected
+* Direct operational dependency
+* Moderate baseline heuristic risk
+* Graph propagation from affected upstream nodes
+
+PROJECT THRESHOLD DISCLAIMER: Risk bands (LOW, MEDIUM, HIGH, CRITICAL) are project-defined operational prioritization thresholds calibrated for early warning, not externally validated ground-truth labels.",2026-09-27T15:08:28.882356+00:00,SYNTHETIC_DEMO

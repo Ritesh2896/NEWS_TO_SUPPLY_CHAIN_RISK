@@ -1,0 +1,58 @@
+{
+  "config": {
+    "epochs": 5,
+    "learning_rate": 0.01,
+    "weight_decay": 0.0001,
+    "hidden_dim": 16,
+    "dropout": 0.1,
+    "smoothness_weight": 0.2,
+    "seed": 42,
+    "device": "cpu",
+    "checkpoint_path": "C:\\Users\\Jaswant\\AppData\\Local\\Temp\\pytest-of-Jaswant\\pytest-64\\test_inference_and_risk_propag0\\inference_test_model.pt",
+    "log_path": "logs/graphsage_training.json",
+    "paradigm": "SEMI_SUPERVISED_RISK_PROPAGATION_DEMO"
+  },
+  "training_log": [
+    {
+      "epoch": 1,
+      "total_loss": 0.111967,
+      "seed_loss": 0.111751,
+      "smoothness_loss": 0.001079,
+      "mean_risk_pred": 0.6713
+    },
+    {
+      "epoch": 2,
+      "total_loss": 0.068385,
+      "seed_loss": 0.067579,
+      "smoothness_loss": 0.004034,
+      "mean_risk_pred": 0.5858
+    },
+    {
+      "epoch": 3,
+      "total_loss": 0.054142,
+      "seed_loss": 0.052559,
+      "smoothness_loss": 0.007915,
+      "mean_risk_pred": 0.5593
+    },
+    {
+      "epoch": 4,
+      "total_loss": 0.044876,
+      "seed_loss": 0.044455,
+      "smoothness_loss": 0.002105,
+      "mean_risk_pred": 0.5078
+    },
+    {
+      "epoch": 5,
+      "total_loss": 0.027141,
+      "seed_loss": 0.023982,
+      "smoothness_loss": 0.015794,
+      "mean_risk_pred": 0.4761
+    }
+  ],
+  "experimental_setup": {
+    "paradigm": "SEMI_SUPERVISED_RISK_PROPAGATION_DEMO",
+    "ground_truth_claims": false,
+    "description": "Supervised empirical ground-truth disruption labels are not fabricated. The training regime uses deterministic heuristic risk signals from Phase 7 as initial seed targets, combined with self-supervised graph Laplacian smoothness regularization across supply dependency edges."
+  },
+  "academic_disclaimer": "No synthetic classification accuracy is reported. The metrics reflect loss convergence during semi-supervised graph risk propagation training."
+}

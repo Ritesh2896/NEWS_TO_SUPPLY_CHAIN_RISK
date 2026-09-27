@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Maritime Staff",
+      "title": "Severe strike halts cargo handling at Port of Mumbai",
+      "description": "Port workers initiate strike over wage negotiations, delaying container vessels.",
+      "url": "https://example.com/mumbai-port-strike",
+      "urlToImage": "https://example.com/img1.jpg",
+      "publishedAt": "2026-09-23T10:00:00Z",
+      "content": "A sudden labor strike has closed all major terminals in the Port of Mumbai, halting cargo."
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Supply Reporter",
+      "title": "Factory shutdown in Shenzhen impacts electronics supplier",
+      "description": "Manufacturing plant announces emergency shutdown following fire incident.",
+      "url": "https://example.com/shenzhen-factory-fire",
+      "urlToImage": "https://example.com/img2.jpg",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "content": "Electronics assembly plant shuts down after industrial fire, disrupting supplier deliveries."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"""Live news ingestion package."""

@@ -1,0 +1,8 @@
+feedback_id,alert_id,decision,analyst_id,comment,recommended_action,created_at
+FB-6AE0A774,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-24T12:43:42.882612+00:00
+FB-F1A95B63,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-24T12:44:31.644639+00:00
+FB-A859988E,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-24T12:45:37.007985+00:00
+FB-F8B67B71,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-24T12:51:53.018347+00:00
+FB-7B1CF606,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-24T13:07:08.867996+00:00
+FB-8550DE40,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-25T09:48:14.567856+00:00
+FB-5F2D9BA0,ALT-EVT00001-SUP00001,ACCEPT,analyst_jaswant,Confirmed flood impact with regional logistics team.,Reroute shipments to secondary facility.,2026-09-25T09:51:16.964921+00:00

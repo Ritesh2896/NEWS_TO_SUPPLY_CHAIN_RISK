@@ -1,0 +1,1001 @@
+event_id,article_id,event_type,event_category,severity,location_id,event_time,extraction_confidence,evidence_text,source_url,data_status
+EVT00001,NEWS00001,Flood,Cyber,1,LOC00001,2026-09-22T23:00:00+00:00,0.838,DEMO event text 0001; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00002,NEWS00002,Port Disruption,Labor,5,LOC00002,2026-09-22T22:00:00+00:00,0.782,DEMO event text 0002; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00003,NEWS00003,Fire,Labor,1,LOC00003,2026-09-22T21:00:00+00:00,0.769,DEMO event text 0003; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00004,NEWS00004,Earthquake,Natural Hazard,4,LOC00004,2026-09-22T20:00:00+00:00,0.891,DEMO event text 0004; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00005,NEWS00005,Storm,Operational,4,LOC00005,2026-09-22T19:00:00+00:00,0.807,DEMO event text 0005; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00006,NEWS00006,Labor Disruption,Labor,2,LOC00006,2026-09-22T18:00:00+00:00,0.867,DEMO event text 0006; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00007,NEWS00007,Road Closure,Infrastructure,4,LOC00007,2026-09-22T17:00:00+00:00,0.892,DEMO event text 0007; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00008,NEWS00008,Power Outage,Infrastructure,1,LOC00008,2026-09-22T16:00:00+00:00,0.893,DEMO event text 0008; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00009,NEWS00009,Cyber Incident,Operational,5,LOC00009,2026-09-22T15:00:00+00:00,0.962,DEMO event text 0009; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00010,NEWS00010,Factory Shutdown,Natural Hazard,4,LOC00010,2026-09-22T14:00:00+00:00,0.854,DEMO event text 0010; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00011,NEWS00011,Flood,Labor,2,LOC00011,2026-09-22T13:00:00+00:00,0.79,DEMO event text 0011; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00012,NEWS00012,Port Disruption,Operational,5,LOC00012,2026-09-22T12:00:00+00:00,0.838,DEMO event text 0012; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00013,NEWS00013,Fire,Infrastructure,3,LOC00013,2026-09-22T11:00:00+00:00,0.844,DEMO event text 0013; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00014,NEWS00014,Earthquake,Operational,1,LOC00014,2026-09-22T10:00:00+00:00,0.827,DEMO event text 0014; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00015,NEWS00015,Storm,Infrastructure,1,LOC00015,2026-09-22T09:00:00+00:00,0.818,DEMO event text 0015; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00016,NEWS00016,Labor Disruption,Infrastructure,1,LOC00016,2026-09-22T08:00:00+00:00,0.809,DEMO event text 0016; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00017,NEWS00017,Road Closure,Infrastructure,5,LOC00017,2026-09-22T07:00:00+00:00,0.755,DEMO event text 0017; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00018,NEWS00018,Power Outage,Cyber,1,LOC00018,2026-09-22T06:00:00+00:00,0.843,DEMO event text 0018; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00019,NEWS00019,Cyber Incident,Natural Hazard,5,LOC00019,2026-09-22T05:00:00+00:00,0.814,DEMO event text 0019; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00020,NEWS00020,Factory Shutdown,Infrastructure,4,LOC00020,2026-09-22T04:00:00+00:00,0.85,DEMO event text 0020; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00021,NEWS00021,Flood,Operational,4,LOC00021,2026-09-22T03:00:00+00:00,0.943,DEMO event text 0021; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00022,NEWS00022,Port Disruption,Natural Hazard,1,LOC00022,2026-09-22T02:00:00+00:00,0.762,DEMO event text 0022; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00023,NEWS00023,Fire,Natural Hazard,2,LOC00023,2026-09-22T01:00:00+00:00,0.779,DEMO event text 0023; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00024,NEWS00024,Earthquake,Infrastructure,1,LOC00024,2026-09-22T00:00:00+00:00,0.875,DEMO event text 0024; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00025,NEWS00025,Storm,Operational,2,LOC00025,2026-09-21T23:00:00+00:00,0.92,DEMO event text 0025; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00026,NEWS00026,Labor Disruption,Operational,4,LOC00026,2026-09-21T22:00:00+00:00,0.818,DEMO event text 0026; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00027,NEWS00027,Road Closure,Infrastructure,1,LOC00027,2026-09-21T21:00:00+00:00,0.817,DEMO event text 0027; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00028,NEWS00028,Power Outage,Infrastructure,4,LOC00028,2026-09-21T20:00:00+00:00,0.989,DEMO event text 0028; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00029,NEWS00029,Cyber Incident,Operational,1,LOC00029,2026-09-21T19:00:00+00:00,0.981,DEMO event text 0029; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00030,NEWS00030,Factory Shutdown,Labor,5,LOC00030,2026-09-21T18:00:00+00:00,0.863,DEMO event text 0030; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00031,NEWS00031,Flood,Cyber,5,LOC00031,2026-09-21T17:00:00+00:00,0.908,DEMO event text 0031; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00032,NEWS00032,Port Disruption,Labor,2,LOC00032,2026-09-21T16:00:00+00:00,0.846,DEMO event text 0032; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00033,NEWS00033,Fire,Labor,3,LOC00033,2026-09-21T15:00:00+00:00,0.755,DEMO event text 0033; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00034,NEWS00034,Earthquake,Labor,2,LOC00034,2026-09-21T14:00:00+00:00,0.791,DEMO event text 0034; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00035,NEWS00035,Storm,Cyber,2,LOC00035,2026-09-21T13:00:00+00:00,0.976,DEMO event text 0035; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00036,NEWS00036,Labor Disruption,Cyber,3,LOC00036,2026-09-21T12:00:00+00:00,0.815,DEMO event text 0036; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00037,NEWS00037,Road Closure,Cyber,4,LOC00037,2026-09-21T11:00:00+00:00,0.97,DEMO event text 0037; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00038,NEWS00038,Power Outage,Operational,4,LOC00038,2026-09-21T10:00:00+00:00,0.871,DEMO event text 0038; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00039,NEWS00039,Cyber Incident,Natural Hazard,2,LOC00039,2026-09-21T09:00:00+00:00,0.774,DEMO event text 0039; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00040,NEWS00040,Factory Shutdown,Natural Hazard,4,LOC00040,2026-09-21T08:00:00+00:00,0.956,DEMO event text 0040; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00041,NEWS00041,Flood,Cyber,1,LOC00041,2026-09-21T07:00:00+00:00,0.902,DEMO event text 0041; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00042,NEWS00042,Port Disruption,Natural Hazard,3,LOC00042,2026-09-21T06:00:00+00:00,0.751,DEMO event text 0042; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00043,NEWS00043,Fire,Labor,3,LOC00043,2026-09-21T05:00:00+00:00,0.869,DEMO event text 0043; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00044,NEWS00044,Earthquake,Operational,1,LOC00044,2026-09-21T04:00:00+00:00,0.919,DEMO event text 0044; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00045,NEWS00045,Storm,Operational,4,LOC00045,2026-09-21T03:00:00+00:00,0.911,DEMO event text 0045; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00046,NEWS00046,Labor Disruption,Operational,2,LOC00046,2026-09-21T02:00:00+00:00,0.773,DEMO event text 0046; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00047,NEWS00047,Road Closure,Infrastructure,3,LOC00047,2026-09-21T01:00:00+00:00,0.793,DEMO event text 0047; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00048,NEWS00048,Power Outage,Infrastructure,1,LOC00048,2026-09-21T00:00:00+00:00,0.88,DEMO event text 0048; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00049,NEWS00049,Cyber Incident,Labor,2,LOC00049,2026-09-20T23:00:00+00:00,0.878,DEMO event text 0049; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00050,NEWS00050,Factory Shutdown,Infrastructure,2,LOC00050,2026-09-20T22:00:00+00:00,0.847,DEMO event text 0050; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00051,NEWS00051,Flood,Cyber,4,LOC00051,2026-09-20T21:00:00+00:00,0.923,DEMO event text 0051; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00052,NEWS00052,Port Disruption,Natural Hazard,1,LOC00052,2026-09-20T20:00:00+00:00,0.839,DEMO event text 0052; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00053,NEWS00053,Fire,Cyber,2,LOC00053,2026-09-20T19:00:00+00:00,0.793,DEMO event text 0053; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00054,NEWS00054,Earthquake,Infrastructure,4,LOC00054,2026-09-20T18:00:00+00:00,0.765,DEMO event text 0054; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00055,NEWS00055,Storm,Labor,5,LOC00055,2026-09-20T17:00:00+00:00,0.789,DEMO event text 0055; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00056,NEWS00056,Labor Disruption,Natural Hazard,3,LOC00056,2026-09-20T16:00:00+00:00,0.988,DEMO event text 0056; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00057,NEWS00057,Road Closure,Cyber,3,LOC00057,2026-09-20T15:00:00+00:00,0.835,DEMO event text 0057; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00058,NEWS00058,Power Outage,Labor,5,LOC00058,2026-09-20T14:00:00+00:00,0.883,DEMO event text 0058; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00059,NEWS00059,Cyber Incident,Natural Hazard,1,LOC00059,2026-09-20T13:00:00+00:00,0.922,DEMO event text 0059; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00060,NEWS00060,Factory Shutdown,Natural Hazard,1,LOC00060,2026-09-20T12:00:00+00:00,0.883,DEMO event text 0060; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00061,NEWS00061,Flood,Cyber,1,LOC00061,2026-09-20T11:00:00+00:00,0.966,DEMO event text 0061; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00062,NEWS00062,Port Disruption,Natural Hazard,5,LOC00062,2026-09-20T10:00:00+00:00,0.778,DEMO event text 0062; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00063,NEWS00063,Fire,Labor,5,LOC00063,2026-09-20T09:00:00+00:00,0.785,DEMO event text 0063; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00064,NEWS00064,Earthquake,Natural Hazard,5,LOC00064,2026-09-20T08:00:00+00:00,0.82,DEMO event text 0064; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00065,NEWS00065,Storm,Cyber,4,LOC00065,2026-09-20T07:00:00+00:00,0.978,DEMO event text 0065; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00066,NEWS00066,Labor Disruption,Natural Hazard,5,LOC00066,2026-09-20T06:00:00+00:00,0.81,DEMO event text 0066; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00067,NEWS00067,Road Closure,Operational,3,LOC00067,2026-09-20T05:00:00+00:00,0.881,DEMO event text 0067; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00068,NEWS00068,Power Outage,Operational,3,LOC00068,2026-09-20T04:00:00+00:00,0.782,DEMO event text 0068; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00069,NEWS00069,Cyber Incident,Operational,3,LOC00069,2026-09-20T03:00:00+00:00,0.835,DEMO event text 0069; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00070,NEWS00070,Factory Shutdown,Operational,5,LOC00070,2026-09-20T02:00:00+00:00,0.861,DEMO event text 0070; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00071,NEWS00071,Flood,Natural Hazard,2,LOC00071,2026-09-20T01:00:00+00:00,0.926,DEMO event text 0071; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00072,NEWS00072,Port Disruption,Infrastructure,3,LOC00072,2026-09-20T00:00:00+00:00,0.972,DEMO event text 0072; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00073,NEWS00073,Fire,Labor,4,LOC00073,2026-09-19T23:00:00+00:00,0.858,DEMO event text 0073; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00074,NEWS00074,Earthquake,Operational,1,LOC00074,2026-09-19T22:00:00+00:00,0.922,DEMO event text 0074; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00075,NEWS00075,Storm,Infrastructure,1,LOC00075,2026-09-19T21:00:00+00:00,0.961,DEMO event text 0075; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00076,NEWS00076,Labor Disruption,Natural Hazard,5,LOC00076,2026-09-19T20:00:00+00:00,0.913,DEMO event text 0076; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00077,NEWS00077,Road Closure,Cyber,3,LOC00077,2026-09-19T19:00:00+00:00,0.78,DEMO event text 0077; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00078,NEWS00078,Power Outage,Infrastructure,5,LOC00078,2026-09-19T18:00:00+00:00,0.817,DEMO event text 0078; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00079,NEWS00079,Cyber Incident,Natural Hazard,1,LOC00079,2026-09-19T17:00:00+00:00,0.861,DEMO event text 0079; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00080,NEWS00080,Factory Shutdown,Cyber,4,LOC00080,2026-09-19T16:00:00+00:00,0.951,DEMO event text 0080; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00081,NEWS00081,Flood,Operational,3,LOC00081,2026-09-19T15:00:00+00:00,0.943,DEMO event text 0081; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00082,NEWS00082,Port Disruption,Cyber,5,LOC00082,2026-09-19T14:00:00+00:00,0.858,DEMO event text 0082; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00083,NEWS00083,Fire,Operational,5,LOC00083,2026-09-19T13:00:00+00:00,0.771,DEMO event text 0083; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00084,NEWS00084,Earthquake,Operational,2,LOC00084,2026-09-19T12:00:00+00:00,0.955,DEMO event text 0084; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00085,NEWS00085,Storm,Infrastructure,1,LOC00085,2026-09-19T11:00:00+00:00,0.948,DEMO event text 0085; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00086,NEWS00086,Labor Disruption,Infrastructure,2,LOC00086,2026-09-19T10:00:00+00:00,0.833,DEMO event text 0086; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00087,NEWS00087,Road Closure,Cyber,2,LOC00087,2026-09-19T09:00:00+00:00,0.828,DEMO event text 0087; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00088,NEWS00088,Power Outage,Cyber,3,LOC00088,2026-09-19T08:00:00+00:00,0.865,DEMO event text 0088; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00089,NEWS00089,Cyber Incident,Infrastructure,4,LOC00089,2026-09-19T07:00:00+00:00,0.822,DEMO event text 0089; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00090,NEWS00090,Factory Shutdown,Labor,1,LOC00090,2026-09-19T06:00:00+00:00,0.764,DEMO event text 0090; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00091,NEWS00091,Flood,Natural Hazard,3,LOC00091,2026-09-19T05:00:00+00:00,0.831,DEMO event text 0091; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00092,NEWS00092,Port Disruption,Natural Hazard,5,LOC00092,2026-09-19T04:00:00+00:00,0.969,DEMO event text 0092; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00093,NEWS00093,Fire,Infrastructure,5,LOC00093,2026-09-19T03:00:00+00:00,0.957,DEMO event text 0093; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00094,NEWS00094,Earthquake,Infrastructure,5,LOC00094,2026-09-19T02:00:00+00:00,0.805,DEMO event text 0094; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00095,NEWS00095,Storm,Infrastructure,4,LOC00095,2026-09-19T01:00:00+00:00,0.941,DEMO event text 0095; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00096,NEWS00096,Labor Disruption,Operational,4,LOC00096,2026-09-19T00:00:00+00:00,0.952,DEMO event text 0096; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00097,NEWS00097,Road Closure,Cyber,5,LOC00097,2026-09-18T23:00:00+00:00,0.827,DEMO event text 0097; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00098,NEWS00098,Power Outage,Natural Hazard,1,LOC00098,2026-09-18T22:00:00+00:00,0.834,DEMO event text 0098; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00099,NEWS00099,Cyber Incident,Infrastructure,2,LOC00099,2026-09-18T21:00:00+00:00,0.826,DEMO event text 0099; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00100,NEWS00100,Factory Shutdown,Labor,5,LOC00100,2026-09-18T20:00:00+00:00,0.835,DEMO event text 0100; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00101,NEWS00101,Flood,Infrastructure,5,LOC00101,2026-09-18T19:00:00+00:00,0.928,DEMO event text 0101; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00102,NEWS00102,Port Disruption,Operational,1,LOC00102,2026-09-18T18:00:00+00:00,0.935,DEMO event text 0102; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00103,NEWS00103,Fire,Infrastructure,1,LOC00103,2026-09-18T17:00:00+00:00,0.812,DEMO event text 0103; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00104,NEWS00104,Earthquake,Infrastructure,5,LOC00104,2026-09-18T16:00:00+00:00,0.902,DEMO event text 0104; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00105,NEWS00105,Storm,Labor,5,LOC00105,2026-09-18T15:00:00+00:00,0.96,DEMO event text 0105; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00106,NEWS00106,Labor Disruption,Labor,5,LOC00106,2026-09-18T14:00:00+00:00,0.937,DEMO event text 0106; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00107,NEWS00107,Road Closure,Infrastructure,2,LOC00107,2026-09-18T13:00:00+00:00,0.943,DEMO event text 0107; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00108,NEWS00108,Power Outage,Infrastructure,1,LOC00108,2026-09-18T12:00:00+00:00,0.759,DEMO event text 0108; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00109,NEWS00109,Cyber Incident,Labor,5,LOC00109,2026-09-18T11:00:00+00:00,0.909,DEMO event text 0109; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00110,NEWS00110,Factory Shutdown,Operational,4,LOC00110,2026-09-18T10:00:00+00:00,0.841,DEMO event text 0110; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00111,NEWS00111,Flood,Operational,5,LOC00111,2026-09-18T09:00:00+00:00,0.972,DEMO event text 0111; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00112,NEWS00112,Port Disruption,Infrastructure,3,LOC00112,2026-09-18T08:00:00+00:00,0.791,DEMO event text 0112; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00113,NEWS00113,Fire,Cyber,3,LOC00113,2026-09-18T07:00:00+00:00,0.923,DEMO event text 0113; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00114,NEWS00114,Earthquake,Labor,4,LOC00114,2026-09-18T06:00:00+00:00,0.8,DEMO event text 0114; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00115,NEWS00115,Storm,Infrastructure,4,LOC00115,2026-09-18T05:00:00+00:00,0.966,DEMO event text 0115; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00116,NEWS00116,Labor Disruption,Natural Hazard,4,LOC00116,2026-09-18T04:00:00+00:00,0.786,DEMO event text 0116; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00117,NEWS00117,Road Closure,Operational,1,LOC00117,2026-09-18T03:00:00+00:00,0.881,DEMO event text 0117; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00118,NEWS00118,Power Outage,Operational,5,LOC00118,2026-09-18T02:00:00+00:00,0.769,DEMO event text 0118; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00119,NEWS00119,Cyber Incident,Operational,3,LOC00119,2026-09-18T01:00:00+00:00,0.926,DEMO event text 0119; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00120,NEWS00120,Factory Shutdown,Natural Hazard,5,LOC00120,2026-09-18T00:00:00+00:00,0.928,DEMO event text 0120; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00121,NEWS00121,Flood,Operational,1,LOC00121,2026-09-17T23:00:00+00:00,0.887,DEMO event text 0121; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00122,NEWS00122,Port Disruption,Infrastructure,3,LOC00122,2026-09-17T22:00:00+00:00,0.899,DEMO event text 0122; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00123,NEWS00123,Fire,Labor,2,LOC00123,2026-09-17T21:00:00+00:00,0.798,DEMO event text 0123; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00124,NEWS00124,Earthquake,Operational,1,LOC00124,2026-09-17T20:00:00+00:00,0.76,DEMO event text 0124; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00125,NEWS00125,Storm,Infrastructure,5,LOC00125,2026-09-17T19:00:00+00:00,0.915,DEMO event text 0125; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00126,NEWS00126,Labor Disruption,Infrastructure,5,LOC00126,2026-09-17T18:00:00+00:00,0.922,DEMO event text 0126; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00127,NEWS00127,Road Closure,Infrastructure,4,LOC00127,2026-09-17T17:00:00+00:00,0.895,DEMO event text 0127; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00128,NEWS00128,Power Outage,Operational,3,LOC00128,2026-09-17T16:00:00+00:00,0.836,DEMO event text 0128; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00129,NEWS00129,Cyber Incident,Natural Hazard,5,LOC00129,2026-09-17T15:00:00+00:00,0.805,DEMO event text 0129; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00130,NEWS00130,Factory Shutdown,Natural Hazard,4,LOC00130,2026-09-17T14:00:00+00:00,0.952,DEMO event text 0130; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00131,NEWS00131,Flood,Labor,2,LOC00131,2026-09-17T13:00:00+00:00,0.978,DEMO event text 0131; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00132,NEWS00132,Port Disruption,Operational,2,LOC00132,2026-09-17T12:00:00+00:00,0.964,DEMO event text 0132; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00133,NEWS00133,Fire,Operational,1,LOC00133,2026-09-17T11:00:00+00:00,0.96,DEMO event text 0133; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00134,NEWS00134,Earthquake,Operational,4,LOC00134,2026-09-17T10:00:00+00:00,0.876,DEMO event text 0134; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00135,NEWS00135,Storm,Cyber,1,LOC00135,2026-09-17T09:00:00+00:00,0.948,DEMO event text 0135; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00136,NEWS00136,Labor Disruption,Labor,3,LOC00136,2026-09-17T08:00:00+00:00,0.795,DEMO event text 0136; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00137,NEWS00137,Road Closure,Infrastructure,2,LOC00137,2026-09-17T07:00:00+00:00,0.89,DEMO event text 0137; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00138,NEWS00138,Power Outage,Natural Hazard,2,LOC00138,2026-09-17T06:00:00+00:00,0.829,DEMO event text 0138; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00139,NEWS00139,Cyber Incident,Operational,5,LOC00139,2026-09-17T05:00:00+00:00,0.837,DEMO event text 0139; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00140,NEWS00140,Factory Shutdown,Natural Hazard,5,LOC00140,2026-09-17T04:00:00+00:00,0.883,DEMO event text 0140; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00141,NEWS00141,Flood,Infrastructure,2,LOC00141,2026-09-17T03:00:00+00:00,0.932,DEMO event text 0141; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00142,NEWS00142,Port Disruption,Infrastructure,4,LOC00142,2026-09-17T02:00:00+00:00,0.852,DEMO event text 0142; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00143,NEWS00143,Fire,Infrastructure,5,LOC00143,2026-09-17T01:00:00+00:00,0.88,DEMO event text 0143; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00144,NEWS00144,Earthquake,Infrastructure,3,LOC00144,2026-09-17T00:00:00+00:00,0.77,DEMO event text 0144; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00145,NEWS00145,Storm,Natural Hazard,4,LOC00145,2026-09-16T23:00:00+00:00,0.847,DEMO event text 0145; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00146,NEWS00146,Labor Disruption,Labor,1,LOC00146,2026-09-16T22:00:00+00:00,0.859,DEMO event text 0146; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00147,NEWS00147,Road Closure,Cyber,3,LOC00147,2026-09-16T21:00:00+00:00,0.986,DEMO event text 0147; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00148,NEWS00148,Power Outage,Cyber,3,LOC00148,2026-09-16T20:00:00+00:00,0.989,DEMO event text 0148; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00149,NEWS00149,Cyber Incident,Labor,1,LOC00149,2026-09-16T19:00:00+00:00,0.75,DEMO event text 0149; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00150,NEWS00150,Factory Shutdown,Infrastructure,4,LOC00150,2026-09-16T18:00:00+00:00,0.805,DEMO event text 0150; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00151,NEWS00151,Flood,Infrastructure,5,LOC00151,2026-09-16T17:00:00+00:00,0.861,DEMO event text 0151; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00152,NEWS00152,Port Disruption,Cyber,4,LOC00152,2026-09-16T16:00:00+00:00,0.92,DEMO event text 0152; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00153,NEWS00153,Fire,Operational,2,LOC00153,2026-09-16T15:00:00+00:00,0.898,DEMO event text 0153; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00154,NEWS00154,Earthquake,Infrastructure,3,LOC00154,2026-09-16T14:00:00+00:00,0.768,DEMO event text 0154; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00155,NEWS00155,Storm,Infrastructure,3,LOC00155,2026-09-16T13:00:00+00:00,0.813,DEMO event text 0155; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00156,NEWS00156,Labor Disruption,Natural Hazard,5,LOC00156,2026-09-16T12:00:00+00:00,0.857,DEMO event text 0156; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00157,NEWS00157,Road Closure,Operational,3,LOC00157,2026-09-16T11:00:00+00:00,0.831,DEMO event text 0157; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00158,NEWS00158,Power Outage,Cyber,5,LOC00158,2026-09-16T10:00:00+00:00,0.852,DEMO event text 0158; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00159,NEWS00159,Cyber Incident,Infrastructure,4,LOC00159,2026-09-16T09:00:00+00:00,0.754,DEMO event text 0159; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00160,NEWS00160,Factory Shutdown,Labor,5,LOC00160,2026-09-16T08:00:00+00:00,0.778,DEMO event text 0160; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00161,NEWS00161,Flood,Operational,4,LOC00161,2026-09-16T07:00:00+00:00,0.952,DEMO event text 0161; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00162,NEWS00162,Port Disruption,Cyber,3,LOC00162,2026-09-16T06:00:00+00:00,0.95,DEMO event text 0162; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00163,NEWS00163,Fire,Natural Hazard,5,LOC00163,2026-09-16T05:00:00+00:00,0.933,DEMO event text 0163; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00164,NEWS00164,Earthquake,Natural Hazard,3,LOC00164,2026-09-16T04:00:00+00:00,0.897,DEMO event text 0164; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00165,NEWS00165,Storm,Labor,5,LOC00165,2026-09-16T03:00:00+00:00,0.974,DEMO event text 0165; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00166,NEWS00166,Labor Disruption,Infrastructure,1,LOC00166,2026-09-16T02:00:00+00:00,0.983,DEMO event text 0166; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00167,NEWS00167,Road Closure,Natural Hazard,4,LOC00167,2026-09-16T01:00:00+00:00,0.778,DEMO event text 0167; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00168,NEWS00168,Power Outage,Operational,4,LOC00168,2026-09-16T00:00:00+00:00,0.854,DEMO event text 0168; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00169,NEWS00169,Cyber Incident,Infrastructure,3,LOC00169,2026-09-15T23:00:00+00:00,0.985,DEMO event text 0169; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00170,NEWS00170,Factory Shutdown,Infrastructure,5,LOC00170,2026-09-15T22:00:00+00:00,0.925,DEMO event text 0170; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00171,NEWS00171,Flood,Operational,5,LOC00171,2026-09-15T21:00:00+00:00,0.984,DEMO event text 0171; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00172,NEWS00172,Port Disruption,Operational,4,LOC00172,2026-09-15T20:00:00+00:00,0.972,DEMO event text 0172; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00173,NEWS00173,Fire,Labor,4,LOC00173,2026-09-15T19:00:00+00:00,0.934,DEMO event text 0173; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00174,NEWS00174,Earthquake,Operational,2,LOC00174,2026-09-15T18:00:00+00:00,0.878,DEMO event text 0174; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00175,NEWS00175,Storm,Infrastructure,4,LOC00175,2026-09-15T17:00:00+00:00,0.968,DEMO event text 0175; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00176,NEWS00176,Labor Disruption,Cyber,4,LOC00176,2026-09-15T16:00:00+00:00,0.983,DEMO event text 0176; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00177,NEWS00177,Road Closure,Labor,1,LOC00177,2026-09-15T15:00:00+00:00,0.798,DEMO event text 0177; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00178,NEWS00178,Power Outage,Natural Hazard,2,LOC00178,2026-09-15T14:00:00+00:00,0.917,DEMO event text 0178; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00179,NEWS00179,Cyber Incident,Infrastructure,1,LOC00179,2026-09-15T13:00:00+00:00,0.871,DEMO event text 0179; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00180,NEWS00180,Factory Shutdown,Cyber,2,LOC00180,2026-09-15T12:00:00+00:00,0.926,DEMO event text 0180; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00181,NEWS00181,Flood,Cyber,5,LOC00181,2026-09-15T11:00:00+00:00,0.906,DEMO event text 0181; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00182,NEWS00182,Port Disruption,Operational,3,LOC00182,2026-09-15T10:00:00+00:00,0.771,DEMO event text 0182; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00183,NEWS00183,Fire,Operational,1,LOC00183,2026-09-15T09:00:00+00:00,0.854,DEMO event text 0183; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00184,NEWS00184,Earthquake,Natural Hazard,5,LOC00184,2026-09-15T08:00:00+00:00,0.868,DEMO event text 0184; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00185,NEWS00185,Storm,Infrastructure,3,LOC00185,2026-09-15T07:00:00+00:00,0.876,DEMO event text 0185; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00186,NEWS00186,Labor Disruption,Labor,2,LOC00186,2026-09-15T06:00:00+00:00,0.835,DEMO event text 0186; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00187,NEWS00187,Road Closure,Cyber,1,LOC00187,2026-09-15T05:00:00+00:00,0.856,DEMO event text 0187; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00188,NEWS00188,Power Outage,Operational,5,LOC00188,2026-09-15T04:00:00+00:00,0.907,DEMO event text 0188; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00189,NEWS00189,Cyber Incident,Labor,3,LOC00189,2026-09-15T03:00:00+00:00,0.79,DEMO event text 0189; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00190,NEWS00190,Factory Shutdown,Labor,4,LOC00190,2026-09-15T02:00:00+00:00,0.958,DEMO event text 0190; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00191,NEWS00191,Flood,Labor,5,LOC00191,2026-09-15T01:00:00+00:00,0.777,DEMO event text 0191; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00192,NEWS00192,Port Disruption,Natural Hazard,3,LOC00192,2026-09-15T00:00:00+00:00,0.784,DEMO event text 0192; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00193,NEWS00193,Fire,Natural Hazard,4,LOC00193,2026-09-14T23:00:00+00:00,0.859,DEMO event text 0193; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00194,NEWS00194,Earthquake,Infrastructure,1,LOC00194,2026-09-14T22:00:00+00:00,0.781,DEMO event text 0194; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00195,NEWS00195,Storm,Infrastructure,2,LOC00195,2026-09-14T21:00:00+00:00,0.924,DEMO event text 0195; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00196,NEWS00196,Labor Disruption,Operational,4,LOC00196,2026-09-14T20:00:00+00:00,0.943,DEMO event text 0196; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00197,NEWS00197,Road Closure,Labor,3,LOC00197,2026-09-14T19:00:00+00:00,0.887,DEMO event text 0197; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00198,NEWS00198,Power Outage,Infrastructure,1,LOC00198,2026-09-14T18:00:00+00:00,0.807,DEMO event text 0198; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00199,NEWS00199,Cyber Incident,Natural Hazard,5,LOC00199,2026-09-14T17:00:00+00:00,0.934,DEMO event text 0199; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00200,NEWS00200,Factory Shutdown,Infrastructure,3,LOC00200,2026-09-14T16:00:00+00:00,0.769,DEMO event text 0200; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00201,NEWS00201,Flood,Natural Hazard,1,LOC00201,2026-09-14T15:00:00+00:00,0.837,DEMO event text 0201; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00202,NEWS00202,Port Disruption,Natural Hazard,1,LOC00202,2026-09-14T14:00:00+00:00,0.956,DEMO event text 0202; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00203,NEWS00203,Fire,Cyber,1,LOC00203,2026-09-14T13:00:00+00:00,0.822,DEMO event text 0203; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00204,NEWS00204,Earthquake,Operational,4,LOC00204,2026-09-14T12:00:00+00:00,0.788,DEMO event text 0204; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00205,NEWS00205,Storm,Infrastructure,3,LOC00205,2026-09-14T11:00:00+00:00,0.964,DEMO event text 0205; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00206,NEWS00206,Labor Disruption,Cyber,4,LOC00206,2026-09-14T10:00:00+00:00,0.987,DEMO event text 0206; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00207,NEWS00207,Road Closure,Labor,1,LOC00207,2026-09-14T09:00:00+00:00,0.915,DEMO event text 0207; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00208,NEWS00208,Power Outage,Operational,1,LOC00208,2026-09-14T08:00:00+00:00,0.926,DEMO event text 0208; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00209,NEWS00209,Cyber Incident,Operational,4,LOC00209,2026-09-14T07:00:00+00:00,0.859,DEMO event text 0209; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00210,NEWS00210,Factory Shutdown,Operational,4,LOC00210,2026-09-14T06:00:00+00:00,0.751,DEMO event text 0210; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00211,NEWS00211,Flood,Infrastructure,4,LOC00211,2026-09-14T05:00:00+00:00,0.951,DEMO event text 0211; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00212,NEWS00212,Port Disruption,Labor,1,LOC00212,2026-09-14T04:00:00+00:00,0.809,DEMO event text 0212; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00213,NEWS00213,Fire,Cyber,5,LOC00213,2026-09-14T03:00:00+00:00,0.771,DEMO event text 0213; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00214,NEWS00214,Earthquake,Operational,1,LOC00214,2026-09-14T02:00:00+00:00,0.756,DEMO event text 0214; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00215,NEWS00215,Storm,Infrastructure,5,LOC00215,2026-09-14T01:00:00+00:00,0.851,DEMO event text 0215; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00216,NEWS00216,Labor Disruption,Labor,2,LOC00216,2026-09-14T00:00:00+00:00,0.802,DEMO event text 0216; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00217,NEWS00217,Road Closure,Natural Hazard,5,LOC00217,2026-09-13T23:00:00+00:00,0.899,DEMO event text 0217; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00218,NEWS00218,Power Outage,Cyber,3,LOC00218,2026-09-13T22:00:00+00:00,0.94,DEMO event text 0218; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00219,NEWS00219,Cyber Incident,Labor,1,LOC00219,2026-09-13T21:00:00+00:00,0.965,DEMO event text 0219; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00220,NEWS00220,Factory Shutdown,Labor,5,LOC00220,2026-09-13T20:00:00+00:00,0.902,DEMO event text 0220; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00221,NEWS00221,Flood,Cyber,2,LOC00221,2026-09-13T19:00:00+00:00,0.867,DEMO event text 0221; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00222,NEWS00222,Port Disruption,Labor,2,LOC00222,2026-09-13T18:00:00+00:00,0.865,DEMO event text 0222; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00223,NEWS00223,Fire,Operational,2,LOC00223,2026-09-13T17:00:00+00:00,0.849,DEMO event text 0223; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00224,NEWS00224,Earthquake,Cyber,5,LOC00224,2026-09-13T16:00:00+00:00,0.859,DEMO event text 0224; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00225,NEWS00225,Storm,Infrastructure,5,LOC00225,2026-09-13T15:00:00+00:00,0.809,DEMO event text 0225; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00226,NEWS00226,Labor Disruption,Infrastructure,1,LOC00226,2026-09-13T14:00:00+00:00,0.798,DEMO event text 0226; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00227,NEWS00227,Road Closure,Natural Hazard,3,LOC00227,2026-09-13T13:00:00+00:00,0.884,DEMO event text 0227; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00228,NEWS00228,Power Outage,Infrastructure,4,LOC00228,2026-09-13T12:00:00+00:00,0.883,DEMO event text 0228; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00229,NEWS00229,Cyber Incident,Infrastructure,5,LOC00229,2026-09-13T11:00:00+00:00,0.93,DEMO event text 0229; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00230,NEWS00230,Factory Shutdown,Cyber,4,LOC00230,2026-09-13T10:00:00+00:00,0.962,DEMO event text 0230; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00231,NEWS00231,Flood,Infrastructure,4,LOC00231,2026-09-13T09:00:00+00:00,0.968,DEMO event text 0231; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00232,NEWS00232,Port Disruption,Natural Hazard,5,LOC00232,2026-09-13T08:00:00+00:00,0.808,DEMO event text 0232; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00233,NEWS00233,Fire,Cyber,5,LOC00233,2026-09-13T07:00:00+00:00,0.945,DEMO event text 0233; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00234,NEWS00234,Earthquake,Natural Hazard,2,LOC00234,2026-09-13T06:00:00+00:00,0.864,DEMO event text 0234; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00235,NEWS00235,Storm,Natural Hazard,1,LOC00235,2026-09-13T05:00:00+00:00,0.87,DEMO event text 0235; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00236,NEWS00236,Labor Disruption,Infrastructure,4,LOC00236,2026-09-13T04:00:00+00:00,0.937,DEMO event text 0236; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00237,NEWS00237,Road Closure,Operational,2,LOC00237,2026-09-13T03:00:00+00:00,0.86,DEMO event text 0237; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00238,NEWS00238,Power Outage,Natural Hazard,1,LOC00238,2026-09-13T02:00:00+00:00,0.786,DEMO event text 0238; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00239,NEWS00239,Cyber Incident,Infrastructure,1,LOC00239,2026-09-13T01:00:00+00:00,0.813,DEMO event text 0239; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00240,NEWS00240,Factory Shutdown,Labor,3,LOC00240,2026-09-13T00:00:00+00:00,0.895,DEMO event text 0240; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00241,NEWS00241,Flood,Operational,4,LOC00241,2026-09-12T23:00:00+00:00,0.851,DEMO event text 0241; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00242,NEWS00242,Port Disruption,Labor,2,LOC00242,2026-09-12T22:00:00+00:00,0.933,DEMO event text 0242; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00243,NEWS00243,Fire,Operational,5,LOC00243,2026-09-12T21:00:00+00:00,0.969,DEMO event text 0243; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00244,NEWS00244,Earthquake,Operational,1,LOC00244,2026-09-12T20:00:00+00:00,0.973,DEMO event text 0244; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00245,NEWS00245,Storm,Labor,3,LOC00245,2026-09-12T19:00:00+00:00,0.989,DEMO event text 0245; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00246,NEWS00246,Labor Disruption,Infrastructure,2,LOC00246,2026-09-12T18:00:00+00:00,0.913,DEMO event text 0246; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00247,NEWS00247,Road Closure,Labor,3,LOC00247,2026-09-12T17:00:00+00:00,0.751,DEMO event text 0247; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00248,NEWS00248,Power Outage,Natural Hazard,3,LOC00248,2026-09-12T16:00:00+00:00,0.841,DEMO event text 0248; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00249,NEWS00249,Cyber Incident,Operational,1,LOC00249,2026-09-12T15:00:00+00:00,0.896,DEMO event text 0249; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00250,NEWS00250,Factory Shutdown,Natural Hazard,2,LOC00250,2026-09-12T14:00:00+00:00,0.932,DEMO event text 0250; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00251,NEWS00251,Flood,Natural Hazard,1,LOC00251,2026-09-12T13:00:00+00:00,0.982,DEMO event text 0251; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00252,NEWS00252,Port Disruption,Operational,5,LOC00252,2026-09-12T12:00:00+00:00,0.956,DEMO event text 0252; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00253,NEWS00253,Fire,Operational,2,LOC00253,2026-09-12T11:00:00+00:00,0.923,DEMO event text 0253; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00254,NEWS00254,Earthquake,Natural Hazard,2,LOC00254,2026-09-12T10:00:00+00:00,0.767,DEMO event text 0254; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00255,NEWS00255,Storm,Labor,1,LOC00255,2026-09-12T09:00:00+00:00,0.902,DEMO event text 0255; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00256,NEWS00256,Labor Disruption,Operational,5,LOC00256,2026-09-12T08:00:00+00:00,0.891,DEMO event text 0256; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00257,NEWS00257,Road Closure,Natural Hazard,4,LOC00257,2026-09-12T07:00:00+00:00,0.807,DEMO event text 0257; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00258,NEWS00258,Power Outage,Infrastructure,3,LOC00258,2026-09-12T06:00:00+00:00,0.82,DEMO event text 0258; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00259,NEWS00259,Cyber Incident,Infrastructure,2,LOC00259,2026-09-12T05:00:00+00:00,0.918,DEMO event text 0259; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00260,NEWS00260,Factory Shutdown,Infrastructure,4,LOC00260,2026-09-12T04:00:00+00:00,0.779,DEMO event text 0260; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00261,NEWS00261,Flood,Cyber,2,LOC00261,2026-09-12T03:00:00+00:00,0.948,DEMO event text 0261; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00262,NEWS00262,Port Disruption,Infrastructure,2,LOC00262,2026-09-12T02:00:00+00:00,0.783,DEMO event text 0262; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00263,NEWS00263,Fire,Operational,4,LOC00263,2026-09-12T01:00:00+00:00,0.924,DEMO event text 0263; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00264,NEWS00264,Earthquake,Cyber,3,LOC00264,2026-09-12T00:00:00+00:00,0.946,DEMO event text 0264; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00265,NEWS00265,Storm,Operational,5,LOC00265,2026-09-11T23:00:00+00:00,0.905,DEMO event text 0265; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00266,NEWS00266,Labor Disruption,Natural Hazard,4,LOC00266,2026-09-11T22:00:00+00:00,0.99,DEMO event text 0266; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00267,NEWS00267,Road Closure,Infrastructure,2,LOC00267,2026-09-11T21:00:00+00:00,0.812,DEMO event text 0267; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00268,NEWS00268,Power Outage,Cyber,1,LOC00268,2026-09-11T20:00:00+00:00,0.779,DEMO event text 0268; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00269,NEWS00269,Cyber Incident,Operational,3,LOC00269,2026-09-11T19:00:00+00:00,0.89,DEMO event text 0269; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00270,NEWS00270,Factory Shutdown,Labor,5,LOC00270,2026-09-11T18:00:00+00:00,0.986,DEMO event text 0270; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00271,NEWS00271,Flood,Cyber,4,LOC00271,2026-09-11T17:00:00+00:00,0.775,DEMO event text 0271; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00272,NEWS00272,Port Disruption,Operational,2,LOC00272,2026-09-11T16:00:00+00:00,0.818,DEMO event text 0272; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00273,NEWS00273,Fire,Natural Hazard,3,LOC00273,2026-09-11T15:00:00+00:00,0.769,DEMO event text 0273; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00274,NEWS00274,Earthquake,Labor,1,LOC00274,2026-09-11T14:00:00+00:00,0.965,DEMO event text 0274; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00275,NEWS00275,Storm,Labor,3,LOC00275,2026-09-11T13:00:00+00:00,0.82,DEMO event text 0275; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00276,NEWS00276,Labor Disruption,Infrastructure,1,LOC00276,2026-09-11T12:00:00+00:00,0.762,DEMO event text 0276; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00277,NEWS00277,Road Closure,Natural Hazard,5,LOC00277,2026-09-11T11:00:00+00:00,0.903,DEMO event text 0277; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00278,NEWS00278,Power Outage,Natural Hazard,1,LOC00278,2026-09-11T10:00:00+00:00,0.953,DEMO event text 0278; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00279,NEWS00279,Cyber Incident,Labor,3,LOC00279,2026-09-11T09:00:00+00:00,0.96,DEMO event text 0279; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00280,NEWS00280,Factory Shutdown,Labor,2,LOC00280,2026-09-11T08:00:00+00:00,0.975,DEMO event text 0280; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00281,NEWS00281,Flood,Infrastructure,5,LOC00281,2026-09-11T07:00:00+00:00,0.802,DEMO event text 0281; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00282,NEWS00282,Port Disruption,Cyber,5,LOC00282,2026-09-11T06:00:00+00:00,0.766,DEMO event text 0282; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00283,NEWS00283,Fire,Natural Hazard,5,LOC00283,2026-09-11T05:00:00+00:00,0.901,DEMO event text 0283; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00284,NEWS00284,Earthquake,Labor,4,LOC00284,2026-09-11T04:00:00+00:00,0.951,DEMO event text 0284; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00285,NEWS00285,Storm,Infrastructure,5,LOC00285,2026-09-11T03:00:00+00:00,0.815,DEMO event text 0285; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00286,NEWS00286,Labor Disruption,Operational,1,LOC00286,2026-09-11T02:00:00+00:00,0.966,DEMO event text 0286; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00287,NEWS00287,Road Closure,Operational,5,LOC00287,2026-09-11T01:00:00+00:00,0.869,DEMO event text 0287; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00288,NEWS00288,Power Outage,Operational,5,LOC00288,2026-09-11T00:00:00+00:00,0.842,DEMO event text 0288; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00289,NEWS00289,Cyber Incident,Labor,5,LOC00289,2026-09-10T23:00:00+00:00,0.822,DEMO event text 0289; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00290,NEWS00290,Factory Shutdown,Cyber,2,LOC00290,2026-09-10T22:00:00+00:00,0.851,DEMO event text 0290; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00291,NEWS00291,Flood,Natural Hazard,5,LOC00291,2026-09-10T21:00:00+00:00,0.83,DEMO event text 0291; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00292,NEWS00292,Port Disruption,Labor,2,LOC00292,2026-09-10T20:00:00+00:00,0.95,DEMO event text 0292; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00293,NEWS00293,Fire,Labor,4,LOC00293,2026-09-10T19:00:00+00:00,0.824,DEMO event text 0293; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00294,NEWS00294,Earthquake,Natural Hazard,2,LOC00294,2026-09-10T18:00:00+00:00,0.923,DEMO event text 0294; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00295,NEWS00295,Storm,Cyber,3,LOC00295,2026-09-10T17:00:00+00:00,0.871,DEMO event text 0295; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00296,NEWS00296,Labor Disruption,Operational,4,LOC00296,2026-09-10T16:00:00+00:00,0.897,DEMO event text 0296; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00297,NEWS00297,Road Closure,Natural Hazard,2,LOC00297,2026-09-10T15:00:00+00:00,0.852,DEMO event text 0297; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00298,NEWS00298,Power Outage,Operational,4,LOC00298,2026-09-10T14:00:00+00:00,0.823,DEMO event text 0298; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00299,NEWS00299,Cyber Incident,Cyber,5,LOC00299,2026-09-10T13:00:00+00:00,0.894,DEMO event text 0299; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00300,NEWS00300,Factory Shutdown,Natural Hazard,5,LOC00300,2026-09-10T12:00:00+00:00,0.907,DEMO event text 0300; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00301,NEWS00301,Flood,Cyber,1,LOC00301,2026-09-10T11:00:00+00:00,0.757,DEMO event text 0301; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00302,NEWS00302,Port Disruption,Natural Hazard,3,LOC00302,2026-09-10T10:00:00+00:00,0.927,DEMO event text 0302; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00303,NEWS00303,Fire,Infrastructure,3,LOC00303,2026-09-10T09:00:00+00:00,0.785,DEMO event text 0303; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00304,NEWS00304,Earthquake,Natural Hazard,3,LOC00304,2026-09-10T08:00:00+00:00,0.815,DEMO event text 0304; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00305,NEWS00305,Storm,Labor,2,LOC00305,2026-09-10T07:00:00+00:00,0.99,DEMO event text 0305; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00306,NEWS00306,Labor Disruption,Cyber,3,LOC00306,2026-09-10T06:00:00+00:00,0.921,DEMO event text 0306; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00307,NEWS00307,Road Closure,Infrastructure,4,LOC00307,2026-09-10T05:00:00+00:00,0.844,DEMO event text 0307; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00308,NEWS00308,Power Outage,Infrastructure,3,LOC00308,2026-09-10T04:00:00+00:00,0.828,DEMO event text 0308; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00309,NEWS00309,Cyber Incident,Infrastructure,5,LOC00309,2026-09-10T03:00:00+00:00,0.976,DEMO event text 0309; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00310,NEWS00310,Factory Shutdown,Natural Hazard,3,LOC00310,2026-09-10T02:00:00+00:00,0.975,DEMO event text 0310; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00311,NEWS00311,Flood,Operational,2,LOC00311,2026-09-10T01:00:00+00:00,0.92,DEMO event text 0311; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00312,NEWS00312,Port Disruption,Operational,5,LOC00312,2026-09-10T00:00:00+00:00,0.9,DEMO event text 0312; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00313,NEWS00313,Fire,Cyber,4,LOC00313,2026-09-09T23:00:00+00:00,0.751,DEMO event text 0313; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00314,NEWS00314,Earthquake,Labor,3,LOC00314,2026-09-09T22:00:00+00:00,0.782,DEMO event text 0314; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00315,NEWS00315,Storm,Cyber,4,LOC00315,2026-09-09T21:00:00+00:00,0.828,DEMO event text 0315; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00316,NEWS00316,Labor Disruption,Operational,2,LOC00316,2026-09-09T20:00:00+00:00,0.968,DEMO event text 0316; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00317,NEWS00317,Road Closure,Natural Hazard,3,LOC00317,2026-09-09T19:00:00+00:00,0.8,DEMO event text 0317; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00318,NEWS00318,Power Outage,Natural Hazard,1,LOC00318,2026-09-09T18:00:00+00:00,0.902,DEMO event text 0318; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00319,NEWS00319,Cyber Incident,Labor,3,LOC00319,2026-09-09T17:00:00+00:00,0.962,DEMO event text 0319; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00320,NEWS00320,Factory Shutdown,Natural Hazard,5,LOC00320,2026-09-09T16:00:00+00:00,0.927,DEMO event text 0320; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00321,NEWS00321,Flood,Natural Hazard,4,LOC00321,2026-09-09T15:00:00+00:00,0.907,DEMO event text 0321; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00322,NEWS00322,Port Disruption,Natural Hazard,5,LOC00322,2026-09-09T14:00:00+00:00,0.855,DEMO event text 0322; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00323,NEWS00323,Fire,Infrastructure,1,LOC00323,2026-09-09T13:00:00+00:00,0.93,DEMO event text 0323; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00324,NEWS00324,Earthquake,Infrastructure,1,LOC00324,2026-09-09T12:00:00+00:00,0.768,DEMO event text 0324; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00325,NEWS00325,Storm,Labor,5,LOC00325,2026-09-09T11:00:00+00:00,0.966,DEMO event text 0325; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00326,NEWS00326,Labor Disruption,Infrastructure,3,LOC00326,2026-09-09T10:00:00+00:00,0.855,DEMO event text 0326; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00327,NEWS00327,Road Closure,Operational,4,LOC00327,2026-09-09T09:00:00+00:00,0.975,DEMO event text 0327; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00328,NEWS00328,Power Outage,Infrastructure,3,LOC00328,2026-09-09T08:00:00+00:00,0.78,DEMO event text 0328; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00329,NEWS00329,Cyber Incident,Cyber,1,LOC00329,2026-09-09T07:00:00+00:00,0.839,DEMO event text 0329; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00330,NEWS00330,Factory Shutdown,Operational,1,LOC00330,2026-09-09T06:00:00+00:00,0.952,DEMO event text 0330; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00331,NEWS00331,Flood,Labor,3,LOC00331,2026-09-09T05:00:00+00:00,0.751,DEMO event text 0331; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00332,NEWS00332,Port Disruption,Infrastructure,1,LOC00332,2026-09-09T04:00:00+00:00,0.929,DEMO event text 0332; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00333,NEWS00333,Fire,Labor,5,LOC00333,2026-09-09T03:00:00+00:00,0.831,DEMO event text 0333; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00334,NEWS00334,Earthquake,Operational,1,LOC00334,2026-09-09T02:00:00+00:00,0.752,DEMO event text 0334; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00335,NEWS00335,Storm,Operational,4,LOC00335,2026-09-09T01:00:00+00:00,0.926,DEMO event text 0335; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00336,NEWS00336,Labor Disruption,Operational,2,LOC00336,2026-09-09T00:00:00+00:00,0.836,DEMO event text 0336; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00337,NEWS00337,Road Closure,Operational,4,LOC00337,2026-09-08T23:00:00+00:00,0.769,DEMO event text 0337; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00338,NEWS00338,Power Outage,Infrastructure,3,LOC00338,2026-09-08T22:00:00+00:00,0.76,DEMO event text 0338; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00339,NEWS00339,Cyber Incident,Labor,3,LOC00339,2026-09-08T21:00:00+00:00,0.844,DEMO event text 0339; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00340,NEWS00340,Factory Shutdown,Cyber,5,LOC00340,2026-09-08T20:00:00+00:00,0.935,DEMO event text 0340; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00341,NEWS00341,Flood,Infrastructure,4,LOC00341,2026-09-08T19:00:00+00:00,0.97,DEMO event text 0341; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00342,NEWS00342,Port Disruption,Operational,4,LOC00342,2026-09-08T18:00:00+00:00,0.891,DEMO event text 0342; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00343,NEWS00343,Fire,Operational,1,LOC00343,2026-09-08T17:00:00+00:00,0.754,DEMO event text 0343; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00344,NEWS00344,Earthquake,Infrastructure,4,LOC00344,2026-09-08T16:00:00+00:00,0.959,DEMO event text 0344; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00345,NEWS00345,Storm,Labor,4,LOC00345,2026-09-08T15:00:00+00:00,0.86,DEMO event text 0345; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00346,NEWS00346,Labor Disruption,Infrastructure,3,LOC00346,2026-09-08T14:00:00+00:00,0.839,DEMO event text 0346; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00347,NEWS00347,Road Closure,Cyber,5,LOC00347,2026-09-08T13:00:00+00:00,0.876,DEMO event text 0347; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00348,NEWS00348,Power Outage,Cyber,5,LOC00348,2026-09-08T12:00:00+00:00,0.793,DEMO event text 0348; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00349,NEWS00349,Cyber Incident,Infrastructure,5,LOC00349,2026-09-08T11:00:00+00:00,0.888,DEMO event text 0349; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00350,NEWS00350,Factory Shutdown,Natural Hazard,4,LOC00350,2026-09-08T10:00:00+00:00,0.832,DEMO event text 0350; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00351,NEWS00351,Flood,Labor,2,LOC00351,2026-09-08T09:00:00+00:00,0.778,DEMO event text 0351; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00352,NEWS00352,Port Disruption,Operational,2,LOC00352,2026-09-08T08:00:00+00:00,0.753,DEMO event text 0352; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00353,NEWS00353,Fire,Cyber,4,LOC00353,2026-09-08T07:00:00+00:00,0.755,DEMO event text 0353; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00354,NEWS00354,Earthquake,Operational,2,LOC00354,2026-09-08T06:00:00+00:00,0.779,DEMO event text 0354; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00355,NEWS00355,Storm,Labor,1,LOC00355,2026-09-08T05:00:00+00:00,0.875,DEMO event text 0355; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00356,NEWS00356,Labor Disruption,Labor,1,LOC00356,2026-09-08T04:00:00+00:00,0.926,DEMO event text 0356; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00357,NEWS00357,Road Closure,Natural Hazard,2,LOC00357,2026-09-08T03:00:00+00:00,0.919,DEMO event text 0357; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00358,NEWS00358,Power Outage,Infrastructure,2,LOC00358,2026-09-08T02:00:00+00:00,0.948,DEMO event text 0358; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00359,NEWS00359,Cyber Incident,Natural Hazard,5,LOC00359,2026-09-08T01:00:00+00:00,0.977,DEMO event text 0359; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00360,NEWS00360,Factory Shutdown,Labor,5,LOC00360,2026-09-08T00:00:00+00:00,0.803,DEMO event text 0360; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00361,NEWS00361,Flood,Operational,1,LOC00361,2026-09-07T23:00:00+00:00,0.98,DEMO event text 0361; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00362,NEWS00362,Port Disruption,Labor,4,LOC00362,2026-09-07T22:00:00+00:00,0.836,DEMO event text 0362; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00363,NEWS00363,Fire,Natural Hazard,1,LOC00363,2026-09-07T21:00:00+00:00,0.858,DEMO event text 0363; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00364,NEWS00364,Earthquake,Natural Hazard,3,LOC00364,2026-09-07T20:00:00+00:00,0.966,DEMO event text 0364; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00365,NEWS00365,Storm,Cyber,1,LOC00365,2026-09-07T19:00:00+00:00,0.769,DEMO event text 0365; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00366,NEWS00366,Labor Disruption,Operational,2,LOC00366,2026-09-07T18:00:00+00:00,0.981,DEMO event text 0366; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00367,NEWS00367,Road Closure,Labor,1,LOC00367,2026-09-07T17:00:00+00:00,0.853,DEMO event text 0367; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00368,NEWS00368,Power Outage,Natural Hazard,5,LOC00368,2026-09-07T16:00:00+00:00,0.913,DEMO event text 0368; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00369,NEWS00369,Cyber Incident,Infrastructure,1,LOC00369,2026-09-07T15:00:00+00:00,0.859,DEMO event text 0369; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00370,NEWS00370,Factory Shutdown,Operational,5,LOC00370,2026-09-07T14:00:00+00:00,0.941,DEMO event text 0370; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00371,NEWS00371,Flood,Natural Hazard,5,LOC00371,2026-09-07T13:00:00+00:00,0.886,DEMO event text 0371; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00372,NEWS00372,Port Disruption,Operational,1,LOC00372,2026-09-07T12:00:00+00:00,0.95,DEMO event text 0372; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00373,NEWS00373,Fire,Infrastructure,1,LOC00373,2026-09-07T11:00:00+00:00,0.791,DEMO event text 0373; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00374,NEWS00374,Earthquake,Natural Hazard,3,LOC00374,2026-09-07T10:00:00+00:00,0.967,DEMO event text 0374; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00375,NEWS00375,Storm,Natural Hazard,1,LOC00375,2026-09-07T09:00:00+00:00,0.929,DEMO event text 0375; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00376,NEWS00376,Labor Disruption,Cyber,5,LOC00376,2026-09-07T08:00:00+00:00,0.803,DEMO event text 0376; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00377,NEWS00377,Road Closure,Cyber,1,LOC00377,2026-09-07T07:00:00+00:00,0.964,DEMO event text 0377; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00378,NEWS00378,Power Outage,Operational,3,LOC00378,2026-09-07T06:00:00+00:00,0.951,DEMO event text 0378; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00379,NEWS00379,Cyber Incident,Operational,2,LOC00379,2026-09-07T05:00:00+00:00,0.963,DEMO event text 0379; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00380,NEWS00380,Factory Shutdown,Infrastructure,3,LOC00380,2026-09-07T04:00:00+00:00,0.891,DEMO event text 0380; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00381,NEWS00381,Flood,Operational,4,LOC00381,2026-09-07T03:00:00+00:00,0.938,DEMO event text 0381; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00382,NEWS00382,Port Disruption,Labor,3,LOC00382,2026-09-07T02:00:00+00:00,0.864,DEMO event text 0382; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00383,NEWS00383,Fire,Labor,5,LOC00383,2026-09-07T01:00:00+00:00,0.772,DEMO event text 0383; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00384,NEWS00384,Earthquake,Cyber,1,LOC00384,2026-09-07T00:00:00+00:00,0.944,DEMO event text 0384; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00385,NEWS00385,Storm,Natural Hazard,5,LOC00385,2026-09-06T23:00:00+00:00,0.98,DEMO event text 0385; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00386,NEWS00386,Labor Disruption,Infrastructure,5,LOC00386,2026-09-06T22:00:00+00:00,0.816,DEMO event text 0386; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00387,NEWS00387,Road Closure,Labor,1,LOC00387,2026-09-06T21:00:00+00:00,0.894,DEMO event text 0387; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00388,NEWS00388,Power Outage,Cyber,4,LOC00388,2026-09-06T20:00:00+00:00,0.921,DEMO event text 0388; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00389,NEWS00389,Cyber Incident,Labor,2,LOC00389,2026-09-06T19:00:00+00:00,0.813,DEMO event text 0389; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00390,NEWS00390,Factory Shutdown,Infrastructure,5,LOC00390,2026-09-06T18:00:00+00:00,0.779,DEMO event text 0390; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00391,NEWS00391,Flood,Natural Hazard,1,LOC00391,2026-09-06T17:00:00+00:00,0.841,DEMO event text 0391; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00392,NEWS00392,Port Disruption,Cyber,2,LOC00392,2026-09-06T16:00:00+00:00,0.847,DEMO event text 0392; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00393,NEWS00393,Fire,Infrastructure,2,LOC00393,2026-09-06T15:00:00+00:00,0.959,DEMO event text 0393; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00394,NEWS00394,Earthquake,Operational,3,LOC00394,2026-09-06T14:00:00+00:00,0.867,DEMO event text 0394; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00395,NEWS00395,Storm,Natural Hazard,5,LOC00395,2026-09-06T13:00:00+00:00,0.77,DEMO event text 0395; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00396,NEWS00396,Labor Disruption,Infrastructure,4,LOC00396,2026-09-06T12:00:00+00:00,0.806,DEMO event text 0396; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00397,NEWS00397,Road Closure,Operational,2,LOC00397,2026-09-06T11:00:00+00:00,0.88,DEMO event text 0397; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00398,NEWS00398,Power Outage,Natural Hazard,3,LOC00398,2026-09-06T10:00:00+00:00,0.909,DEMO event text 0398; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00399,NEWS00399,Cyber Incident,Infrastructure,3,LOC00399,2026-09-06T09:00:00+00:00,0.841,DEMO event text 0399; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00400,NEWS00400,Factory Shutdown,Cyber,2,LOC00400,2026-09-06T08:00:00+00:00,0.866,DEMO event text 0400; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00401,NEWS00401,Flood,Labor,4,LOC00401,2026-09-06T07:00:00+00:00,0.868,DEMO event text 0401; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00402,NEWS00402,Port Disruption,Labor,4,LOC00402,2026-09-06T06:00:00+00:00,0.935,DEMO event text 0402; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00403,NEWS00403,Fire,Infrastructure,5,LOC00403,2026-09-06T05:00:00+00:00,0.892,DEMO event text 0403; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00404,NEWS00404,Earthquake,Natural Hazard,5,LOC00404,2026-09-06T04:00:00+00:00,0.772,DEMO event text 0404; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00405,NEWS00405,Storm,Operational,1,LOC00405,2026-09-06T03:00:00+00:00,0.837,DEMO event text 0405; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00406,NEWS00406,Labor Disruption,Cyber,5,LOC00406,2026-09-06T02:00:00+00:00,0.922,DEMO event text 0406; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00407,NEWS00407,Road Closure,Cyber,5,LOC00407,2026-09-06T01:00:00+00:00,0.76,DEMO event text 0407; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00408,NEWS00408,Power Outage,Natural Hazard,2,LOC00408,2026-09-06T00:00:00+00:00,0.819,DEMO event text 0408; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00409,NEWS00409,Cyber Incident,Infrastructure,1,LOC00409,2026-09-05T23:00:00+00:00,0.844,DEMO event text 0409; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00410,NEWS00410,Factory Shutdown,Infrastructure,3,LOC00410,2026-09-05T22:00:00+00:00,0.811,DEMO event text 0410; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00411,NEWS00411,Flood,Infrastructure,2,LOC00411,2026-09-05T21:00:00+00:00,0.855,DEMO event text 0411; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00412,NEWS00412,Port Disruption,Operational,3,LOC00412,2026-09-05T20:00:00+00:00,0.778,DEMO event text 0412; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00413,NEWS00413,Fire,Infrastructure,1,LOC00413,2026-09-05T19:00:00+00:00,0.791,DEMO event text 0413; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00414,NEWS00414,Earthquake,Natural Hazard,2,LOC00414,2026-09-05T18:00:00+00:00,0.768,DEMO event text 0414; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00415,NEWS00415,Storm,Operational,4,LOC00415,2026-09-05T17:00:00+00:00,0.88,DEMO event text 0415; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00416,NEWS00416,Labor Disruption,Infrastructure,4,LOC00416,2026-09-05T16:00:00+00:00,0.974,DEMO event text 0416; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00417,NEWS00417,Road Closure,Labor,4,LOC00417,2026-09-05T15:00:00+00:00,0.914,DEMO event text 0417; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00418,NEWS00418,Power Outage,Natural Hazard,2,LOC00418,2026-09-05T14:00:00+00:00,0.875,DEMO event text 0418; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00419,NEWS00419,Cyber Incident,Natural Hazard,3,LOC00419,2026-09-05T13:00:00+00:00,0.911,DEMO event text 0419; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00420,NEWS00420,Factory Shutdown,Cyber,2,LOC00420,2026-09-05T12:00:00+00:00,0.787,DEMO event text 0420; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00421,NEWS00421,Flood,Infrastructure,3,LOC00421,2026-09-05T11:00:00+00:00,0.935,DEMO event text 0421; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00422,NEWS00422,Port Disruption,Labor,5,LOC00422,2026-09-05T10:00:00+00:00,0.977,DEMO event text 0422; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00423,NEWS00423,Fire,Operational,5,LOC00423,2026-09-05T09:00:00+00:00,0.931,DEMO event text 0423; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00424,NEWS00424,Earthquake,Natural Hazard,2,LOC00424,2026-09-05T08:00:00+00:00,0.804,DEMO event text 0424; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00425,NEWS00425,Storm,Cyber,5,LOC00425,2026-09-05T07:00:00+00:00,0.766,DEMO event text 0425; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00426,NEWS00426,Labor Disruption,Operational,4,LOC00426,2026-09-05T06:00:00+00:00,0.897,DEMO event text 0426; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00427,NEWS00427,Road Closure,Cyber,4,LOC00427,2026-09-05T05:00:00+00:00,0.934,DEMO event text 0427; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00428,NEWS00428,Power Outage,Natural Hazard,5,LOC00428,2026-09-05T04:00:00+00:00,0.917,DEMO event text 0428; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00429,NEWS00429,Cyber Incident,Labor,5,LOC00429,2026-09-05T03:00:00+00:00,0.966,DEMO event text 0429; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00430,NEWS00430,Factory Shutdown,Infrastructure,5,LOC00430,2026-09-05T02:00:00+00:00,0.753,DEMO event text 0430; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00431,NEWS00431,Flood,Operational,3,LOC00431,2026-09-05T01:00:00+00:00,0.845,DEMO event text 0431; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00432,NEWS00432,Port Disruption,Natural Hazard,3,LOC00432,2026-09-05T00:00:00+00:00,0.938,DEMO event text 0432; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00433,NEWS00433,Fire,Labor,3,LOC00433,2026-09-04T23:00:00+00:00,0.983,DEMO event text 0433; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00434,NEWS00434,Earthquake,Operational,5,LOC00434,2026-09-04T22:00:00+00:00,0.928,DEMO event text 0434; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00435,NEWS00435,Storm,Natural Hazard,2,LOC00435,2026-09-04T21:00:00+00:00,0.789,DEMO event text 0435; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00436,NEWS00436,Labor Disruption,Infrastructure,5,LOC00436,2026-09-04T20:00:00+00:00,0.847,DEMO event text 0436; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00437,NEWS00437,Road Closure,Cyber,1,LOC00437,2026-09-04T19:00:00+00:00,0.895,DEMO event text 0437; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00438,NEWS00438,Power Outage,Labor,5,LOC00438,2026-09-04T18:00:00+00:00,0.944,DEMO event text 0438; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00439,NEWS00439,Cyber Incident,Labor,2,LOC00439,2026-09-04T17:00:00+00:00,0.972,DEMO event text 0439; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00440,NEWS00440,Factory Shutdown,Operational,3,LOC00440,2026-09-04T16:00:00+00:00,0.846,DEMO event text 0440; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00441,NEWS00441,Flood,Natural Hazard,3,LOC00441,2026-09-04T15:00:00+00:00,0.931,DEMO event text 0441; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00442,NEWS00442,Port Disruption,Infrastructure,2,LOC00442,2026-09-04T14:00:00+00:00,0.867,DEMO event text 0442; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00443,NEWS00443,Fire,Natural Hazard,4,LOC00443,2026-09-04T13:00:00+00:00,0.823,DEMO event text 0443; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00444,NEWS00444,Earthquake,Labor,3,LOC00444,2026-09-04T12:00:00+00:00,0.915,DEMO event text 0444; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00445,NEWS00445,Storm,Natural Hazard,2,LOC00445,2026-09-04T11:00:00+00:00,0.837,DEMO event text 0445; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00446,NEWS00446,Labor Disruption,Natural Hazard,2,LOC00446,2026-09-04T10:00:00+00:00,0.954,DEMO event text 0446; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00447,NEWS00447,Road Closure,Infrastructure,5,LOC00447,2026-09-04T09:00:00+00:00,0.912,DEMO event text 0447; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00448,NEWS00448,Power Outage,Operational,5,LOC00448,2026-09-04T08:00:00+00:00,0.788,DEMO event text 0448; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00449,NEWS00449,Cyber Incident,Operational,1,LOC00449,2026-09-04T07:00:00+00:00,0.774,DEMO event text 0449; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00450,NEWS00450,Factory Shutdown,Labor,5,LOC00450,2026-09-04T06:00:00+00:00,0.988,DEMO event text 0450; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00451,NEWS00451,Flood,Cyber,5,LOC00451,2026-09-04T05:00:00+00:00,0.818,DEMO event text 0451; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00452,NEWS00452,Port Disruption,Labor,3,LOC00452,2026-09-04T04:00:00+00:00,0.845,DEMO event text 0452; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00453,NEWS00453,Fire,Cyber,5,LOC00453,2026-09-04T03:00:00+00:00,0.866,DEMO event text 0453; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00454,NEWS00454,Earthquake,Operational,5,LOC00454,2026-09-04T02:00:00+00:00,0.951,DEMO event text 0454; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00455,NEWS00455,Storm,Labor,5,LOC00455,2026-09-04T01:00:00+00:00,0.916,DEMO event text 0455; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00456,NEWS00456,Labor Disruption,Cyber,1,LOC00456,2026-09-04T00:00:00+00:00,0.774,DEMO event text 0456; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00457,NEWS00457,Road Closure,Cyber,3,LOC00457,2026-09-03T23:00:00+00:00,0.844,DEMO event text 0457; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00458,NEWS00458,Power Outage,Infrastructure,3,LOC00458,2026-09-03T22:00:00+00:00,0.895,DEMO event text 0458; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00459,NEWS00459,Cyber Incident,Natural Hazard,5,LOC00459,2026-09-03T21:00:00+00:00,0.928,DEMO event text 0459; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00460,NEWS00460,Factory Shutdown,Cyber,1,LOC00460,2026-09-03T20:00:00+00:00,0.895,DEMO event text 0460; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00461,NEWS00461,Flood,Cyber,4,LOC00461,2026-09-03T19:00:00+00:00,0.807,DEMO event text 0461; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00462,NEWS00462,Port Disruption,Infrastructure,4,LOC00462,2026-09-03T18:00:00+00:00,0.842,DEMO event text 0462; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00463,NEWS00463,Fire,Cyber,5,LOC00463,2026-09-03T17:00:00+00:00,0.988,DEMO event text 0463; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00464,NEWS00464,Earthquake,Labor,5,LOC00464,2026-09-03T16:00:00+00:00,0.93,DEMO event text 0464; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00465,NEWS00465,Storm,Natural Hazard,4,LOC00465,2026-09-03T15:00:00+00:00,0.848,DEMO event text 0465; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00466,NEWS00466,Labor Disruption,Operational,5,LOC00466,2026-09-03T14:00:00+00:00,0.901,DEMO event text 0466; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00467,NEWS00467,Road Closure,Natural Hazard,5,LOC00467,2026-09-03T13:00:00+00:00,0.809,DEMO event text 0467; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00468,NEWS00468,Power Outage,Infrastructure,2,LOC00468,2026-09-03T12:00:00+00:00,0.912,DEMO event text 0468; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00469,NEWS00469,Cyber Incident,Cyber,3,LOC00469,2026-09-03T11:00:00+00:00,0.946,DEMO event text 0469; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00470,NEWS00470,Factory Shutdown,Operational,1,LOC00470,2026-09-03T10:00:00+00:00,0.861,DEMO event text 0470; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00471,NEWS00471,Flood,Operational,1,LOC00471,2026-09-03T09:00:00+00:00,0.769,DEMO event text 0471; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00472,NEWS00472,Port Disruption,Infrastructure,2,LOC00472,2026-09-03T08:00:00+00:00,0.883,DEMO event text 0472; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00473,NEWS00473,Fire,Operational,5,LOC00473,2026-09-03T07:00:00+00:00,0.99,DEMO event text 0473; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00474,NEWS00474,Earthquake,Natural Hazard,5,LOC00474,2026-09-03T06:00:00+00:00,0.958,DEMO event text 0474; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00475,NEWS00475,Storm,Cyber,4,LOC00475,2026-09-03T05:00:00+00:00,0.916,DEMO event text 0475; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00476,NEWS00476,Labor Disruption,Natural Hazard,2,LOC00476,2026-09-03T04:00:00+00:00,0.787,DEMO event text 0476; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00477,NEWS00477,Road Closure,Operational,1,LOC00477,2026-09-03T03:00:00+00:00,0.924,DEMO event text 0477; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00478,NEWS00478,Power Outage,Cyber,5,LOC00478,2026-09-03T02:00:00+00:00,0.956,DEMO event text 0478; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00479,NEWS00479,Cyber Incident,Labor,5,LOC00479,2026-09-03T01:00:00+00:00,0.867,DEMO event text 0479; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00480,NEWS00480,Factory Shutdown,Labor,2,LOC00480,2026-09-03T00:00:00+00:00,0.796,DEMO event text 0480; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00481,NEWS00481,Flood,Labor,3,LOC00481,2026-09-02T23:00:00+00:00,0.855,DEMO event text 0481; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00482,NEWS00482,Port Disruption,Cyber,5,LOC00482,2026-09-02T22:00:00+00:00,0.928,DEMO event text 0482; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00483,NEWS00483,Fire,Operational,1,LOC00483,2026-09-02T21:00:00+00:00,0.914,DEMO event text 0483; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00484,NEWS00484,Earthquake,Labor,2,LOC00484,2026-09-02T20:00:00+00:00,0.988,DEMO event text 0484; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00485,NEWS00485,Storm,Infrastructure,4,LOC00485,2026-09-02T19:00:00+00:00,0.938,DEMO event text 0485; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00486,NEWS00486,Labor Disruption,Infrastructure,2,LOC00486,2026-09-02T18:00:00+00:00,0.863,DEMO event text 0486; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00487,NEWS00487,Road Closure,Cyber,1,LOC00487,2026-09-02T17:00:00+00:00,0.799,DEMO event text 0487; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00488,NEWS00488,Power Outage,Labor,1,LOC00488,2026-09-02T16:00:00+00:00,0.838,DEMO event text 0488; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00489,NEWS00489,Cyber Incident,Cyber,4,LOC00489,2026-09-02T15:00:00+00:00,0.806,DEMO event text 0489; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00490,NEWS00490,Factory Shutdown,Infrastructure,1,LOC00490,2026-09-02T14:00:00+00:00,0.883,DEMO event text 0490; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00491,NEWS00491,Flood,Labor,5,LOC00491,2026-09-02T13:00:00+00:00,0.901,DEMO event text 0491; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00492,NEWS00492,Port Disruption,Natural Hazard,4,LOC00492,2026-09-02T12:00:00+00:00,0.85,DEMO event text 0492; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00493,NEWS00493,Fire,Infrastructure,3,LOC00493,2026-09-02T11:00:00+00:00,0.822,DEMO event text 0493; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00494,NEWS00494,Earthquake,Infrastructure,5,LOC00494,2026-09-02T10:00:00+00:00,0.824,DEMO event text 0494; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00495,NEWS00495,Storm,Infrastructure,5,LOC00495,2026-09-02T09:00:00+00:00,0.833,DEMO event text 0495; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00496,NEWS00496,Labor Disruption,Cyber,2,LOC00496,2026-09-02T08:00:00+00:00,0.939,DEMO event text 0496; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00497,NEWS00497,Road Closure,Cyber,2,LOC00497,2026-09-02T07:00:00+00:00,0.789,DEMO event text 0497; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00498,NEWS00498,Power Outage,Operational,2,LOC00498,2026-09-02T06:00:00+00:00,0.977,DEMO event text 0498; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00499,NEWS00499,Cyber Incident,Operational,3,LOC00499,2026-09-02T05:00:00+00:00,0.76,DEMO event text 0499; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00500,NEWS00500,Factory Shutdown,Labor,2,LOC00500,2026-09-02T04:00:00+00:00,0.975,DEMO event text 0500; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00501,NEWS00501,Flood,Cyber,4,LOC00501,2026-09-02T03:00:00+00:00,0.77,DEMO event text 0501; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00502,NEWS00502,Port Disruption,Infrastructure,3,LOC00502,2026-09-02T02:00:00+00:00,0.785,DEMO event text 0502; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00503,NEWS00503,Fire,Infrastructure,4,LOC00503,2026-09-02T01:00:00+00:00,0.972,DEMO event text 0503; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00504,NEWS00504,Earthquake,Operational,5,LOC00504,2026-09-02T00:00:00+00:00,0.939,DEMO event text 0504; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00505,NEWS00505,Storm,Natural Hazard,2,LOC00505,2026-09-01T23:00:00+00:00,0.976,DEMO event text 0505; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00506,NEWS00506,Labor Disruption,Operational,4,LOC00506,2026-09-01T22:00:00+00:00,0.928,DEMO event text 0506; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00507,NEWS00507,Road Closure,Infrastructure,1,LOC00507,2026-09-01T21:00:00+00:00,0.752,DEMO event text 0507; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00508,NEWS00508,Power Outage,Natural Hazard,2,LOC00508,2026-09-01T20:00:00+00:00,0.879,DEMO event text 0508; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00509,NEWS00509,Cyber Incident,Natural Hazard,5,LOC00509,2026-09-01T19:00:00+00:00,0.934,DEMO event text 0509; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00510,NEWS00510,Factory Shutdown,Infrastructure,4,LOC00510,2026-09-01T18:00:00+00:00,0.976,DEMO event text 0510; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00511,NEWS00511,Flood,Cyber,5,LOC00511,2026-09-01T17:00:00+00:00,0.856,DEMO event text 0511; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00512,NEWS00512,Port Disruption,Cyber,4,LOC00512,2026-09-01T16:00:00+00:00,0.987,DEMO event text 0512; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00513,NEWS00513,Fire,Cyber,3,LOC00513,2026-09-01T15:00:00+00:00,0.751,DEMO event text 0513; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00514,NEWS00514,Earthquake,Labor,2,LOC00514,2026-09-01T14:00:00+00:00,0.872,DEMO event text 0514; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00515,NEWS00515,Storm,Cyber,2,LOC00515,2026-09-01T13:00:00+00:00,0.835,DEMO event text 0515; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00516,NEWS00516,Labor Disruption,Operational,4,LOC00516,2026-09-01T12:00:00+00:00,0.932,DEMO event text 0516; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00517,NEWS00517,Road Closure,Operational,4,LOC00517,2026-09-01T11:00:00+00:00,0.882,DEMO event text 0517; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00518,NEWS00518,Power Outage,Infrastructure,4,LOC00518,2026-09-01T10:00:00+00:00,0.87,DEMO event text 0518; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00519,NEWS00519,Cyber Incident,Cyber,4,LOC00519,2026-09-01T09:00:00+00:00,0.923,DEMO event text 0519; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00520,NEWS00520,Factory Shutdown,Natural Hazard,2,LOC00520,2026-09-01T08:00:00+00:00,0.802,DEMO event text 0520; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00521,NEWS00521,Flood,Cyber,5,LOC00521,2026-09-01T07:00:00+00:00,0.911,DEMO event text 0521; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00522,NEWS00522,Port Disruption,Operational,3,LOC00522,2026-09-01T06:00:00+00:00,0.959,DEMO event text 0522; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00523,NEWS00523,Fire,Labor,3,LOC00523,2026-09-01T05:00:00+00:00,0.821,DEMO event text 0523; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00524,NEWS00524,Earthquake,Natural Hazard,5,LOC00524,2026-09-01T04:00:00+00:00,0.95,DEMO event text 0524; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00525,NEWS00525,Storm,Labor,4,LOC00525,2026-09-01T03:00:00+00:00,0.823,DEMO event text 0525; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00526,NEWS00526,Labor Disruption,Infrastructure,2,LOC00526,2026-09-01T02:00:00+00:00,0.866,DEMO event text 0526; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00527,NEWS00527,Road Closure,Labor,5,LOC00527,2026-09-01T01:00:00+00:00,0.981,DEMO event text 0527; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00528,NEWS00528,Power Outage,Operational,4,LOC00528,2026-09-01T00:00:00+00:00,0.862,DEMO event text 0528; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00529,NEWS00529,Cyber Incident,Labor,4,LOC00529,2026-08-31T23:00:00+00:00,0.807,DEMO event text 0529; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00530,NEWS00530,Factory Shutdown,Labor,5,LOC00530,2026-08-31T22:00:00+00:00,0.913,DEMO event text 0530; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00531,NEWS00531,Flood,Labor,4,LOC00531,2026-08-31T21:00:00+00:00,0.924,DEMO event text 0531; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00532,NEWS00532,Port Disruption,Operational,2,LOC00532,2026-08-31T20:00:00+00:00,0.764,DEMO event text 0532; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00533,NEWS00533,Fire,Cyber,3,LOC00533,2026-08-31T19:00:00+00:00,0.9,DEMO event text 0533; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00534,NEWS00534,Earthquake,Operational,1,LOC00534,2026-08-31T18:00:00+00:00,0.91,DEMO event text 0534; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00535,NEWS00535,Storm,Natural Hazard,2,LOC00535,2026-08-31T17:00:00+00:00,0.811,DEMO event text 0535; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00536,NEWS00536,Labor Disruption,Natural Hazard,2,LOC00536,2026-08-31T16:00:00+00:00,0.836,DEMO event text 0536; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00537,NEWS00537,Road Closure,Operational,3,LOC00537,2026-08-31T15:00:00+00:00,0.942,DEMO event text 0537; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00538,NEWS00538,Power Outage,Labor,5,LOC00538,2026-08-31T14:00:00+00:00,0.858,DEMO event text 0538; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00539,NEWS00539,Cyber Incident,Cyber,5,LOC00539,2026-08-31T13:00:00+00:00,0.924,DEMO event text 0539; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00540,NEWS00540,Factory Shutdown,Natural Hazard,5,LOC00540,2026-08-31T12:00:00+00:00,0.814,DEMO event text 0540; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00541,NEWS00541,Flood,Cyber,5,LOC00541,2026-08-31T11:00:00+00:00,0.8,DEMO event text 0541; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00542,NEWS00542,Port Disruption,Operational,4,LOC00542,2026-08-31T10:00:00+00:00,0.925,DEMO event text 0542; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00543,NEWS00543,Fire,Natural Hazard,3,LOC00543,2026-08-31T09:00:00+00:00,0.948,DEMO event text 0543; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00544,NEWS00544,Earthquake,Operational,2,LOC00544,2026-08-31T08:00:00+00:00,0.922,DEMO event text 0544; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00545,NEWS00545,Storm,Infrastructure,3,LOC00545,2026-08-31T07:00:00+00:00,0.789,DEMO event text 0545; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00546,NEWS00546,Labor Disruption,Infrastructure,5,LOC00546,2026-08-31T06:00:00+00:00,0.893,DEMO event text 0546; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00547,NEWS00547,Road Closure,Operational,3,LOC00547,2026-08-31T05:00:00+00:00,0.823,DEMO event text 0547; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00548,NEWS00548,Power Outage,Cyber,1,LOC00548,2026-08-31T04:00:00+00:00,0.823,DEMO event text 0548; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00549,NEWS00549,Cyber Incident,Cyber,2,LOC00549,2026-08-31T03:00:00+00:00,0.93,DEMO event text 0549; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00550,NEWS00550,Factory Shutdown,Operational,2,LOC00550,2026-08-31T02:00:00+00:00,0.774,DEMO event text 0550; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00551,NEWS00551,Flood,Operational,3,LOC00551,2026-08-31T01:00:00+00:00,0.85,DEMO event text 0551; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00552,NEWS00552,Port Disruption,Natural Hazard,2,LOC00552,2026-08-31T00:00:00+00:00,0.928,DEMO event text 0552; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00553,NEWS00553,Fire,Labor,4,LOC00553,2026-08-30T23:00:00+00:00,0.773,DEMO event text 0553; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00554,NEWS00554,Earthquake,Labor,4,LOC00554,2026-08-30T22:00:00+00:00,0.811,DEMO event text 0554; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00555,NEWS00555,Storm,Operational,5,LOC00555,2026-08-30T21:00:00+00:00,0.916,DEMO event text 0555; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00556,NEWS00556,Labor Disruption,Infrastructure,3,LOC00556,2026-08-30T20:00:00+00:00,0.811,DEMO event text 0556; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00557,NEWS00557,Road Closure,Infrastructure,2,LOC00557,2026-08-30T19:00:00+00:00,0.896,DEMO event text 0557; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00558,NEWS00558,Power Outage,Natural Hazard,5,LOC00558,2026-08-30T18:00:00+00:00,0.785,DEMO event text 0558; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00559,NEWS00559,Cyber Incident,Cyber,1,LOC00559,2026-08-30T17:00:00+00:00,0.915,DEMO event text 0559; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00560,NEWS00560,Factory Shutdown,Labor,5,LOC00560,2026-08-30T16:00:00+00:00,0.982,DEMO event text 0560; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00561,NEWS00561,Flood,Infrastructure,1,LOC00561,2026-08-30T15:00:00+00:00,0.861,DEMO event text 0561; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00562,NEWS00562,Port Disruption,Labor,1,LOC00562,2026-08-30T14:00:00+00:00,0.914,DEMO event text 0562; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00563,NEWS00563,Fire,Infrastructure,3,LOC00563,2026-08-30T13:00:00+00:00,0.851,DEMO event text 0563; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00564,NEWS00564,Earthquake,Operational,3,LOC00564,2026-08-30T12:00:00+00:00,0.835,DEMO event text 0564; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00565,NEWS00565,Storm,Cyber,5,LOC00565,2026-08-30T11:00:00+00:00,0.926,DEMO event text 0565; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00566,NEWS00566,Labor Disruption,Operational,3,LOC00566,2026-08-30T10:00:00+00:00,0.981,DEMO event text 0566; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00567,NEWS00567,Road Closure,Labor,3,LOC00567,2026-08-30T09:00:00+00:00,0.813,DEMO event text 0567; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00568,NEWS00568,Power Outage,Operational,2,LOC00568,2026-08-30T08:00:00+00:00,0.829,DEMO event text 0568; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00569,NEWS00569,Cyber Incident,Cyber,3,LOC00569,2026-08-30T07:00:00+00:00,0.793,DEMO event text 0569; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00570,NEWS00570,Factory Shutdown,Labor,3,LOC00570,2026-08-30T06:00:00+00:00,0.917,DEMO event text 0570; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00571,NEWS00571,Flood,Natural Hazard,1,LOC00571,2026-08-30T05:00:00+00:00,0.778,DEMO event text 0571; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00572,NEWS00572,Port Disruption,Natural Hazard,3,LOC00572,2026-08-30T04:00:00+00:00,0.799,DEMO event text 0572; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00573,NEWS00573,Fire,Infrastructure,2,LOC00573,2026-08-30T03:00:00+00:00,0.914,DEMO event text 0573; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00574,NEWS00574,Earthquake,Operational,3,LOC00574,2026-08-30T02:00:00+00:00,0.981,DEMO event text 0574; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00575,NEWS00575,Storm,Operational,5,LOC00575,2026-08-30T01:00:00+00:00,0.854,DEMO event text 0575; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00576,NEWS00576,Labor Disruption,Cyber,3,LOC00576,2026-08-30T00:00:00+00:00,0.899,DEMO event text 0576; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00577,NEWS00577,Road Closure,Infrastructure,2,LOC00577,2026-08-29T23:00:00+00:00,0.816,DEMO event text 0577; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00578,NEWS00578,Power Outage,Cyber,1,LOC00578,2026-08-29T22:00:00+00:00,0.754,DEMO event text 0578; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00579,NEWS00579,Cyber Incident,Cyber,5,LOC00579,2026-08-29T21:00:00+00:00,0.98,DEMO event text 0579; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00580,NEWS00580,Factory Shutdown,Cyber,5,LOC00580,2026-08-29T20:00:00+00:00,0.88,DEMO event text 0580; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00581,NEWS00581,Flood,Cyber,2,LOC00581,2026-08-29T19:00:00+00:00,0.766,DEMO event text 0581; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00582,NEWS00582,Port Disruption,Operational,4,LOC00582,2026-08-29T18:00:00+00:00,0.809,DEMO event text 0582; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00583,NEWS00583,Fire,Infrastructure,3,LOC00583,2026-08-29T17:00:00+00:00,0.965,DEMO event text 0583; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00584,NEWS00584,Earthquake,Operational,1,LOC00584,2026-08-29T16:00:00+00:00,0.876,DEMO event text 0584; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00585,NEWS00585,Storm,Infrastructure,2,LOC00585,2026-08-29T15:00:00+00:00,0.93,DEMO event text 0585; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00586,NEWS00586,Labor Disruption,Cyber,3,LOC00586,2026-08-29T14:00:00+00:00,0.78,DEMO event text 0586; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00587,NEWS00587,Road Closure,Cyber,4,LOC00587,2026-08-29T13:00:00+00:00,0.94,DEMO event text 0587; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00588,NEWS00588,Power Outage,Infrastructure,2,LOC00588,2026-08-29T12:00:00+00:00,0.922,DEMO event text 0588; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00589,NEWS00589,Cyber Incident,Operational,2,LOC00589,2026-08-29T11:00:00+00:00,0.873,DEMO event text 0589; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00590,NEWS00590,Factory Shutdown,Operational,1,LOC00590,2026-08-29T10:00:00+00:00,0.939,DEMO event text 0590; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00591,NEWS00591,Flood,Labor,1,LOC00591,2026-08-29T09:00:00+00:00,0.925,DEMO event text 0591; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00592,NEWS00592,Port Disruption,Cyber,3,LOC00592,2026-08-29T08:00:00+00:00,0.904,DEMO event text 0592; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00593,NEWS00593,Fire,Natural Hazard,4,LOC00593,2026-08-29T07:00:00+00:00,0.92,DEMO event text 0593; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00594,NEWS00594,Earthquake,Natural Hazard,1,LOC00594,2026-08-29T06:00:00+00:00,0.928,DEMO event text 0594; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00595,NEWS00595,Storm,Infrastructure,3,LOC00595,2026-08-29T05:00:00+00:00,0.925,DEMO event text 0595; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00596,NEWS00596,Labor Disruption,Labor,4,LOC00596,2026-08-29T04:00:00+00:00,0.827,DEMO event text 0596; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00597,NEWS00597,Road Closure,Operational,2,LOC00597,2026-08-29T03:00:00+00:00,0.766,DEMO event text 0597; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00598,NEWS00598,Power Outage,Labor,3,LOC00598,2026-08-29T02:00:00+00:00,0.912,DEMO event text 0598; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00599,NEWS00599,Cyber Incident,Infrastructure,4,LOC00599,2026-08-29T01:00:00+00:00,0.805,DEMO event text 0599; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00600,NEWS00600,Factory Shutdown,Labor,1,LOC00600,2026-08-29T00:00:00+00:00,0.848,DEMO event text 0600; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00601,NEWS00601,Flood,Natural Hazard,1,LOC00601,2026-08-28T23:00:00+00:00,0.981,DEMO event text 0601; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00602,NEWS00602,Port Disruption,Natural Hazard,1,LOC00602,2026-08-28T22:00:00+00:00,0.829,DEMO event text 0602; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00603,NEWS00603,Fire,Cyber,1,LOC00603,2026-08-28T21:00:00+00:00,0.917,DEMO event text 0603; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00604,NEWS00604,Earthquake,Infrastructure,2,LOC00604,2026-08-28T20:00:00+00:00,0.988,DEMO event text 0604; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00605,NEWS00605,Storm,Infrastructure,1,LOC00605,2026-08-28T19:00:00+00:00,0.937,DEMO event text 0605; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00606,NEWS00606,Labor Disruption,Labor,2,LOC00606,2026-08-28T18:00:00+00:00,0.756,DEMO event text 0606; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00607,NEWS00607,Road Closure,Infrastructure,4,LOC00607,2026-08-28T17:00:00+00:00,0.928,DEMO event text 0607; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00608,NEWS00608,Power Outage,Infrastructure,5,LOC00608,2026-08-28T16:00:00+00:00,0.839,DEMO event text 0608; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00609,NEWS00609,Cyber Incident,Cyber,4,LOC00609,2026-08-28T15:00:00+00:00,0.789,DEMO event text 0609; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00610,NEWS00610,Factory Shutdown,Infrastructure,5,LOC00610,2026-08-28T14:00:00+00:00,0.98,DEMO event text 0610; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00611,NEWS00611,Flood,Labor,2,LOC00611,2026-08-28T13:00:00+00:00,0.941,DEMO event text 0611; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00612,NEWS00612,Port Disruption,Infrastructure,4,LOC00612,2026-08-28T12:00:00+00:00,0.769,DEMO event text 0612; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00613,NEWS00613,Fire,Operational,3,LOC00613,2026-08-28T11:00:00+00:00,0.765,DEMO event text 0613; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00614,NEWS00614,Earthquake,Cyber,5,LOC00614,2026-08-28T10:00:00+00:00,0.792,DEMO event text 0614; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00615,NEWS00615,Storm,Labor,1,LOC00615,2026-08-28T09:00:00+00:00,0.93,DEMO event text 0615; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00616,NEWS00616,Labor Disruption,Labor,4,LOC00616,2026-08-28T08:00:00+00:00,0.921,DEMO event text 0616; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00617,NEWS00617,Road Closure,Cyber,3,LOC00617,2026-08-28T07:00:00+00:00,0.886,DEMO event text 0617; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00618,NEWS00618,Power Outage,Operational,1,LOC00618,2026-08-28T06:00:00+00:00,0.871,DEMO event text 0618; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00619,NEWS00619,Cyber Incident,Natural Hazard,1,LOC00619,2026-08-28T05:00:00+00:00,0.877,DEMO event text 0619; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00620,NEWS00620,Factory Shutdown,Infrastructure,5,LOC00620,2026-08-28T04:00:00+00:00,0.787,DEMO event text 0620; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00621,NEWS00621,Flood,Cyber,5,LOC00621,2026-08-28T03:00:00+00:00,0.928,DEMO event text 0621; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00622,NEWS00622,Port Disruption,Infrastructure,4,LOC00622,2026-08-28T02:00:00+00:00,0.954,DEMO event text 0622; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00623,NEWS00623,Fire,Infrastructure,3,LOC00623,2026-08-28T01:00:00+00:00,0.938,DEMO event text 0623; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00624,NEWS00624,Earthquake,Labor,3,LOC00624,2026-08-28T00:00:00+00:00,0.979,DEMO event text 0624; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00625,NEWS00625,Storm,Natural Hazard,3,LOC00625,2026-08-27T23:00:00+00:00,0.78,DEMO event text 0625; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00626,NEWS00626,Labor Disruption,Labor,1,LOC00626,2026-08-27T22:00:00+00:00,0.764,DEMO event text 0626; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00627,NEWS00627,Road Closure,Infrastructure,3,LOC00627,2026-08-27T21:00:00+00:00,0.939,DEMO event text 0627; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00628,NEWS00628,Power Outage,Labor,4,LOC00628,2026-08-27T20:00:00+00:00,0.923,DEMO event text 0628; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00629,NEWS00629,Cyber Incident,Infrastructure,2,LOC00629,2026-08-27T19:00:00+00:00,0.765,DEMO event text 0629; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00630,NEWS00630,Factory Shutdown,Infrastructure,1,LOC00630,2026-08-27T18:00:00+00:00,0.844,DEMO event text 0630; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00631,NEWS00631,Flood,Natural Hazard,5,LOC00631,2026-08-27T17:00:00+00:00,0.887,DEMO event text 0631; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00632,NEWS00632,Port Disruption,Operational,2,LOC00632,2026-08-27T16:00:00+00:00,0.969,DEMO event text 0632; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00633,NEWS00633,Fire,Cyber,4,LOC00633,2026-08-27T15:00:00+00:00,0.796,DEMO event text 0633; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00634,NEWS00634,Earthquake,Cyber,5,LOC00634,2026-08-27T14:00:00+00:00,0.941,DEMO event text 0634; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00635,NEWS00635,Storm,Cyber,5,LOC00635,2026-08-27T13:00:00+00:00,0.914,DEMO event text 0635; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00636,NEWS00636,Labor Disruption,Infrastructure,3,LOC00636,2026-08-27T12:00:00+00:00,0.773,DEMO event text 0636; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00637,NEWS00637,Road Closure,Cyber,3,LOC00637,2026-08-27T11:00:00+00:00,0.871,DEMO event text 0637; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00638,NEWS00638,Power Outage,Operational,5,LOC00638,2026-08-27T10:00:00+00:00,0.965,DEMO event text 0638; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00639,NEWS00639,Cyber Incident,Cyber,1,LOC00639,2026-08-27T09:00:00+00:00,0.806,DEMO event text 0639; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00640,NEWS00640,Factory Shutdown,Cyber,4,LOC00640,2026-08-27T08:00:00+00:00,0.847,DEMO event text 0640; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00641,NEWS00641,Flood,Cyber,1,LOC00641,2026-08-27T07:00:00+00:00,0.94,DEMO event text 0641; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00642,NEWS00642,Port Disruption,Cyber,2,LOC00642,2026-08-27T06:00:00+00:00,0.767,DEMO event text 0642; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00643,NEWS00643,Fire,Labor,1,LOC00643,2026-08-27T05:00:00+00:00,0.795,DEMO event text 0643; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00644,NEWS00644,Earthquake,Operational,2,LOC00644,2026-08-27T04:00:00+00:00,0.939,DEMO event text 0644; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00645,NEWS00645,Storm,Natural Hazard,5,LOC00645,2026-08-27T03:00:00+00:00,0.923,DEMO event text 0645; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00646,NEWS00646,Labor Disruption,Cyber,5,LOC00646,2026-08-27T02:00:00+00:00,0.833,DEMO event text 0646; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00647,NEWS00647,Road Closure,Operational,5,LOC00647,2026-08-27T01:00:00+00:00,0.789,DEMO event text 0647; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00648,NEWS00648,Power Outage,Cyber,3,LOC00648,2026-08-27T00:00:00+00:00,0.917,DEMO event text 0648; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00649,NEWS00649,Cyber Incident,Cyber,4,LOC00649,2026-08-26T23:00:00+00:00,0.951,DEMO event text 0649; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00650,NEWS00650,Factory Shutdown,Natural Hazard,1,LOC00650,2026-08-26T22:00:00+00:00,0.984,DEMO event text 0650; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00651,NEWS00651,Flood,Natural Hazard,2,LOC00651,2026-08-26T21:00:00+00:00,0.974,DEMO event text 0651; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00652,NEWS00652,Port Disruption,Natural Hazard,5,LOC00652,2026-08-26T20:00:00+00:00,0.868,DEMO event text 0652; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00653,NEWS00653,Fire,Natural Hazard,3,LOC00653,2026-08-26T19:00:00+00:00,0.825,DEMO event text 0653; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00654,NEWS00654,Earthquake,Cyber,3,LOC00654,2026-08-26T18:00:00+00:00,0.855,DEMO event text 0654; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00655,NEWS00655,Storm,Cyber,4,LOC00655,2026-08-26T17:00:00+00:00,0.925,DEMO event text 0655; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00656,NEWS00656,Labor Disruption,Natural Hazard,3,LOC00656,2026-08-26T16:00:00+00:00,0.925,DEMO event text 0656; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00657,NEWS00657,Road Closure,Natural Hazard,1,LOC00657,2026-08-26T15:00:00+00:00,0.921,DEMO event text 0657; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00658,NEWS00658,Power Outage,Operational,3,LOC00658,2026-08-26T14:00:00+00:00,0.855,DEMO event text 0658; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00659,NEWS00659,Cyber Incident,Natural Hazard,4,LOC00659,2026-08-26T13:00:00+00:00,0.872,DEMO event text 0659; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00660,NEWS00660,Factory Shutdown,Labor,2,LOC00660,2026-08-26T12:00:00+00:00,0.905,DEMO event text 0660; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00661,NEWS00661,Flood,Cyber,1,LOC00661,2026-08-26T11:00:00+00:00,0.781,DEMO event text 0661; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00662,NEWS00662,Port Disruption,Infrastructure,3,LOC00662,2026-08-26T10:00:00+00:00,0.932,DEMO event text 0662; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00663,NEWS00663,Fire,Infrastructure,5,LOC00663,2026-08-26T09:00:00+00:00,0.846,DEMO event text 0663; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00664,NEWS00664,Earthquake,Infrastructure,2,LOC00664,2026-08-26T08:00:00+00:00,0.978,DEMO event text 0664; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00665,NEWS00665,Storm,Infrastructure,5,LOC00665,2026-08-26T07:00:00+00:00,0.949,DEMO event text 0665; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00666,NEWS00666,Labor Disruption,Labor,5,LOC00666,2026-08-26T06:00:00+00:00,0.976,DEMO event text 0666; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00667,NEWS00667,Road Closure,Labor,1,LOC00667,2026-08-26T05:00:00+00:00,0.888,DEMO event text 0667; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00668,NEWS00668,Power Outage,Operational,3,LOC00668,2026-08-26T04:00:00+00:00,0.759,DEMO event text 0668; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00669,NEWS00669,Cyber Incident,Natural Hazard,5,LOC00669,2026-08-26T03:00:00+00:00,0.803,DEMO event text 0669; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00670,NEWS00670,Factory Shutdown,Labor,3,LOC00670,2026-08-26T02:00:00+00:00,0.965,DEMO event text 0670; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00671,NEWS00671,Flood,Natural Hazard,5,LOC00671,2026-08-26T01:00:00+00:00,0.799,DEMO event text 0671; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00672,NEWS00672,Port Disruption,Infrastructure,2,LOC00672,2026-08-26T00:00:00+00:00,0.828,DEMO event text 0672; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00673,NEWS00673,Fire,Operational,1,LOC00673,2026-08-25T23:00:00+00:00,0.933,DEMO event text 0673; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00674,NEWS00674,Earthquake,Infrastructure,2,LOC00674,2026-08-25T22:00:00+00:00,0.787,DEMO event text 0674; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00675,NEWS00675,Storm,Infrastructure,3,LOC00675,2026-08-25T21:00:00+00:00,0.9,DEMO event text 0675; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00676,NEWS00676,Labor Disruption,Infrastructure,1,LOC00676,2026-08-25T20:00:00+00:00,0.822,DEMO event text 0676; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00677,NEWS00677,Road Closure,Labor,1,LOC00677,2026-08-25T19:00:00+00:00,0.782,DEMO event text 0677; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00678,NEWS00678,Power Outage,Infrastructure,5,LOC00678,2026-08-25T18:00:00+00:00,0.986,DEMO event text 0678; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00679,NEWS00679,Cyber Incident,Natural Hazard,5,LOC00679,2026-08-25T17:00:00+00:00,0.806,DEMO event text 0679; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00680,NEWS00680,Factory Shutdown,Natural Hazard,2,LOC00680,2026-08-25T16:00:00+00:00,0.973,DEMO event text 0680; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00681,NEWS00681,Flood,Operational,5,LOC00681,2026-08-25T15:00:00+00:00,0.795,DEMO event text 0681; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00682,NEWS00682,Port Disruption,Infrastructure,3,LOC00682,2026-08-25T14:00:00+00:00,0.819,DEMO event text 0682; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00683,NEWS00683,Fire,Operational,4,LOC00683,2026-08-25T13:00:00+00:00,0.763,DEMO event text 0683; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00684,NEWS00684,Earthquake,Natural Hazard,1,LOC00684,2026-08-25T12:00:00+00:00,0.935,DEMO event text 0684; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00685,NEWS00685,Storm,Labor,4,LOC00685,2026-08-25T11:00:00+00:00,0.983,DEMO event text 0685; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00686,NEWS00686,Labor Disruption,Labor,1,LOC00686,2026-08-25T10:00:00+00:00,0.961,DEMO event text 0686; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00687,NEWS00687,Road Closure,Operational,1,LOC00687,2026-08-25T09:00:00+00:00,0.804,DEMO event text 0687; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00688,NEWS00688,Power Outage,Infrastructure,4,LOC00688,2026-08-25T08:00:00+00:00,0.96,DEMO event text 0688; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00689,NEWS00689,Cyber Incident,Natural Hazard,1,LOC00689,2026-08-25T07:00:00+00:00,0.854,DEMO event text 0689; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00690,NEWS00690,Factory Shutdown,Cyber,2,LOC00690,2026-08-25T06:00:00+00:00,0.801,DEMO event text 0690; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00691,NEWS00691,Flood,Natural Hazard,1,LOC00691,2026-08-25T05:00:00+00:00,0.884,DEMO event text 0691; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00692,NEWS00692,Port Disruption,Labor,1,LOC00692,2026-08-25T04:00:00+00:00,0.844,DEMO event text 0692; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00693,NEWS00693,Fire,Natural Hazard,5,LOC00693,2026-08-25T03:00:00+00:00,0.901,DEMO event text 0693; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00694,NEWS00694,Earthquake,Labor,4,LOC00694,2026-08-25T02:00:00+00:00,0.756,DEMO event text 0694; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00695,NEWS00695,Storm,Infrastructure,5,LOC00695,2026-08-25T01:00:00+00:00,0.788,DEMO event text 0695; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00696,NEWS00696,Labor Disruption,Cyber,5,LOC00696,2026-08-25T00:00:00+00:00,0.77,DEMO event text 0696; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00697,NEWS00697,Road Closure,Infrastructure,2,LOC00697,2026-08-24T23:00:00+00:00,0.777,DEMO event text 0697; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00698,NEWS00698,Power Outage,Cyber,1,LOC00698,2026-08-24T22:00:00+00:00,0.816,DEMO event text 0698; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00699,NEWS00699,Cyber Incident,Infrastructure,5,LOC00699,2026-08-24T21:00:00+00:00,0.799,DEMO event text 0699; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00700,NEWS00700,Factory Shutdown,Infrastructure,2,LOC00700,2026-08-24T20:00:00+00:00,0.876,DEMO event text 0700; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00701,NEWS00701,Flood,Cyber,1,LOC00701,2026-08-24T19:00:00+00:00,0.84,DEMO event text 0701; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00702,NEWS00702,Port Disruption,Operational,1,LOC00702,2026-08-24T18:00:00+00:00,0.982,DEMO event text 0702; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00703,NEWS00703,Fire,Cyber,3,LOC00703,2026-08-24T17:00:00+00:00,0.794,DEMO event text 0703; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00704,NEWS00704,Earthquake,Infrastructure,1,LOC00704,2026-08-24T16:00:00+00:00,0.756,DEMO event text 0704; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00705,NEWS00705,Storm,Infrastructure,5,LOC00705,2026-08-24T15:00:00+00:00,0.769,DEMO event text 0705; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00706,NEWS00706,Labor Disruption,Cyber,3,LOC00706,2026-08-24T14:00:00+00:00,0.951,DEMO event text 0706; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00707,NEWS00707,Road Closure,Natural Hazard,2,LOC00707,2026-08-24T13:00:00+00:00,0.97,DEMO event text 0707; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00708,NEWS00708,Power Outage,Cyber,2,LOC00708,2026-08-24T12:00:00+00:00,0.965,DEMO event text 0708; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00709,NEWS00709,Cyber Incident,Operational,4,LOC00709,2026-08-24T11:00:00+00:00,0.786,DEMO event text 0709; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00710,NEWS00710,Factory Shutdown,Cyber,2,LOC00710,2026-08-24T10:00:00+00:00,0.874,DEMO event text 0710; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00711,NEWS00711,Flood,Cyber,3,LOC00711,2026-08-24T09:00:00+00:00,0.93,DEMO event text 0711; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00712,NEWS00712,Port Disruption,Infrastructure,2,LOC00712,2026-08-24T08:00:00+00:00,0.92,DEMO event text 0712; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00713,NEWS00713,Fire,Natural Hazard,1,LOC00713,2026-08-24T07:00:00+00:00,0.98,DEMO event text 0713; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00714,NEWS00714,Earthquake,Infrastructure,3,LOC00714,2026-08-24T06:00:00+00:00,0.858,DEMO event text 0714; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00715,NEWS00715,Storm,Cyber,1,LOC00715,2026-08-24T05:00:00+00:00,0.835,DEMO event text 0715; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00716,NEWS00716,Labor Disruption,Operational,1,LOC00716,2026-08-24T04:00:00+00:00,0.911,DEMO event text 0716; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00717,NEWS00717,Road Closure,Infrastructure,1,LOC00717,2026-08-24T03:00:00+00:00,0.821,DEMO event text 0717; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00718,NEWS00718,Power Outage,Operational,3,LOC00718,2026-08-24T02:00:00+00:00,0.895,DEMO event text 0718; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00719,NEWS00719,Cyber Incident,Operational,3,LOC00719,2026-08-24T01:00:00+00:00,0.893,DEMO event text 0719; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00720,NEWS00720,Factory Shutdown,Natural Hazard,5,LOC00720,2026-09-23T00:00:00+00:00,0.82,DEMO event text 0720; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00721,NEWS00721,Flood,Cyber,4,LOC00721,2026-09-22T23:00:00+00:00,0.937,DEMO event text 0721; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00722,NEWS00722,Port Disruption,Infrastructure,5,LOC00722,2026-09-22T22:00:00+00:00,0.877,DEMO event text 0722; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00723,NEWS00723,Fire,Operational,5,LOC00723,2026-09-22T21:00:00+00:00,0.99,DEMO event text 0723; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00724,NEWS00724,Earthquake,Labor,4,LOC00724,2026-09-22T20:00:00+00:00,0.763,DEMO event text 0724; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00725,NEWS00725,Storm,Cyber,3,LOC00725,2026-09-22T19:00:00+00:00,0.785,DEMO event text 0725; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00726,NEWS00726,Labor Disruption,Labor,1,LOC00726,2026-09-22T18:00:00+00:00,0.895,DEMO event text 0726; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00727,NEWS00727,Road Closure,Operational,5,LOC00727,2026-09-22T17:00:00+00:00,0.757,DEMO event text 0727; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00728,NEWS00728,Power Outage,Operational,4,LOC00728,2026-09-22T16:00:00+00:00,0.978,DEMO event text 0728; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00729,NEWS00729,Cyber Incident,Cyber,3,LOC00729,2026-09-22T15:00:00+00:00,0.836,DEMO event text 0729; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00730,NEWS00730,Factory Shutdown,Cyber,2,LOC00730,2026-09-22T14:00:00+00:00,0.968,DEMO event text 0730; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00731,NEWS00731,Flood,Cyber,2,LOC00731,2026-09-22T13:00:00+00:00,0.91,DEMO event text 0731; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00732,NEWS00732,Port Disruption,Operational,2,LOC00732,2026-09-22T12:00:00+00:00,0.752,DEMO event text 0732; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00733,NEWS00733,Fire,Natural Hazard,1,LOC00733,2026-09-22T11:00:00+00:00,0.852,DEMO event text 0733; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00734,NEWS00734,Earthquake,Infrastructure,1,LOC00734,2026-09-22T10:00:00+00:00,0.895,DEMO event text 0734; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00735,NEWS00735,Storm,Cyber,4,LOC00735,2026-09-22T09:00:00+00:00,0.848,DEMO event text 0735; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00736,NEWS00736,Labor Disruption,Cyber,1,LOC00736,2026-09-22T08:00:00+00:00,0.974,DEMO event text 0736; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00737,NEWS00737,Road Closure,Natural Hazard,2,LOC00737,2026-09-22T07:00:00+00:00,0.936,DEMO event text 0737; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00738,NEWS00738,Power Outage,Operational,5,LOC00738,2026-09-22T06:00:00+00:00,0.984,DEMO event text 0738; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00739,NEWS00739,Cyber Incident,Operational,1,LOC00739,2026-09-22T05:00:00+00:00,0.852,DEMO event text 0739; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00740,NEWS00740,Factory Shutdown,Cyber,2,LOC00740,2026-09-22T04:00:00+00:00,0.866,DEMO event text 0740; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00741,NEWS00741,Flood,Cyber,1,LOC00741,2026-09-22T03:00:00+00:00,0.959,DEMO event text 0741; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00742,NEWS00742,Port Disruption,Operational,1,LOC00742,2026-09-22T02:00:00+00:00,0.924,DEMO event text 0742; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00743,NEWS00743,Fire,Infrastructure,3,LOC00743,2026-09-22T01:00:00+00:00,0.846,DEMO event text 0743; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00744,NEWS00744,Earthquake,Natural Hazard,1,LOC00744,2026-09-22T00:00:00+00:00,0.91,DEMO event text 0744; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00745,NEWS00745,Storm,Natural Hazard,4,LOC00745,2026-09-21T23:00:00+00:00,0.866,DEMO event text 0745; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00746,NEWS00746,Labor Disruption,Cyber,1,LOC00746,2026-09-21T22:00:00+00:00,0.867,DEMO event text 0746; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00747,NEWS00747,Road Closure,Operational,4,LOC00747,2026-09-21T21:00:00+00:00,0.954,DEMO event text 0747; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00748,NEWS00748,Power Outage,Operational,3,LOC00748,2026-09-21T20:00:00+00:00,0.783,DEMO event text 0748; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00749,NEWS00749,Cyber Incident,Operational,2,LOC00749,2026-09-21T19:00:00+00:00,0.928,DEMO event text 0749; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00750,NEWS00750,Factory Shutdown,Cyber,2,LOC00750,2026-09-21T18:00:00+00:00,0.923,DEMO event text 0750; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00751,NEWS00751,Flood,Labor,1,LOC00751,2026-09-21T17:00:00+00:00,0.942,DEMO event text 0751; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00752,NEWS00752,Port Disruption,Cyber,3,LOC00752,2026-09-21T16:00:00+00:00,0.8,DEMO event text 0752; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00753,NEWS00753,Fire,Operational,3,LOC00753,2026-09-21T15:00:00+00:00,0.926,DEMO event text 0753; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00754,NEWS00754,Earthquake,Cyber,4,LOC00754,2026-09-21T14:00:00+00:00,0.945,DEMO event text 0754; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00755,NEWS00755,Storm,Cyber,2,LOC00755,2026-09-21T13:00:00+00:00,0.752,DEMO event text 0755; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00756,NEWS00756,Labor Disruption,Cyber,3,LOC00756,2026-09-21T12:00:00+00:00,0.86,DEMO event text 0756; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00757,NEWS00757,Road Closure,Operational,3,LOC00757,2026-09-21T11:00:00+00:00,0.892,DEMO event text 0757; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00758,NEWS00758,Power Outage,Operational,4,LOC00758,2026-09-21T10:00:00+00:00,0.91,DEMO event text 0758; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00759,NEWS00759,Cyber Incident,Cyber,2,LOC00759,2026-09-21T09:00:00+00:00,0.977,DEMO event text 0759; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00760,NEWS00760,Factory Shutdown,Natural Hazard,2,LOC00760,2026-09-21T08:00:00+00:00,0.819,DEMO event text 0760; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00761,NEWS00761,Flood,Infrastructure,5,LOC00761,2026-09-21T07:00:00+00:00,0.753,DEMO event text 0761; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00762,NEWS00762,Port Disruption,Cyber,3,LOC00762,2026-09-21T06:00:00+00:00,0.802,DEMO event text 0762; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00763,NEWS00763,Fire,Operational,4,LOC00763,2026-09-21T05:00:00+00:00,0.816,DEMO event text 0763; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00764,NEWS00764,Earthquake,Natural Hazard,1,LOC00764,2026-09-21T04:00:00+00:00,0.793,DEMO event text 0764; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00765,NEWS00765,Storm,Cyber,2,LOC00765,2026-09-21T03:00:00+00:00,0.946,DEMO event text 0765; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00766,NEWS00766,Labor Disruption,Cyber,5,LOC00766,2026-09-21T02:00:00+00:00,0.889,DEMO event text 0766; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00767,NEWS00767,Road Closure,Cyber,1,LOC00767,2026-09-21T01:00:00+00:00,0.854,DEMO event text 0767; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00768,NEWS00768,Power Outage,Operational,4,LOC00768,2026-09-21T00:00:00+00:00,0.917,DEMO event text 0768; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00769,NEWS00769,Cyber Incident,Natural Hazard,3,LOC00769,2026-09-20T23:00:00+00:00,0.904,DEMO event text 0769; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00770,NEWS00770,Factory Shutdown,Infrastructure,1,LOC00770,2026-09-20T22:00:00+00:00,0.828,DEMO event text 0770; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00771,NEWS00771,Flood,Operational,5,LOC00771,2026-09-20T21:00:00+00:00,0.972,DEMO event text 0771; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00772,NEWS00772,Port Disruption,Natural Hazard,3,LOC00772,2026-09-20T20:00:00+00:00,0.761,DEMO event text 0772; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00773,NEWS00773,Fire,Operational,1,LOC00773,2026-09-20T19:00:00+00:00,0.763,DEMO event text 0773; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00774,NEWS00774,Earthquake,Labor,5,LOC00774,2026-09-20T18:00:00+00:00,0.932,DEMO event text 0774; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00775,NEWS00775,Storm,Operational,3,LOC00775,2026-09-20T17:00:00+00:00,0.972,DEMO event text 0775; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00776,NEWS00776,Labor Disruption,Infrastructure,2,LOC00776,2026-09-20T16:00:00+00:00,0.782,DEMO event text 0776; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00777,NEWS00777,Road Closure,Operational,2,LOC00777,2026-09-20T15:00:00+00:00,0.987,DEMO event text 0777; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00778,NEWS00778,Power Outage,Natural Hazard,3,LOC00778,2026-09-20T14:00:00+00:00,0.754,DEMO event text 0778; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00779,NEWS00779,Cyber Incident,Natural Hazard,3,LOC00779,2026-09-20T13:00:00+00:00,0.952,DEMO event text 0779; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00780,NEWS00780,Factory Shutdown,Infrastructure,2,LOC00780,2026-09-20T12:00:00+00:00,0.832,DEMO event text 0780; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00781,NEWS00781,Flood,Natural Hazard,2,LOC00781,2026-09-20T11:00:00+00:00,0.854,DEMO event text 0781; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00782,NEWS00782,Port Disruption,Natural Hazard,5,LOC00782,2026-09-20T10:00:00+00:00,0.97,DEMO event text 0782; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00783,NEWS00783,Fire,Cyber,5,LOC00783,2026-09-20T09:00:00+00:00,0.773,DEMO event text 0783; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00784,NEWS00784,Earthquake,Natural Hazard,2,LOC00784,2026-09-20T08:00:00+00:00,0.904,DEMO event text 0784; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00785,NEWS00785,Storm,Operational,5,LOC00785,2026-09-20T07:00:00+00:00,0.832,DEMO event text 0785; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00786,NEWS00786,Labor Disruption,Operational,4,LOC00786,2026-09-20T06:00:00+00:00,0.839,DEMO event text 0786; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00787,NEWS00787,Road Closure,Natural Hazard,1,LOC00787,2026-09-20T05:00:00+00:00,0.893,DEMO event text 0787; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00788,NEWS00788,Power Outage,Natural Hazard,1,LOC00788,2026-09-20T04:00:00+00:00,0.861,DEMO event text 0788; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00789,NEWS00789,Cyber Incident,Operational,1,LOC00789,2026-09-20T03:00:00+00:00,0.973,DEMO event text 0789; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00790,NEWS00790,Factory Shutdown,Natural Hazard,1,LOC00790,2026-09-20T02:00:00+00:00,0.981,DEMO event text 0790; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00791,NEWS00791,Flood,Labor,4,LOC00791,2026-09-20T01:00:00+00:00,0.805,DEMO event text 0791; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00792,NEWS00792,Port Disruption,Operational,3,LOC00792,2026-09-20T00:00:00+00:00,0.901,DEMO event text 0792; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00793,NEWS00793,Fire,Labor,3,LOC00793,2026-09-19T23:00:00+00:00,0.794,DEMO event text 0793; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00794,NEWS00794,Earthquake,Infrastructure,1,LOC00794,2026-09-19T22:00:00+00:00,0.953,DEMO event text 0794; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00795,NEWS00795,Storm,Natural Hazard,2,LOC00795,2026-09-19T21:00:00+00:00,0.797,DEMO event text 0795; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00796,NEWS00796,Labor Disruption,Operational,5,LOC00796,2026-09-19T20:00:00+00:00,0.819,DEMO event text 0796; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00797,NEWS00797,Road Closure,Labor,2,LOC00797,2026-09-19T19:00:00+00:00,0.882,DEMO event text 0797; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00798,NEWS00798,Power Outage,Operational,4,LOC00798,2026-09-19T18:00:00+00:00,0.966,DEMO event text 0798; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00799,NEWS00799,Cyber Incident,Cyber,5,LOC00799,2026-09-19T17:00:00+00:00,0.837,DEMO event text 0799; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00800,NEWS00800,Factory Shutdown,Cyber,1,LOC00800,2026-09-19T16:00:00+00:00,0.85,DEMO event text 0800; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00801,NEWS00801,Flood,Infrastructure,5,LOC00801,2026-09-19T15:00:00+00:00,0.898,DEMO event text 0801; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00802,NEWS00802,Port Disruption,Natural Hazard,3,LOC00802,2026-09-19T14:00:00+00:00,0.902,DEMO event text 0802; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00803,NEWS00803,Fire,Labor,1,LOC00803,2026-09-19T13:00:00+00:00,0.972,DEMO event text 0803; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00804,NEWS00804,Earthquake,Operational,4,LOC00804,2026-09-19T12:00:00+00:00,0.809,DEMO event text 0804; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00805,NEWS00805,Storm,Operational,1,LOC00805,2026-09-19T11:00:00+00:00,0.862,DEMO event text 0805; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00806,NEWS00806,Labor Disruption,Natural Hazard,1,LOC00806,2026-09-19T10:00:00+00:00,0.897,DEMO event text 0806; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00807,NEWS00807,Road Closure,Natural Hazard,5,LOC00807,2026-09-19T09:00:00+00:00,0.814,DEMO event text 0807; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00808,NEWS00808,Power Outage,Cyber,3,LOC00808,2026-09-19T08:00:00+00:00,0.829,DEMO event text 0808; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00809,NEWS00809,Cyber Incident,Infrastructure,5,LOC00809,2026-09-19T07:00:00+00:00,0.969,DEMO event text 0809; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00810,NEWS00810,Factory Shutdown,Infrastructure,5,LOC00810,2026-09-19T06:00:00+00:00,0.889,DEMO event text 0810; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00811,NEWS00811,Flood,Cyber,3,LOC00811,2026-09-19T05:00:00+00:00,0.948,DEMO event text 0811; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00812,NEWS00812,Port Disruption,Labor,3,LOC00812,2026-09-19T04:00:00+00:00,0.794,DEMO event text 0812; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00813,NEWS00813,Fire,Labor,5,LOC00813,2026-09-19T03:00:00+00:00,0.903,DEMO event text 0813; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00814,NEWS00814,Earthquake,Cyber,1,LOC00814,2026-09-19T02:00:00+00:00,0.799,DEMO event text 0814; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00815,NEWS00815,Storm,Cyber,1,LOC00815,2026-09-19T01:00:00+00:00,0.867,DEMO event text 0815; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00816,NEWS00816,Labor Disruption,Labor,2,LOC00816,2026-09-19T00:00:00+00:00,0.794,DEMO event text 0816; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00817,NEWS00817,Road Closure,Infrastructure,5,LOC00817,2026-09-18T23:00:00+00:00,0.883,DEMO event text 0817; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00818,NEWS00818,Power Outage,Infrastructure,1,LOC00818,2026-09-18T22:00:00+00:00,0.813,DEMO event text 0818; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00819,NEWS00819,Cyber Incident,Labor,3,LOC00819,2026-09-18T21:00:00+00:00,0.826,DEMO event text 0819; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00820,NEWS00820,Factory Shutdown,Cyber,2,LOC00820,2026-09-18T20:00:00+00:00,0.814,DEMO event text 0820; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00821,NEWS00821,Flood,Labor,1,LOC00821,2026-09-18T19:00:00+00:00,0.791,DEMO event text 0821; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00822,NEWS00822,Port Disruption,Infrastructure,1,LOC00822,2026-09-18T18:00:00+00:00,0.984,DEMO event text 0822; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00823,NEWS00823,Fire,Cyber,4,LOC00823,2026-09-18T17:00:00+00:00,0.906,DEMO event text 0823; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00824,NEWS00824,Earthquake,Natural Hazard,4,LOC00824,2026-09-18T16:00:00+00:00,0.943,DEMO event text 0824; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00825,NEWS00825,Storm,Natural Hazard,5,LOC00825,2026-09-18T15:00:00+00:00,0.941,DEMO event text 0825; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00826,NEWS00826,Labor Disruption,Operational,1,LOC00826,2026-09-18T14:00:00+00:00,0.819,DEMO event text 0826; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00827,NEWS00827,Road Closure,Cyber,4,LOC00827,2026-09-18T13:00:00+00:00,0.942,DEMO event text 0827; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00828,NEWS00828,Power Outage,Labor,1,LOC00828,2026-09-18T12:00:00+00:00,0.89,DEMO event text 0828; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00829,NEWS00829,Cyber Incident,Operational,3,LOC00829,2026-09-18T11:00:00+00:00,0.981,DEMO event text 0829; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00830,NEWS00830,Factory Shutdown,Operational,5,LOC00830,2026-09-18T10:00:00+00:00,0.856,DEMO event text 0830; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00831,NEWS00831,Flood,Labor,4,LOC00831,2026-09-18T09:00:00+00:00,0.957,DEMO event text 0831; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00832,NEWS00832,Port Disruption,Operational,5,LOC00832,2026-09-18T08:00:00+00:00,0.928,DEMO event text 0832; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00833,NEWS00833,Fire,Cyber,4,LOC00833,2026-09-18T07:00:00+00:00,0.918,DEMO event text 0833; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00834,NEWS00834,Earthquake,Cyber,2,LOC00834,2026-09-18T06:00:00+00:00,0.894,DEMO event text 0834; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00835,NEWS00835,Storm,Infrastructure,2,LOC00835,2026-09-18T05:00:00+00:00,0.907,DEMO event text 0835; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00836,NEWS00836,Labor Disruption,Natural Hazard,2,LOC00836,2026-09-18T04:00:00+00:00,0.819,DEMO event text 0836; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00837,NEWS00837,Road Closure,Operational,3,LOC00837,2026-09-18T03:00:00+00:00,0.769,DEMO event text 0837; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00838,NEWS00838,Power Outage,Natural Hazard,4,LOC00838,2026-09-18T02:00:00+00:00,0.947,DEMO event text 0838; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00839,NEWS00839,Cyber Incident,Labor,2,LOC00839,2026-09-18T01:00:00+00:00,0.929,DEMO event text 0839; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00840,NEWS00840,Factory Shutdown,Operational,5,LOC00840,2026-09-18T00:00:00+00:00,0.916,DEMO event text 0840; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00841,NEWS00841,Flood,Operational,2,LOC00841,2026-09-17T23:00:00+00:00,0.871,DEMO event text 0841; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00842,NEWS00842,Port Disruption,Cyber,3,LOC00842,2026-09-17T22:00:00+00:00,0.781,DEMO event text 0842; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00843,NEWS00843,Fire,Labor,2,LOC00843,2026-09-17T21:00:00+00:00,0.924,DEMO event text 0843; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00844,NEWS00844,Earthquake,Cyber,4,LOC00844,2026-09-17T20:00:00+00:00,0.946,DEMO event text 0844; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00845,NEWS00845,Storm,Infrastructure,1,LOC00845,2026-09-17T19:00:00+00:00,0.967,DEMO event text 0845; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00846,NEWS00846,Labor Disruption,Cyber,2,LOC00846,2026-09-17T18:00:00+00:00,0.874,DEMO event text 0846; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00847,NEWS00847,Road Closure,Labor,1,LOC00847,2026-09-17T17:00:00+00:00,0.985,DEMO event text 0847; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00848,NEWS00848,Power Outage,Operational,3,LOC00848,2026-09-17T16:00:00+00:00,0.812,DEMO event text 0848; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00849,NEWS00849,Cyber Incident,Natural Hazard,2,LOC00849,2026-09-17T15:00:00+00:00,0.964,DEMO event text 0849; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00850,NEWS00850,Factory Shutdown,Infrastructure,5,LOC00850,2026-09-17T14:00:00+00:00,0.949,DEMO event text 0850; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00851,NEWS00851,Flood,Infrastructure,4,LOC00851,2026-09-17T13:00:00+00:00,0.864,DEMO event text 0851; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00852,NEWS00852,Port Disruption,Natural Hazard,2,LOC00852,2026-09-17T12:00:00+00:00,0.893,DEMO event text 0852; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00853,NEWS00853,Fire,Operational,2,LOC00853,2026-09-17T11:00:00+00:00,0.975,DEMO event text 0853; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00854,NEWS00854,Earthquake,Infrastructure,1,LOC00854,2026-09-17T10:00:00+00:00,0.952,DEMO event text 0854; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00855,NEWS00855,Storm,Labor,3,LOC00855,2026-09-17T09:00:00+00:00,0.752,DEMO event text 0855; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00856,NEWS00856,Labor Disruption,Cyber,4,LOC00856,2026-09-17T08:00:00+00:00,0.953,DEMO event text 0856; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00857,NEWS00857,Road Closure,Infrastructure,5,LOC00857,2026-09-17T07:00:00+00:00,0.862,DEMO event text 0857; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00858,NEWS00858,Power Outage,Natural Hazard,4,LOC00858,2026-09-17T06:00:00+00:00,0.753,DEMO event text 0858; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00859,NEWS00859,Cyber Incident,Cyber,5,LOC00859,2026-09-17T05:00:00+00:00,0.88,DEMO event text 0859; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00860,NEWS00860,Factory Shutdown,Labor,1,LOC00860,2026-09-17T04:00:00+00:00,0.96,DEMO event text 0860; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00861,NEWS00861,Flood,Infrastructure,2,LOC00861,2026-09-17T03:00:00+00:00,0.961,DEMO event text 0861; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00862,NEWS00862,Port Disruption,Natural Hazard,4,LOC00862,2026-09-17T02:00:00+00:00,0.892,DEMO event text 0862; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00863,NEWS00863,Fire,Labor,5,LOC00863,2026-09-17T01:00:00+00:00,0.99,DEMO event text 0863; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00864,NEWS00864,Earthquake,Cyber,3,LOC00864,2026-09-17T00:00:00+00:00,0.826,DEMO event text 0864; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00865,NEWS00865,Storm,Infrastructure,3,LOC00865,2026-09-16T23:00:00+00:00,0.945,DEMO event text 0865; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00866,NEWS00866,Labor Disruption,Natural Hazard,4,LOC00866,2026-09-16T22:00:00+00:00,0.906,DEMO event text 0866; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00867,NEWS00867,Road Closure,Infrastructure,4,LOC00867,2026-09-16T21:00:00+00:00,0.899,DEMO event text 0867; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00868,NEWS00868,Power Outage,Labor,2,LOC00868,2026-09-16T20:00:00+00:00,0.794,DEMO event text 0868; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00869,NEWS00869,Cyber Incident,Natural Hazard,2,LOC00869,2026-09-16T19:00:00+00:00,0.794,DEMO event text 0869; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00870,NEWS00870,Factory Shutdown,Operational,2,LOC00870,2026-09-16T18:00:00+00:00,0.953,DEMO event text 0870; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00871,NEWS00871,Flood,Natural Hazard,1,LOC00871,2026-09-16T17:00:00+00:00,0.892,DEMO event text 0871; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00872,NEWS00872,Port Disruption,Natural Hazard,4,LOC00872,2026-09-16T16:00:00+00:00,0.781,DEMO event text 0872; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00873,NEWS00873,Fire,Labor,2,LOC00873,2026-09-16T15:00:00+00:00,0.96,DEMO event text 0873; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00874,NEWS00874,Earthquake,Infrastructure,5,LOC00874,2026-09-16T14:00:00+00:00,0.804,DEMO event text 0874; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00875,NEWS00875,Storm,Natural Hazard,1,LOC00875,2026-09-16T13:00:00+00:00,0.819,DEMO event text 0875; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00876,NEWS00876,Labor Disruption,Natural Hazard,5,LOC00876,2026-09-16T12:00:00+00:00,0.855,DEMO event text 0876; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00877,NEWS00877,Road Closure,Infrastructure,2,LOC00877,2026-09-16T11:00:00+00:00,0.804,DEMO event text 0877; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00878,NEWS00878,Power Outage,Operational,3,LOC00878,2026-09-16T10:00:00+00:00,0.816,DEMO event text 0878; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00879,NEWS00879,Cyber Incident,Labor,3,LOC00879,2026-09-16T09:00:00+00:00,0.838,DEMO event text 0879; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00880,NEWS00880,Factory Shutdown,Operational,3,LOC00880,2026-09-16T08:00:00+00:00,0.763,DEMO event text 0880; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00881,NEWS00881,Flood,Natural Hazard,5,LOC00881,2026-09-16T07:00:00+00:00,0.817,DEMO event text 0881; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00882,NEWS00882,Port Disruption,Operational,2,LOC00882,2026-09-16T06:00:00+00:00,0.883,DEMO event text 0882; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00883,NEWS00883,Fire,Cyber,3,LOC00883,2026-09-16T05:00:00+00:00,0.799,DEMO event text 0883; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00884,NEWS00884,Earthquake,Natural Hazard,3,LOC00884,2026-09-16T04:00:00+00:00,0.839,DEMO event text 0884; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00885,NEWS00885,Storm,Infrastructure,5,LOC00885,2026-09-16T03:00:00+00:00,0.753,DEMO event text 0885; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00886,NEWS00886,Labor Disruption,Infrastructure,3,LOC00886,2026-09-16T02:00:00+00:00,0.848,DEMO event text 0886; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00887,NEWS00887,Road Closure,Infrastructure,4,LOC00887,2026-09-16T01:00:00+00:00,0.902,DEMO event text 0887; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00888,NEWS00888,Power Outage,Operational,1,LOC00888,2026-09-16T00:00:00+00:00,0.905,DEMO event text 0888; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00889,NEWS00889,Cyber Incident,Operational,4,LOC00889,2026-09-15T23:00:00+00:00,0.788,DEMO event text 0889; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00890,NEWS00890,Factory Shutdown,Labor,2,LOC00890,2026-09-15T22:00:00+00:00,0.886,DEMO event text 0890; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00891,NEWS00891,Flood,Labor,1,LOC00891,2026-09-15T21:00:00+00:00,0.775,DEMO event text 0891; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00892,NEWS00892,Port Disruption,Operational,2,LOC00892,2026-09-15T20:00:00+00:00,0.892,DEMO event text 0892; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00893,NEWS00893,Fire,Natural Hazard,3,LOC00893,2026-09-15T19:00:00+00:00,0.761,DEMO event text 0893; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00894,NEWS00894,Earthquake,Operational,4,LOC00894,2026-09-15T18:00:00+00:00,0.854,DEMO event text 0894; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00895,NEWS00895,Storm,Labor,4,LOC00895,2026-09-15T17:00:00+00:00,0.853,DEMO event text 0895; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00896,NEWS00896,Labor Disruption,Infrastructure,2,LOC00896,2026-09-15T16:00:00+00:00,0.905,DEMO event text 0896; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00897,NEWS00897,Road Closure,Labor,2,LOC00897,2026-09-15T15:00:00+00:00,0.807,DEMO event text 0897; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00898,NEWS00898,Power Outage,Natural Hazard,1,LOC00898,2026-09-15T14:00:00+00:00,0.957,DEMO event text 0898; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00899,NEWS00899,Cyber Incident,Operational,3,LOC00899,2026-09-15T13:00:00+00:00,0.972,DEMO event text 0899; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00900,NEWS00900,Factory Shutdown,Operational,5,LOC00900,2026-09-15T12:00:00+00:00,0.825,DEMO event text 0900; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00901,NEWS00901,Flood,Operational,3,LOC00901,2026-09-15T11:00:00+00:00,0.877,DEMO event text 0901; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00902,NEWS00902,Port Disruption,Cyber,5,LOC00902,2026-09-15T10:00:00+00:00,0.758,DEMO event text 0902; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00903,NEWS00903,Fire,Cyber,4,LOC00903,2026-09-15T09:00:00+00:00,0.971,DEMO event text 0903; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00904,NEWS00904,Earthquake,Infrastructure,5,LOC00904,2026-09-15T08:00:00+00:00,0.962,DEMO event text 0904; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00905,NEWS00905,Storm,Infrastructure,2,LOC00905,2026-09-15T07:00:00+00:00,0.9,DEMO event text 0905; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00906,NEWS00906,Labor Disruption,Operational,1,LOC00906,2026-09-15T06:00:00+00:00,0.84,DEMO event text 0906; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00907,NEWS00907,Road Closure,Natural Hazard,2,LOC00907,2026-09-15T05:00:00+00:00,0.935,DEMO event text 0907; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00908,NEWS00908,Power Outage,Cyber,5,LOC00908,2026-09-15T04:00:00+00:00,0.765,DEMO event text 0908; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00909,NEWS00909,Cyber Incident,Cyber,4,LOC00909,2026-09-15T03:00:00+00:00,0.926,DEMO event text 0909; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00910,NEWS00910,Factory Shutdown,Natural Hazard,2,LOC00910,2026-09-15T02:00:00+00:00,0.959,DEMO event text 0910; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00911,NEWS00911,Flood,Operational,4,LOC00911,2026-09-15T01:00:00+00:00,0.909,DEMO event text 0911; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00912,NEWS00912,Port Disruption,Infrastructure,5,LOC00912,2026-09-15T00:00:00+00:00,0.915,DEMO event text 0912; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00913,NEWS00913,Fire,Labor,1,LOC00913,2026-09-14T23:00:00+00:00,0.892,DEMO event text 0913; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00914,NEWS00914,Earthquake,Operational,2,LOC00914,2026-09-14T22:00:00+00:00,0.922,DEMO event text 0914; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00915,NEWS00915,Storm,Labor,4,LOC00915,2026-09-14T21:00:00+00:00,0.935,DEMO event text 0915; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00916,NEWS00916,Labor Disruption,Operational,1,LOC00916,2026-09-14T20:00:00+00:00,0.99,DEMO event text 0916; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00917,NEWS00917,Road Closure,Cyber,1,LOC00917,2026-09-14T19:00:00+00:00,0.82,DEMO event text 0917; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00918,NEWS00918,Power Outage,Natural Hazard,4,LOC00918,2026-09-14T18:00:00+00:00,0.873,DEMO event text 0918; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00919,NEWS00919,Cyber Incident,Operational,5,LOC00919,2026-09-14T17:00:00+00:00,0.786,DEMO event text 0919; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00920,NEWS00920,Factory Shutdown,Labor,2,LOC00920,2026-09-14T16:00:00+00:00,0.894,DEMO event text 0920; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00921,NEWS00921,Flood,Operational,2,LOC00921,2026-09-14T15:00:00+00:00,0.799,DEMO event text 0921; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00922,NEWS00922,Port Disruption,Cyber,1,LOC00922,2026-09-14T14:00:00+00:00,0.83,DEMO event text 0922; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00923,NEWS00923,Fire,Operational,5,LOC00923,2026-09-14T13:00:00+00:00,0.965,DEMO event text 0923; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00924,NEWS00924,Earthquake,Infrastructure,2,LOC00924,2026-09-14T12:00:00+00:00,0.817,DEMO event text 0924; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00925,NEWS00925,Storm,Infrastructure,5,LOC00925,2026-09-14T11:00:00+00:00,0.873,DEMO event text 0925; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00926,NEWS00926,Labor Disruption,Infrastructure,1,LOC00926,2026-09-14T10:00:00+00:00,0.886,DEMO event text 0926; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00927,NEWS00927,Road Closure,Natural Hazard,4,LOC00927,2026-09-14T09:00:00+00:00,0.797,DEMO event text 0927; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00928,NEWS00928,Power Outage,Infrastructure,2,LOC00928,2026-09-14T08:00:00+00:00,0.826,DEMO event text 0928; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00929,NEWS00929,Cyber Incident,Infrastructure,3,LOC00929,2026-09-14T07:00:00+00:00,0.904,DEMO event text 0929; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00930,NEWS00930,Factory Shutdown,Infrastructure,4,LOC00930,2026-09-14T06:00:00+00:00,0.957,DEMO event text 0930; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00931,NEWS00931,Flood,Natural Hazard,3,LOC00931,2026-09-14T05:00:00+00:00,0.848,DEMO event text 0931; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00932,NEWS00932,Port Disruption,Natural Hazard,1,LOC00932,2026-09-14T04:00:00+00:00,0.883,DEMO event text 0932; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00933,NEWS00933,Fire,Infrastructure,4,LOC00933,2026-09-14T03:00:00+00:00,0.953,DEMO event text 0933; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00934,NEWS00934,Earthquake,Labor,5,LOC00934,2026-09-14T02:00:00+00:00,0.831,DEMO event text 0934; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00935,NEWS00935,Storm,Labor,1,LOC00935,2026-09-14T01:00:00+00:00,0.952,DEMO event text 0935; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00936,NEWS00936,Labor Disruption,Labor,2,LOC00936,2026-09-14T00:00:00+00:00,0.865,DEMO event text 0936; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00937,NEWS00937,Road Closure,Labor,4,LOC00937,2026-09-13T23:00:00+00:00,0.884,DEMO event text 0937; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00938,NEWS00938,Power Outage,Operational,5,LOC00938,2026-09-13T22:00:00+00:00,0.851,DEMO event text 0938; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00939,NEWS00939,Cyber Incident,Cyber,2,LOC00939,2026-09-13T21:00:00+00:00,0.859,DEMO event text 0939; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00940,NEWS00940,Factory Shutdown,Labor,4,LOC00940,2026-09-13T20:00:00+00:00,0.891,DEMO event text 0940; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00941,NEWS00941,Flood,Operational,1,LOC00941,2026-09-13T19:00:00+00:00,0.857,DEMO event text 0941; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00942,NEWS00942,Port Disruption,Natural Hazard,5,LOC00942,2026-09-13T18:00:00+00:00,0.974,DEMO event text 0942; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00943,NEWS00943,Fire,Natural Hazard,5,LOC00943,2026-09-13T17:00:00+00:00,0.815,DEMO event text 0943; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00944,NEWS00944,Earthquake,Cyber,3,LOC00944,2026-09-13T16:00:00+00:00,0.803,DEMO event text 0944; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00945,NEWS00945,Storm,Labor,5,LOC00945,2026-09-13T15:00:00+00:00,0.862,DEMO event text 0945; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00946,NEWS00946,Labor Disruption,Natural Hazard,4,LOC00946,2026-09-13T14:00:00+00:00,0.799,DEMO event text 0946; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00947,NEWS00947,Road Closure,Infrastructure,5,LOC00947,2026-09-13T13:00:00+00:00,0.821,DEMO event text 0947; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00948,NEWS00948,Power Outage,Infrastructure,3,LOC00948,2026-09-13T12:00:00+00:00,0.908,DEMO event text 0948; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00949,NEWS00949,Cyber Incident,Infrastructure,3,LOC00949,2026-09-13T11:00:00+00:00,0.926,DEMO event text 0949; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00950,NEWS00950,Factory Shutdown,Operational,4,LOC00950,2026-09-13T10:00:00+00:00,0.884,DEMO event text 0950; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00951,NEWS00951,Flood,Cyber,4,LOC00951,2026-09-13T09:00:00+00:00,0.985,DEMO event text 0951; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00952,NEWS00952,Port Disruption,Labor,3,LOC00952,2026-09-13T08:00:00+00:00,0.81,DEMO event text 0952; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00953,NEWS00953,Fire,Cyber,5,LOC00953,2026-09-13T07:00:00+00:00,0.828,DEMO event text 0953; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00954,NEWS00954,Earthquake,Cyber,1,LOC00954,2026-09-13T06:00:00+00:00,0.8,DEMO event text 0954; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00955,NEWS00955,Storm,Natural Hazard,5,LOC00955,2026-09-13T05:00:00+00:00,0.833,DEMO event text 0955; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00956,NEWS00956,Labor Disruption,Labor,4,LOC00956,2026-09-13T04:00:00+00:00,0.948,DEMO event text 0956; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00957,NEWS00957,Road Closure,Natural Hazard,4,LOC00957,2026-09-13T03:00:00+00:00,0.979,DEMO event text 0957; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00958,NEWS00958,Power Outage,Labor,5,LOC00958,2026-09-13T02:00:00+00:00,0.859,DEMO event text 0958; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00959,NEWS00959,Cyber Incident,Infrastructure,5,LOC00959,2026-09-13T01:00:00+00:00,0.814,DEMO event text 0959; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00960,NEWS00960,Factory Shutdown,Operational,3,LOC00960,2026-09-13T00:00:00+00:00,0.934,DEMO event text 0960; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00961,NEWS00961,Flood,Labor,4,LOC00961,2026-09-12T23:00:00+00:00,0.98,DEMO event text 0961; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00962,NEWS00962,Port Disruption,Infrastructure,2,LOC00962,2026-09-12T22:00:00+00:00,0.771,DEMO event text 0962; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00963,NEWS00963,Fire,Cyber,2,LOC00963,2026-09-12T21:00:00+00:00,0.843,DEMO event text 0963; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00964,NEWS00964,Earthquake,Infrastructure,2,LOC00964,2026-09-12T20:00:00+00:00,0.925,DEMO event text 0964; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00965,NEWS00965,Storm,Infrastructure,2,LOC00965,2026-09-12T19:00:00+00:00,0.751,DEMO event text 0965; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00966,NEWS00966,Labor Disruption,Natural Hazard,1,LOC00966,2026-09-12T18:00:00+00:00,0.874,DEMO event text 0966; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00967,NEWS00967,Road Closure,Infrastructure,2,LOC00967,2026-09-12T17:00:00+00:00,0.932,DEMO event text 0967; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00968,NEWS00968,Power Outage,Infrastructure,2,LOC00968,2026-09-12T16:00:00+00:00,0.93,DEMO event text 0968; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00969,NEWS00969,Cyber Incident,Natural Hazard,2,LOC00969,2026-09-12T15:00:00+00:00,0.914,DEMO event text 0969; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00970,NEWS00970,Factory Shutdown,Infrastructure,3,LOC00970,2026-09-12T14:00:00+00:00,0.899,DEMO event text 0970; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00971,NEWS00971,Flood,Natural Hazard,5,LOC00971,2026-09-12T13:00:00+00:00,0.923,DEMO event text 0971; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00972,NEWS00972,Port Disruption,Infrastructure,3,LOC00972,2026-09-12T12:00:00+00:00,0.958,DEMO event text 0972; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00973,NEWS00973,Fire,Natural Hazard,2,LOC00973,2026-09-12T11:00:00+00:00,0.837,DEMO event text 0973; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00974,NEWS00974,Earthquake,Natural Hazard,4,LOC00974,2026-09-12T10:00:00+00:00,0.759,DEMO event text 0974; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00975,NEWS00975,Storm,Labor,3,LOC00975,2026-09-12T09:00:00+00:00,0.961,DEMO event text 0975; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00976,NEWS00976,Labor Disruption,Natural Hazard,2,LOC00976,2026-09-12T08:00:00+00:00,0.972,DEMO event text 0976; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00977,NEWS00977,Road Closure,Infrastructure,5,LOC00977,2026-09-12T07:00:00+00:00,0.973,DEMO event text 0977; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00978,NEWS00978,Power Outage,Infrastructure,4,LOC00978,2026-09-12T06:00:00+00:00,0.883,DEMO event text 0978; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00979,NEWS00979,Cyber Incident,Labor,1,LOC00979,2026-09-12T05:00:00+00:00,0.763,DEMO event text 0979; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00980,NEWS00980,Factory Shutdown,Labor,2,LOC00980,2026-09-12T04:00:00+00:00,0.99,DEMO event text 0980; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00981,NEWS00981,Flood,Infrastructure,3,LOC00981,2026-09-12T03:00:00+00:00,0.898,DEMO event text 0981; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00982,NEWS00982,Port Disruption,Labor,1,LOC00982,2026-09-12T02:00:00+00:00,0.794,DEMO event text 0982; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00983,NEWS00983,Fire,Labor,2,LOC00983,2026-09-12T01:00:00+00:00,0.794,DEMO event text 0983; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00984,NEWS00984,Earthquake,Natural Hazard,5,LOC00984,2026-09-12T00:00:00+00:00,0.925,DEMO event text 0984; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00985,NEWS00985,Storm,Natural Hazard,3,LOC00985,2026-09-11T23:00:00+00:00,0.89,DEMO event text 0985; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00986,NEWS00986,Labor Disruption,Natural Hazard,5,LOC00986,2026-09-11T22:00:00+00:00,0.845,DEMO event text 0986; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00987,NEWS00987,Road Closure,Labor,4,LOC00987,2026-09-11T21:00:00+00:00,0.972,DEMO event text 0987; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00988,NEWS00988,Power Outage,Natural Hazard,3,LOC00988,2026-09-11T20:00:00+00:00,0.905,DEMO event text 0988; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00989,NEWS00989,Cyber Incident,Operational,3,LOC00989,2026-09-11T19:00:00+00:00,0.963,DEMO event text 0989; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00990,NEWS00990,Factory Shutdown,Cyber,3,LOC00990,2026-09-11T18:00:00+00:00,0.832,DEMO event text 0990; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00991,NEWS00991,Flood,Natural Hazard,4,LOC00991,2026-09-11T17:00:00+00:00,0.814,DEMO event text 0991; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00992,NEWS00992,Port Disruption,Natural Hazard,3,LOC00992,2026-09-11T16:00:00+00:00,0.868,DEMO event text 0992; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00993,NEWS00993,Fire,Infrastructure,4,LOC00993,2026-09-11T15:00:00+00:00,0.88,DEMO event text 0993; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00994,NEWS00994,Earthquake,Operational,4,LOC00994,2026-09-11T14:00:00+00:00,0.786,DEMO event text 0994; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00995,NEWS00995,Storm,Cyber,3,LOC00995,2026-09-11T13:00:00+00:00,0.792,DEMO event text 0995; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00996,NEWS00996,Labor Disruption,Infrastructure,4,LOC00996,2026-09-11T12:00:00+00:00,0.782,DEMO event text 0996; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00997,NEWS00997,Road Closure,Labor,2,LOC00997,2026-09-11T11:00:00+00:00,0.868,DEMO event text 0997; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00998,NEWS00998,Power Outage,Labor,5,LOC00998,2026-09-11T10:00:00+00:00,0.756,DEMO event text 0998; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT00999,NEWS00999,Cyber Incident,Infrastructure,5,LOC00999,2026-09-11T09:00:00+00:00,0.967,DEMO event text 0999; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO
+EVT01000,NEWS01000,Factory Shutdown,Natural Hazard,3,LOC01000,2026-09-11T08:00:00+00:00,0.799,DEMO event text 1000; replace with NewsAPI evidence in live pipeline.,,SYNTHETIC_DEMO

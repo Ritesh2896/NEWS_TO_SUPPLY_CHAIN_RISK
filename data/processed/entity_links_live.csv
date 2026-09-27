@@ -1,0 +1,3 @@
+entity_text,linked_id,entity_type,match_method,match_score,confidence,data_status
+Apex Semiconductor Manufacturing Inc.,SUP00001,SUPPLIER,exact,1.0,0.98,REAL_DATA
+Unknown Entity,UNKNOWN,LOCATION,unresolved,0.37,0.0,REAL_DATA

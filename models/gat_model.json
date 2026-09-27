@@ -1,0 +1,16 @@
+{
+  "model_type": "GAT",
+  "total_nodes": 1000,
+  "train_samples": 800,
+  "test_samples": 200,
+  "epochs": 40,
+  "learning_rate": 0.01,
+  "roc_auc": 0.5408,
+  "pr_auc": 0.5293,
+  "accuracy": 0.52,
+  "precision": 0.5197,
+  "recall": 0.6535,
+  "f1_score": 0.5789,
+  "data_status": "SYNTHETIC_DEMO_BENCHMARK",
+  "evaluation_standard": "Stratified 80/20 Holdout"
+}

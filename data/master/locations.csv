@@ -1,0 +1,1001 @@
+location_id,location_name,location_type,country,state,city,latitude,longitude,region,source,source_date,evidence,data_status
+LOC00001,Mumbai Industrial Location 0001,Office,India,Maharashtra,Mumbai,15.137,79.431,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00002,Bengaluru Industrial Location 0002,Distribution Center,India,Karnataka,Bengaluru,22.274,90.862,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00003,Noida Industrial Location 0003,Factory,India,Uttar Pradesh,Noida,29.411,73.293,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00004,Gurugram Industrial Location 0004,Factory,India,Haryana,Gurugram,8.548,84.724,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00005,Chennai Industrial Location 0005,Distribution Center,India,Tamil Nadu,Chennai,15.685,96.155,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00006,Hyderabad Industrial Location 0006,Warehouse,India,Telangana,Hyderabad,22.822,78.586,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00007,Pune Industrial Location 0007,Warehouse,India,Maharashtra,Pune,29.959,90.017,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00008,Dhaka Industrial Location 0008,Warehouse,Bangladesh,Dhaka,Dhaka,9.096,72.448,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00009,Ho Chi Minh City Industrial Location 0009,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,16.233,83.879,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00010,Shenzhen Industrial Location 0010,Distribution Center,China,Guangdong,Shenzhen,23.37,95.31,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00011,Hsinchu Industrial Location 0011,Warehouse,Taiwan,Hsinchu,Hsinchu,30.507,77.741,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00012,Tokyo Industrial Location 0012,Distribution Center,Japan,Tokyo,Tokyo,9.644,89.172,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00013,Munich Industrial Location 0013,Office,Germany,Bavaria,Munich,16.781,71.603,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00014,Austin Industrial Location 0014,Port,USA,Texas,Austin,23.918,83.034,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00015,Monterrey Industrial Location 0015,Factory,Mexico,Nuevo Leon,Monterrey,31.055,94.465,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00016,Mumbai Industrial Location 0016,Distribution Center,India,Maharashtra,Mumbai,10.192,76.896,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00017,Bengaluru Industrial Location 0017,Warehouse,India,Karnataka,Bengaluru,17.329,88.327,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00018,Noida Industrial Location 0018,Warehouse,India,Uttar Pradesh,Noida,24.466,70.758,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00019,Gurugram Industrial Location 0019,Warehouse,India,Haryana,Gurugram,31.603,82.189,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00020,Chennai Industrial Location 0020,Warehouse,India,Tamil Nadu,Chennai,10.74,93.62,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00021,Hyderabad Industrial Location 0021,Warehouse,India,Telangana,Hyderabad,17.877,76.051,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00022,Pune Industrial Location 0022,Office,India,Maharashtra,Pune,25.014,87.482,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00023,Dhaka Industrial Location 0023,Distribution Center,Bangladesh,Dhaka,Dhaka,32.151,69.913,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00024,Ho Chi Minh City Industrial Location 0024,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,11.288,81.344,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00025,Shenzhen Industrial Location 0025,Distribution Center,China,Guangdong,Shenzhen,18.425,92.775,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00026,Hsinchu Industrial Location 0026,Office,Taiwan,Hsinchu,Hsinchu,25.562,75.206,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00027,Tokyo Industrial Location 0027,Distribution Center,Japan,Tokyo,Tokyo,32.699,86.637,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00028,Munich Industrial Location 0028,Distribution Center,Germany,Bavaria,Munich,11.836,69.068,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00029,Austin Industrial Location 0029,Factory,USA,Texas,Austin,18.973,80.499,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00030,Monterrey Industrial Location 0030,Distribution Center,Mexico,Nuevo Leon,Monterrey,26.11,91.93,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00031,Mumbai Industrial Location 0031,Factory,India,Maharashtra,Mumbai,33.247,74.361,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00032,Bengaluru Industrial Location 0032,Office,India,Karnataka,Bengaluru,12.384,85.792,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00033,Noida Industrial Location 0033,Factory,India,Uttar Pradesh,Noida,19.521,68.223,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00034,Gurugram Industrial Location 0034,Port,India,Haryana,Gurugram,26.658,79.654,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00035,Chennai Industrial Location 0035,Warehouse,India,Tamil Nadu,Chennai,33.795,91.085,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00036,Hyderabad Industrial Location 0036,Factory,India,Telangana,Hyderabad,12.932,73.516,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00037,Pune Industrial Location 0037,Warehouse,India,Maharashtra,Pune,20.069,84.947,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00038,Dhaka Industrial Location 0038,Warehouse,Bangladesh,Dhaka,Dhaka,27.206,96.378,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00039,Ho Chi Minh City Industrial Location 0039,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,34.343,78.809,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00040,Shenzhen Industrial Location 0040,Warehouse,China,Guangdong,Shenzhen,13.48,90.24,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00041,Hsinchu Industrial Location 0041,Distribution Center,Taiwan,Hsinchu,Hsinchu,20.617,72.671,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00042,Tokyo Industrial Location 0042,Office,Japan,Tokyo,Tokyo,27.754,84.102,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00043,Munich Industrial Location 0043,Distribution Center,Germany,Bavaria,Munich,34.891,95.533,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00044,Austin Industrial Location 0044,Office,USA,Texas,Austin,14.028,77.964,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00045,Monterrey Industrial Location 0045,Distribution Center,Mexico,Nuevo Leon,Monterrey,21.165,89.395,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00046,Mumbai Industrial Location 0046,Office,India,Maharashtra,Mumbai,28.302,71.826,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00047,Bengaluru Industrial Location 0047,Factory,India,Karnataka,Bengaluru,35.439,83.257,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00048,Noida Industrial Location 0048,Factory,India,Uttar Pradesh,Noida,14.576,94.688,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00049,Gurugram Industrial Location 0049,Distribution Center,India,Haryana,Gurugram,21.713,77.119,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00050,Chennai Industrial Location 0050,Factory,India,Tamil Nadu,Chennai,28.85,88.55,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00051,Hyderabad Industrial Location 0051,Factory,India,Telangana,Hyderabad,35.987,70.981,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00052,Pune Industrial Location 0052,Factory,India,Maharashtra,Pune,15.124,82.412,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00053,Dhaka Industrial Location 0053,Office,Bangladesh,Dhaka,Dhaka,22.261,93.843,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00054,Ho Chi Minh City Industrial Location 0054,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,29.398,76.274,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00055,Shenzhen Industrial Location 0055,Distribution Center,China,Guangdong,Shenzhen,8.535,87.705,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00056,Hsinchu Industrial Location 0056,Port,Taiwan,Hsinchu,Hsinchu,15.672,70.136,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00057,Tokyo Industrial Location 0057,Port,Japan,Tokyo,Tokyo,22.809,81.567,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00058,Munich Industrial Location 0058,Distribution Center,Germany,Bavaria,Munich,29.946,92.998,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00059,Austin Industrial Location 0059,Factory,USA,Texas,Austin,9.083,75.429,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00060,Monterrey Industrial Location 0060,Factory,Mexico,Nuevo Leon,Monterrey,16.22,86.86,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00061,Mumbai Industrial Location 0061,Port,India,Maharashtra,Mumbai,23.357,69.291,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00062,Bengaluru Industrial Location 0062,Warehouse,India,Karnataka,Bengaluru,30.494,80.722,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00063,Noida Industrial Location 0063,Factory,India,Uttar Pradesh,Noida,9.631,92.153,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00064,Gurugram Industrial Location 0064,Warehouse,India,Haryana,Gurugram,16.768,74.584,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00065,Chennai Industrial Location 0065,Warehouse,India,Tamil Nadu,Chennai,23.905,86.015,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00066,Hyderabad Industrial Location 0066,Port,India,Telangana,Hyderabad,31.042,68.446,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00067,Pune Industrial Location 0067,Office,India,Maharashtra,Pune,10.179,79.877,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00068,Dhaka Industrial Location 0068,Warehouse,Bangladesh,Dhaka,Dhaka,17.316,91.308,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00069,Ho Chi Minh City Industrial Location 0069,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,24.453,73.739,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00070,Shenzhen Industrial Location 0070,Office,China,Guangdong,Shenzhen,31.59,85.17,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00071,Hsinchu Industrial Location 0071,Office,Taiwan,Hsinchu,Hsinchu,10.727,96.601,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00072,Tokyo Industrial Location 0072,Port,Japan,Tokyo,Tokyo,17.864,79.032,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00073,Munich Industrial Location 0073,Warehouse,Germany,Bavaria,Munich,25.001,90.463,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00074,Austin Industrial Location 0074,Distribution Center,USA,Texas,Austin,32.138,72.894,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00075,Monterrey Industrial Location 0075,Port,Mexico,Nuevo Leon,Monterrey,11.275,84.325,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00076,Mumbai Industrial Location 0076,Office,India,Maharashtra,Mumbai,18.412,95.756,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00077,Bengaluru Industrial Location 0077,Distribution Center,India,Karnataka,Bengaluru,25.549,78.187,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00078,Noida Industrial Location 0078,Distribution Center,India,Uttar Pradesh,Noida,32.686,89.618,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00079,Gurugram Industrial Location 0079,Factory,India,Haryana,Gurugram,11.823,72.049,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00080,Chennai Industrial Location 0080,Factory,India,Tamil Nadu,Chennai,18.96,83.48,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00081,Hyderabad Industrial Location 0081,Factory,India,Telangana,Hyderabad,26.097,94.911,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00082,Pune Industrial Location 0082,Office,India,Maharashtra,Pune,33.234,77.342,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00083,Dhaka Industrial Location 0083,Distribution Center,Bangladesh,Dhaka,Dhaka,12.371,88.773,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00084,Ho Chi Minh City Industrial Location 0084,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,19.508,71.204,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00085,Shenzhen Industrial Location 0085,Distribution Center,China,Guangdong,Shenzhen,26.645,82.635,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00086,Hsinchu Industrial Location 0086,Port,Taiwan,Hsinchu,Hsinchu,33.782,94.066,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00087,Tokyo Industrial Location 0087,Distribution Center,Japan,Tokyo,Tokyo,12.919,76.497,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00088,Munich Industrial Location 0088,Office,Germany,Bavaria,Munich,20.056,87.928,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00089,Austin Industrial Location 0089,Port,USA,Texas,Austin,27.193,70.359,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00090,Monterrey Industrial Location 0090,Port,Mexico,Nuevo Leon,Monterrey,34.33,81.79,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00091,Mumbai Industrial Location 0091,Warehouse,India,Maharashtra,Mumbai,13.467,93.221,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00092,Bengaluru Industrial Location 0092,Port,India,Karnataka,Bengaluru,20.604,75.652,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00093,Noida Industrial Location 0093,Warehouse,India,Uttar Pradesh,Noida,27.741,87.083,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00094,Gurugram Industrial Location 0094,Distribution Center,India,Haryana,Gurugram,34.878,69.514,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00095,Chennai Industrial Location 0095,Office,India,Tamil Nadu,Chennai,14.015,80.945,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00096,Hyderabad Industrial Location 0096,Warehouse,India,Telangana,Hyderabad,21.152,92.376,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00097,Pune Industrial Location 0097,Factory,India,Maharashtra,Pune,28.289,74.807,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00098,Dhaka Industrial Location 0098,Port,Bangladesh,Dhaka,Dhaka,35.426,86.238,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00099,Ho Chi Minh City Industrial Location 0099,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,14.563,68.669,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00100,Shenzhen Industrial Location 0100,Port,China,Guangdong,Shenzhen,21.7,80.1,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00101,Hsinchu Industrial Location 0101,Office,Taiwan,Hsinchu,Hsinchu,28.837,91.531,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00102,Tokyo Industrial Location 0102,Warehouse,Japan,Tokyo,Tokyo,35.974,73.962,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00103,Munich Industrial Location 0103,Factory,Germany,Bavaria,Munich,15.111,85.393,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00104,Austin Industrial Location 0104,Factory,USA,Texas,Austin,22.248,96.824,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00105,Monterrey Industrial Location 0105,Port,Mexico,Nuevo Leon,Monterrey,29.385,79.255,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00106,Mumbai Industrial Location 0106,Factory,India,Maharashtra,Mumbai,8.522,90.686,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00107,Bengaluru Industrial Location 0107,Factory,India,Karnataka,Bengaluru,15.659,73.117,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00108,Noida Industrial Location 0108,Warehouse,India,Uttar Pradesh,Noida,22.796,84.548,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00109,Gurugram Industrial Location 0109,Port,India,Haryana,Gurugram,29.933,95.979,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00110,Chennai Industrial Location 0110,Port,India,Tamil Nadu,Chennai,9.07,78.41,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00111,Hyderabad Industrial Location 0111,Factory,India,Telangana,Hyderabad,16.207,89.841,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00112,Pune Industrial Location 0112,Factory,India,Maharashtra,Pune,23.344,72.272,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00113,Dhaka Industrial Location 0113,Distribution Center,Bangladesh,Dhaka,Dhaka,30.481,83.703,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00114,Ho Chi Minh City Industrial Location 0114,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,9.618,95.134,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00115,Shenzhen Industrial Location 0115,Port,China,Guangdong,Shenzhen,16.755,77.565,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00116,Hsinchu Industrial Location 0116,Distribution Center,Taiwan,Hsinchu,Hsinchu,23.892,88.996,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00117,Tokyo Industrial Location 0117,Factory,Japan,Tokyo,Tokyo,31.029,71.427,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00118,Munich Industrial Location 0118,Port,Germany,Bavaria,Munich,10.166,82.858,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00119,Austin Industrial Location 0119,Factory,USA,Texas,Austin,17.303,94.289,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00120,Monterrey Industrial Location 0120,Distribution Center,Mexico,Nuevo Leon,Monterrey,24.44,76.72,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00121,Mumbai Industrial Location 0121,Port,India,Maharashtra,Mumbai,31.577,88.151,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00122,Bengaluru Industrial Location 0122,Office,India,Karnataka,Bengaluru,10.714,70.582,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00123,Noida Industrial Location 0123,Port,India,Uttar Pradesh,Noida,17.851,82.013,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00124,Gurugram Industrial Location 0124,Port,India,Haryana,Gurugram,24.988,93.444,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00125,Chennai Industrial Location 0125,Office,India,Tamil Nadu,Chennai,32.125,75.875,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00126,Hyderabad Industrial Location 0126,Distribution Center,India,Telangana,Hyderabad,11.262,87.306,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00127,Pune Industrial Location 0127,Warehouse,India,Maharashtra,Pune,18.399,69.737,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00128,Dhaka Industrial Location 0128,Warehouse,Bangladesh,Dhaka,Dhaka,25.536,81.168,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00129,Ho Chi Minh City Industrial Location 0129,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,32.673,92.599,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00130,Shenzhen Industrial Location 0130,Office,China,Guangdong,Shenzhen,11.81,75.03,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00131,Hsinchu Industrial Location 0131,Warehouse,Taiwan,Hsinchu,Hsinchu,18.947,86.461,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00132,Tokyo Industrial Location 0132,Factory,Japan,Tokyo,Tokyo,26.084,68.892,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00133,Munich Industrial Location 0133,Warehouse,Germany,Bavaria,Munich,33.221,80.323,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00134,Austin Industrial Location 0134,Office,USA,Texas,Austin,12.358,91.754,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00135,Monterrey Industrial Location 0135,Factory,Mexico,Nuevo Leon,Monterrey,19.495,74.185,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00136,Mumbai Industrial Location 0136,Distribution Center,India,Maharashtra,Mumbai,26.632,85.616,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00137,Bengaluru Industrial Location 0137,Port,India,Karnataka,Bengaluru,33.769,68.047,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00138,Noida Industrial Location 0138,Warehouse,India,Uttar Pradesh,Noida,12.906,79.478,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00139,Gurugram Industrial Location 0139,Port,India,Haryana,Gurugram,20.043,90.909,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00140,Chennai Industrial Location 0140,Distribution Center,India,Tamil Nadu,Chennai,27.18,73.34,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00141,Hyderabad Industrial Location 0141,Distribution Center,India,Telangana,Hyderabad,34.317,84.771,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00142,Pune Industrial Location 0142,Warehouse,India,Maharashtra,Pune,13.454,96.202,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00143,Dhaka Industrial Location 0143,Port,Bangladesh,Dhaka,Dhaka,20.591,78.633,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00144,Ho Chi Minh City Industrial Location 0144,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,27.728,90.064,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00145,Shenzhen Industrial Location 0145,Distribution Center,China,Guangdong,Shenzhen,34.865,72.495,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00146,Hsinchu Industrial Location 0146,Office,Taiwan,Hsinchu,Hsinchu,14.002,83.926,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00147,Tokyo Industrial Location 0147,Factory,Japan,Tokyo,Tokyo,21.139,95.357,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00148,Munich Industrial Location 0148,Distribution Center,Germany,Bavaria,Munich,28.276,77.788,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00149,Austin Industrial Location 0149,Office,USA,Texas,Austin,35.413,89.219,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00150,Monterrey Industrial Location 0150,Office,Mexico,Nuevo Leon,Monterrey,14.55,71.65,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00151,Mumbai Industrial Location 0151,Warehouse,India,Maharashtra,Mumbai,21.687,83.081,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00152,Bengaluru Industrial Location 0152,Distribution Center,India,Karnataka,Bengaluru,28.824,94.512,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00153,Noida Industrial Location 0153,Office,India,Uttar Pradesh,Noida,35.961,76.943,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00154,Gurugram Industrial Location 0154,Warehouse,India,Haryana,Gurugram,15.098,88.374,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00155,Chennai Industrial Location 0155,Warehouse,India,Tamil Nadu,Chennai,22.235,70.805,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00156,Hyderabad Industrial Location 0156,Factory,India,Telangana,Hyderabad,29.372,82.236,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00157,Pune Industrial Location 0157,Office,India,Maharashtra,Pune,8.509,93.667,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00158,Dhaka Industrial Location 0158,Office,Bangladesh,Dhaka,Dhaka,15.646,76.098,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00159,Ho Chi Minh City Industrial Location 0159,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,22.783,87.529,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00160,Shenzhen Industrial Location 0160,Office,China,Guangdong,Shenzhen,29.92,69.96,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00161,Hsinchu Industrial Location 0161,Distribution Center,Taiwan,Hsinchu,Hsinchu,9.057,81.391,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00162,Tokyo Industrial Location 0162,Warehouse,Japan,Tokyo,Tokyo,16.194,92.822,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00163,Munich Industrial Location 0163,Factory,Germany,Bavaria,Munich,23.331,75.253,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00164,Austin Industrial Location 0164,Office,USA,Texas,Austin,30.468,86.684,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00165,Monterrey Industrial Location 0165,Distribution Center,Mexico,Nuevo Leon,Monterrey,9.605,69.115,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00166,Mumbai Industrial Location 0166,Office,India,Maharashtra,Mumbai,16.742,80.546,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00167,Bengaluru Industrial Location 0167,Office,India,Karnataka,Bengaluru,23.879,91.977,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00168,Noida Industrial Location 0168,Distribution Center,India,Uttar Pradesh,Noida,31.016,74.408,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00169,Gurugram Industrial Location 0169,Port,India,Haryana,Gurugram,10.153,85.839,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00170,Chennai Industrial Location 0170,Factory,India,Tamil Nadu,Chennai,17.29,68.27,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00171,Hyderabad Industrial Location 0171,Office,India,Telangana,Hyderabad,24.427,79.701,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00172,Pune Industrial Location 0172,Office,India,Maharashtra,Pune,31.564,91.132,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00173,Dhaka Industrial Location 0173,Factory,Bangladesh,Dhaka,Dhaka,10.701,73.563,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00174,Ho Chi Minh City Industrial Location 0174,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,17.838,84.994,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00175,Shenzhen Industrial Location 0175,Warehouse,China,Guangdong,Shenzhen,24.975,96.425,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00176,Hsinchu Industrial Location 0176,Port,Taiwan,Hsinchu,Hsinchu,32.112,78.856,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00177,Tokyo Industrial Location 0177,Port,Japan,Tokyo,Tokyo,11.249,90.287,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00178,Munich Industrial Location 0178,Port,Germany,Bavaria,Munich,18.386,72.718,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00179,Austin Industrial Location 0179,Port,USA,Texas,Austin,25.523,84.149,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00180,Monterrey Industrial Location 0180,Warehouse,Mexico,Nuevo Leon,Monterrey,32.66,95.58,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00181,Mumbai Industrial Location 0181,Port,India,Maharashtra,Mumbai,11.797,78.011,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00182,Bengaluru Industrial Location 0182,Office,India,Karnataka,Bengaluru,18.934,89.442,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00183,Noida Industrial Location 0183,Port,India,Uttar Pradesh,Noida,26.071,71.873,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00184,Gurugram Industrial Location 0184,Port,India,Haryana,Gurugram,33.208,83.304,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00185,Chennai Industrial Location 0185,Office,India,Tamil Nadu,Chennai,12.345,94.735,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00186,Hyderabad Industrial Location 0186,Warehouse,India,Telangana,Hyderabad,19.482,77.166,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00187,Pune Industrial Location 0187,Factory,India,Maharashtra,Pune,26.619,88.597,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00188,Dhaka Industrial Location 0188,Factory,Bangladesh,Dhaka,Dhaka,33.756,71.028,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00189,Ho Chi Minh City Industrial Location 0189,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,12.893,82.459,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00190,Shenzhen Industrial Location 0190,Office,China,Guangdong,Shenzhen,20.03,93.89,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00191,Hsinchu Industrial Location 0191,Warehouse,Taiwan,Hsinchu,Hsinchu,27.167,76.321,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00192,Tokyo Industrial Location 0192,Office,Japan,Tokyo,Tokyo,34.304,87.752,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00193,Munich Industrial Location 0193,Office,Germany,Bavaria,Munich,13.441,70.183,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00194,Austin Industrial Location 0194,Port,USA,Texas,Austin,20.578,81.614,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00195,Monterrey Industrial Location 0195,Office,Mexico,Nuevo Leon,Monterrey,27.715,93.045,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00196,Mumbai Industrial Location 0196,Warehouse,India,Maharashtra,Mumbai,34.852,75.476,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00197,Bengaluru Industrial Location 0197,Distribution Center,India,Karnataka,Bengaluru,13.989,86.907,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00198,Noida Industrial Location 0198,Warehouse,India,Uttar Pradesh,Noida,21.126,69.338,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00199,Gurugram Industrial Location 0199,Distribution Center,India,Haryana,Gurugram,28.263,80.769,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00200,Chennai Industrial Location 0200,Port,India,Tamil Nadu,Chennai,35.4,92.2,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00201,Hyderabad Industrial Location 0201,Office,India,Telangana,Hyderabad,14.537,74.631,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00202,Pune Industrial Location 0202,Factory,India,Maharashtra,Pune,21.674,86.062,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00203,Dhaka Industrial Location 0203,Distribution Center,Bangladesh,Dhaka,Dhaka,28.811,68.493,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00204,Ho Chi Minh City Industrial Location 0204,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,35.948,79.924,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00205,Shenzhen Industrial Location 0205,Port,China,Guangdong,Shenzhen,15.085,91.355,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00206,Hsinchu Industrial Location 0206,Warehouse,Taiwan,Hsinchu,Hsinchu,22.222,73.786,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00207,Tokyo Industrial Location 0207,Warehouse,Japan,Tokyo,Tokyo,29.359,85.217,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00208,Munich Industrial Location 0208,Factory,Germany,Bavaria,Munich,8.496,96.648,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00209,Austin Industrial Location 0209,Warehouse,USA,Texas,Austin,15.633,79.079,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00210,Monterrey Industrial Location 0210,Warehouse,Mexico,Nuevo Leon,Monterrey,22.77,90.51,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00211,Mumbai Industrial Location 0211,Factory,India,Maharashtra,Mumbai,29.907,72.941,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00212,Bengaluru Industrial Location 0212,Office,India,Karnataka,Bengaluru,9.044,84.372,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00213,Noida Industrial Location 0213,Distribution Center,India,Uttar Pradesh,Noida,16.181,95.803,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00214,Gurugram Industrial Location 0214,Distribution Center,India,Haryana,Gurugram,23.318,78.234,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00215,Chennai Industrial Location 0215,Warehouse,India,Tamil Nadu,Chennai,30.455,89.665,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00216,Hyderabad Industrial Location 0216,Distribution Center,India,Telangana,Hyderabad,9.592,72.096,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00217,Pune Industrial Location 0217,Warehouse,India,Maharashtra,Pune,16.729,83.527,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00218,Dhaka Industrial Location 0218,Port,Bangladesh,Dhaka,Dhaka,23.866,94.958,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00219,Ho Chi Minh City Industrial Location 0219,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,31.003,77.389,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00220,Shenzhen Industrial Location 0220,Office,China,Guangdong,Shenzhen,10.14,88.82,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00221,Hsinchu Industrial Location 0221,Office,Taiwan,Hsinchu,Hsinchu,17.277,71.251,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00222,Tokyo Industrial Location 0222,Office,Japan,Tokyo,Tokyo,24.414,82.682,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00223,Munich Industrial Location 0223,Distribution Center,Germany,Bavaria,Munich,31.551,94.113,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00224,Austin Industrial Location 0224,Factory,USA,Texas,Austin,10.688,76.544,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00225,Monterrey Industrial Location 0225,Distribution Center,Mexico,Nuevo Leon,Monterrey,17.825,87.975,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00226,Mumbai Industrial Location 0226,Port,India,Maharashtra,Mumbai,24.962,70.406,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00227,Bengaluru Industrial Location 0227,Factory,India,Karnataka,Bengaluru,32.099,81.837,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00228,Noida Industrial Location 0228,Warehouse,India,Uttar Pradesh,Noida,11.236,93.268,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00229,Gurugram Industrial Location 0229,Office,India,Haryana,Gurugram,18.373,75.699,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00230,Chennai Industrial Location 0230,Distribution Center,India,Tamil Nadu,Chennai,25.51,87.13,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00231,Hyderabad Industrial Location 0231,Warehouse,India,Telangana,Hyderabad,32.647,69.561,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00232,Pune Industrial Location 0232,Port,India,Maharashtra,Pune,11.784,80.992,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00233,Dhaka Industrial Location 0233,Warehouse,Bangladesh,Dhaka,Dhaka,18.921,92.423,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00234,Ho Chi Minh City Industrial Location 0234,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,26.058,74.854,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00235,Shenzhen Industrial Location 0235,Distribution Center,China,Guangdong,Shenzhen,33.195,86.285,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00236,Hsinchu Industrial Location 0236,Office,Taiwan,Hsinchu,Hsinchu,12.332,68.716,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00237,Tokyo Industrial Location 0237,Warehouse,Japan,Tokyo,Tokyo,19.469,80.147,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00238,Munich Industrial Location 0238,Distribution Center,Germany,Bavaria,Munich,26.606,91.578,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00239,Austin Industrial Location 0239,Distribution Center,USA,Texas,Austin,33.743,74.009,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00240,Monterrey Industrial Location 0240,Factory,Mexico,Nuevo Leon,Monterrey,12.88,85.44,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00241,Mumbai Industrial Location 0241,Warehouse,India,Maharashtra,Mumbai,20.017,96.871,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00242,Bengaluru Industrial Location 0242,Office,India,Karnataka,Bengaluru,27.154,79.302,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00243,Noida Industrial Location 0243,Office,India,Uttar Pradesh,Noida,34.291,90.733,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00244,Gurugram Industrial Location 0244,Office,India,Haryana,Gurugram,13.428,73.164,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00245,Chennai Industrial Location 0245,Office,India,Tamil Nadu,Chennai,20.565,84.595,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00246,Hyderabad Industrial Location 0246,Factory,India,Telangana,Hyderabad,27.702,96.026,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00247,Pune Industrial Location 0247,Port,India,Maharashtra,Pune,34.839,78.457,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00248,Dhaka Industrial Location 0248,Warehouse,Bangladesh,Dhaka,Dhaka,13.976,89.888,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00249,Ho Chi Minh City Industrial Location 0249,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,21.113,72.319,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00250,Shenzhen Industrial Location 0250,Factory,China,Guangdong,Shenzhen,28.25,83.75,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00251,Hsinchu Industrial Location 0251,Port,Taiwan,Hsinchu,Hsinchu,35.387,95.181,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00252,Tokyo Industrial Location 0252,Warehouse,Japan,Tokyo,Tokyo,14.524,77.612,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00253,Munich Industrial Location 0253,Port,Germany,Bavaria,Munich,21.661,89.043,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00254,Austin Industrial Location 0254,Office,USA,Texas,Austin,28.798,71.474,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00255,Monterrey Industrial Location 0255,Port,Mexico,Nuevo Leon,Monterrey,35.935,82.905,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00256,Mumbai Industrial Location 0256,Office,India,Maharashtra,Mumbai,15.072,94.336,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00257,Bengaluru Industrial Location 0257,Factory,India,Karnataka,Bengaluru,22.209,76.767,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00258,Noida Industrial Location 0258,Factory,India,Uttar Pradesh,Noida,29.346,88.198,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00259,Gurugram Industrial Location 0259,Warehouse,India,Haryana,Gurugram,8.483,70.629,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00260,Chennai Industrial Location 0260,Factory,India,Tamil Nadu,Chennai,15.62,82.06,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00261,Hyderabad Industrial Location 0261,Factory,India,Telangana,Hyderabad,22.757,93.491,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00262,Pune Industrial Location 0262,Factory,India,Maharashtra,Pune,29.894,75.922,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00263,Dhaka Industrial Location 0263,Factory,Bangladesh,Dhaka,Dhaka,9.031,87.353,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00264,Ho Chi Minh City Industrial Location 0264,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,16.168,69.784,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00265,Shenzhen Industrial Location 0265,Port,China,Guangdong,Shenzhen,23.305,81.215,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00266,Hsinchu Industrial Location 0266,Office,Taiwan,Hsinchu,Hsinchu,30.442,92.646,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00267,Tokyo Industrial Location 0267,Office,Japan,Tokyo,Tokyo,9.579,75.077,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00268,Munich Industrial Location 0268,Warehouse,Germany,Bavaria,Munich,16.716,86.508,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00269,Austin Industrial Location 0269,Office,USA,Texas,Austin,23.853,68.939,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00270,Monterrey Industrial Location 0270,Office,Mexico,Nuevo Leon,Monterrey,30.99,80.37,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00271,Mumbai Industrial Location 0271,Factory,India,Maharashtra,Mumbai,10.127,91.801,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00272,Bengaluru Industrial Location 0272,Distribution Center,India,Karnataka,Bengaluru,17.264,74.232,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00273,Noida Industrial Location 0273,Warehouse,India,Uttar Pradesh,Noida,24.401,85.663,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00274,Gurugram Industrial Location 0274,Warehouse,India,Haryana,Gurugram,31.538,68.094,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00275,Chennai Industrial Location 0275,Factory,India,Tamil Nadu,Chennai,10.675,79.525,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00276,Hyderabad Industrial Location 0276,Distribution Center,India,Telangana,Hyderabad,17.812,90.956,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00277,Pune Industrial Location 0277,Factory,India,Maharashtra,Pune,24.949,73.387,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00278,Dhaka Industrial Location 0278,Port,Bangladesh,Dhaka,Dhaka,32.086,84.818,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00279,Ho Chi Minh City Industrial Location 0279,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,11.223,96.249,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00280,Shenzhen Industrial Location 0280,Distribution Center,China,Guangdong,Shenzhen,18.36,78.68,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00281,Hsinchu Industrial Location 0281,Port,Taiwan,Hsinchu,Hsinchu,25.497,90.111,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00282,Tokyo Industrial Location 0282,Office,Japan,Tokyo,Tokyo,32.634,72.542,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00283,Munich Industrial Location 0283,Warehouse,Germany,Bavaria,Munich,11.771,83.973,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00284,Austin Industrial Location 0284,Warehouse,USA,Texas,Austin,18.908,95.404,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00285,Monterrey Industrial Location 0285,Port,Mexico,Nuevo Leon,Monterrey,26.045,77.835,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00286,Mumbai Industrial Location 0286,Distribution Center,India,Maharashtra,Mumbai,33.182,89.266,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00287,Bengaluru Industrial Location 0287,Port,India,Karnataka,Bengaluru,12.319,71.697,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00288,Noida Industrial Location 0288,Office,India,Uttar Pradesh,Noida,19.456,83.128,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00289,Gurugram Industrial Location 0289,Distribution Center,India,Haryana,Gurugram,26.593,94.559,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00290,Chennai Industrial Location 0290,Distribution Center,India,Tamil Nadu,Chennai,33.73,76.99,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00291,Hyderabad Industrial Location 0291,Office,India,Telangana,Hyderabad,12.867,88.421,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00292,Pune Industrial Location 0292,Office,India,Maharashtra,Pune,20.004,70.852,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00293,Dhaka Industrial Location 0293,Warehouse,Bangladesh,Dhaka,Dhaka,27.141,82.283,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00294,Ho Chi Minh City Industrial Location 0294,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,34.278,93.714,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00295,Shenzhen Industrial Location 0295,Warehouse,China,Guangdong,Shenzhen,13.415,76.145,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00296,Hsinchu Industrial Location 0296,Factory,Taiwan,Hsinchu,Hsinchu,20.552,87.576,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00297,Tokyo Industrial Location 0297,Office,Japan,Tokyo,Tokyo,27.689,70.007,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00298,Munich Industrial Location 0298,Office,Germany,Bavaria,Munich,34.826,81.438,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00299,Austin Industrial Location 0299,Distribution Center,USA,Texas,Austin,13.963,92.869,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00300,Monterrey Industrial Location 0300,Factory,Mexico,Nuevo Leon,Monterrey,21.1,75.3,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00301,Mumbai Industrial Location 0301,Distribution Center,India,Maharashtra,Mumbai,28.237,86.731,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00302,Bengaluru Industrial Location 0302,Office,India,Karnataka,Bengaluru,35.374,69.162,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00303,Noida Industrial Location 0303,Distribution Center,India,Uttar Pradesh,Noida,14.511,80.593,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00304,Gurugram Industrial Location 0304,Warehouse,India,Haryana,Gurugram,21.648,92.024,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00305,Chennai Industrial Location 0305,Distribution Center,India,Tamil Nadu,Chennai,28.785,74.455,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00306,Hyderabad Industrial Location 0306,Distribution Center,India,Telangana,Hyderabad,35.922,85.886,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00307,Pune Industrial Location 0307,Office,India,Maharashtra,Pune,15.059,68.317,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00308,Dhaka Industrial Location 0308,Warehouse,Bangladesh,Dhaka,Dhaka,22.196,79.748,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00309,Ho Chi Minh City Industrial Location 0309,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,29.333,91.179,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00310,Shenzhen Industrial Location 0310,Factory,China,Guangdong,Shenzhen,8.47,73.61,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00311,Hsinchu Industrial Location 0311,Port,Taiwan,Hsinchu,Hsinchu,15.607,85.041,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00312,Tokyo Industrial Location 0312,Factory,Japan,Tokyo,Tokyo,22.744,96.472,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00313,Munich Industrial Location 0313,Office,Germany,Bavaria,Munich,29.881,78.903,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00314,Austin Industrial Location 0314,Factory,USA,Texas,Austin,9.018,90.334,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00315,Monterrey Industrial Location 0315,Office,Mexico,Nuevo Leon,Monterrey,16.155,72.765,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00316,Mumbai Industrial Location 0316,Office,India,Maharashtra,Mumbai,23.292,84.196,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00317,Bengaluru Industrial Location 0317,Factory,India,Karnataka,Bengaluru,30.429,95.627,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00318,Noida Industrial Location 0318,Office,India,Uttar Pradesh,Noida,9.566,78.058,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00319,Gurugram Industrial Location 0319,Distribution Center,India,Haryana,Gurugram,16.703,89.489,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00320,Chennai Industrial Location 0320,Office,India,Tamil Nadu,Chennai,23.84,71.92,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00321,Hyderabad Industrial Location 0321,Port,India,Telangana,Hyderabad,30.977,83.351,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00322,Pune Industrial Location 0322,Port,India,Maharashtra,Pune,10.114,94.782,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00323,Dhaka Industrial Location 0323,Distribution Center,Bangladesh,Dhaka,Dhaka,17.251,77.213,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00324,Ho Chi Minh City Industrial Location 0324,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,24.388,88.644,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00325,Shenzhen Industrial Location 0325,Factory,China,Guangdong,Shenzhen,31.525,71.075,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00326,Hsinchu Industrial Location 0326,Distribution Center,Taiwan,Hsinchu,Hsinchu,10.662,82.506,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00327,Tokyo Industrial Location 0327,Factory,Japan,Tokyo,Tokyo,17.799,93.937,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00328,Munich Industrial Location 0328,Office,Germany,Bavaria,Munich,24.936,76.368,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00329,Austin Industrial Location 0329,Factory,USA,Texas,Austin,32.073,87.799,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00330,Monterrey Industrial Location 0330,Factory,Mexico,Nuevo Leon,Monterrey,11.21,70.23,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00331,Mumbai Industrial Location 0331,Factory,India,Maharashtra,Mumbai,18.347,81.661,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00332,Bengaluru Industrial Location 0332,Factory,India,Karnataka,Bengaluru,25.484,93.092,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00333,Noida Industrial Location 0333,Distribution Center,India,Uttar Pradesh,Noida,32.621,75.523,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00334,Gurugram Industrial Location 0334,Office,India,Haryana,Gurugram,11.758,86.954,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00335,Chennai Industrial Location 0335,Port,India,Tamil Nadu,Chennai,18.895,69.385,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00336,Hyderabad Industrial Location 0336,Factory,India,Telangana,Hyderabad,26.032,80.816,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00337,Pune Industrial Location 0337,Office,India,Maharashtra,Pune,33.169,92.247,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00338,Dhaka Industrial Location 0338,Warehouse,Bangladesh,Dhaka,Dhaka,12.306,74.678,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00339,Ho Chi Minh City Industrial Location 0339,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,19.443,86.109,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00340,Shenzhen Industrial Location 0340,Warehouse,China,Guangdong,Shenzhen,26.58,68.54,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00341,Hsinchu Industrial Location 0341,Office,Taiwan,Hsinchu,Hsinchu,33.717,79.971,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00342,Tokyo Industrial Location 0342,Distribution Center,Japan,Tokyo,Tokyo,12.854,91.402,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00343,Munich Industrial Location 0343,Office,Germany,Bavaria,Munich,19.991,73.833,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00344,Austin Industrial Location 0344,Distribution Center,USA,Texas,Austin,27.128,85.264,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00345,Monterrey Industrial Location 0345,Office,Mexico,Nuevo Leon,Monterrey,34.265,96.695,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00346,Mumbai Industrial Location 0346,Port,India,Maharashtra,Mumbai,13.402,79.126,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00347,Bengaluru Industrial Location 0347,Warehouse,India,Karnataka,Bengaluru,20.539,90.557,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00348,Noida Industrial Location 0348,Distribution Center,India,Uttar Pradesh,Noida,27.676,72.988,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00349,Gurugram Industrial Location 0349,Factory,India,Haryana,Gurugram,34.813,84.419,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00350,Chennai Industrial Location 0350,Distribution Center,India,Tamil Nadu,Chennai,13.95,95.85,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00351,Hyderabad Industrial Location 0351,Port,India,Telangana,Hyderabad,21.087,78.281,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00352,Pune Industrial Location 0352,Office,India,Maharashtra,Pune,28.224,89.712,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00353,Dhaka Industrial Location 0353,Port,Bangladesh,Dhaka,Dhaka,35.361,72.143,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00354,Ho Chi Minh City Industrial Location 0354,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,14.498,83.574,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00355,Shenzhen Industrial Location 0355,Port,China,Guangdong,Shenzhen,21.635,95.005,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00356,Hsinchu Industrial Location 0356,Port,Taiwan,Hsinchu,Hsinchu,28.772,77.436,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00357,Tokyo Industrial Location 0357,Office,Japan,Tokyo,Tokyo,35.909,88.867,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00358,Munich Industrial Location 0358,Distribution Center,Germany,Bavaria,Munich,15.046,71.298,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00359,Austin Industrial Location 0359,Distribution Center,USA,Texas,Austin,22.183,82.729,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00360,Monterrey Industrial Location 0360,Port,Mexico,Nuevo Leon,Monterrey,29.32,94.16,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00361,Mumbai Industrial Location 0361,Port,India,Maharashtra,Mumbai,8.457,76.591,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00362,Bengaluru Industrial Location 0362,Factory,India,Karnataka,Bengaluru,15.594,88.022,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00363,Noida Industrial Location 0363,Warehouse,India,Uttar Pradesh,Noida,22.731,70.453,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00364,Gurugram Industrial Location 0364,Distribution Center,India,Haryana,Gurugram,29.868,81.884,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00365,Chennai Industrial Location 0365,Port,India,Tamil Nadu,Chennai,9.005,93.315,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00366,Hyderabad Industrial Location 0366,Office,India,Telangana,Hyderabad,16.142,75.746,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00367,Pune Industrial Location 0367,Office,India,Maharashtra,Pune,23.279,87.177,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00368,Dhaka Industrial Location 0368,Factory,Bangladesh,Dhaka,Dhaka,30.416,69.608,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00369,Ho Chi Minh City Industrial Location 0369,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,9.553,81.039,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00370,Shenzhen Industrial Location 0370,Port,China,Guangdong,Shenzhen,16.69,92.47,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00371,Hsinchu Industrial Location 0371,Port,Taiwan,Hsinchu,Hsinchu,23.827,74.901,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00372,Tokyo Industrial Location 0372,Distribution Center,Japan,Tokyo,Tokyo,30.964,86.332,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00373,Munich Industrial Location 0373,Distribution Center,Germany,Bavaria,Munich,10.101,68.763,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00374,Austin Industrial Location 0374,Warehouse,USA,Texas,Austin,17.238,80.194,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00375,Monterrey Industrial Location 0375,Warehouse,Mexico,Nuevo Leon,Monterrey,24.375,91.625,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00376,Mumbai Industrial Location 0376,Distribution Center,India,Maharashtra,Mumbai,31.512,74.056,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00377,Bengaluru Industrial Location 0377,Office,India,Karnataka,Bengaluru,10.649,85.487,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00378,Noida Industrial Location 0378,Factory,India,Uttar Pradesh,Noida,17.786,96.918,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00379,Gurugram Industrial Location 0379,Warehouse,India,Haryana,Gurugram,24.923,79.349,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00380,Chennai Industrial Location 0380,Port,India,Tamil Nadu,Chennai,32.06,90.78,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00381,Hyderabad Industrial Location 0381,Distribution Center,India,Telangana,Hyderabad,11.197,73.211,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00382,Pune Industrial Location 0382,Warehouse,India,Maharashtra,Pune,18.334,84.642,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00383,Dhaka Industrial Location 0383,Port,Bangladesh,Dhaka,Dhaka,25.471,96.073,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00384,Ho Chi Minh City Industrial Location 0384,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,32.608,78.504,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00385,Shenzhen Industrial Location 0385,Warehouse,China,Guangdong,Shenzhen,11.745,89.935,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00386,Hsinchu Industrial Location 0386,Warehouse,Taiwan,Hsinchu,Hsinchu,18.882,72.366,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00387,Tokyo Industrial Location 0387,Factory,Japan,Tokyo,Tokyo,26.019,83.797,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00388,Munich Industrial Location 0388,Factory,Germany,Bavaria,Munich,33.156,95.228,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00389,Austin Industrial Location 0389,Factory,USA,Texas,Austin,12.293,77.659,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00390,Monterrey Industrial Location 0390,Factory,Mexico,Nuevo Leon,Monterrey,19.43,89.09,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00391,Mumbai Industrial Location 0391,Office,India,Maharashtra,Mumbai,26.567,71.521,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00392,Bengaluru Industrial Location 0392,Office,India,Karnataka,Bengaluru,33.704,82.952,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00393,Noida Industrial Location 0393,Port,India,Uttar Pradesh,Noida,12.841,94.383,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00394,Gurugram Industrial Location 0394,Port,India,Haryana,Gurugram,19.978,76.814,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00395,Chennai Industrial Location 0395,Distribution Center,India,Tamil Nadu,Chennai,27.115,88.245,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00396,Hyderabad Industrial Location 0396,Warehouse,India,Telangana,Hyderabad,34.252,70.676,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00397,Pune Industrial Location 0397,Factory,India,Maharashtra,Pune,13.389,82.107,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00398,Dhaka Industrial Location 0398,Distribution Center,Bangladesh,Dhaka,Dhaka,20.526,93.538,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00399,Ho Chi Minh City Industrial Location 0399,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,27.663,75.969,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00400,Shenzhen Industrial Location 0400,Port,China,Guangdong,Shenzhen,34.8,87.4,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00401,Hsinchu Industrial Location 0401,Factory,Taiwan,Hsinchu,Hsinchu,13.937,69.831,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00402,Tokyo Industrial Location 0402,Warehouse,Japan,Tokyo,Tokyo,21.074,81.262,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00403,Munich Industrial Location 0403,Office,Germany,Bavaria,Munich,28.211,92.693,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00404,Austin Industrial Location 0404,Warehouse,USA,Texas,Austin,35.348,75.124,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00405,Monterrey Industrial Location 0405,Factory,Mexico,Nuevo Leon,Monterrey,14.485,86.555,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00406,Mumbai Industrial Location 0406,Factory,India,Maharashtra,Mumbai,21.622,68.986,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00407,Bengaluru Industrial Location 0407,Port,India,Karnataka,Bengaluru,28.759,80.417,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00408,Noida Industrial Location 0408,Port,India,Uttar Pradesh,Noida,35.896,91.848,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00409,Gurugram Industrial Location 0409,Office,India,Haryana,Gurugram,15.033,74.279,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00410,Chennai Industrial Location 0410,Office,India,Tamil Nadu,Chennai,22.17,85.71,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00411,Hyderabad Industrial Location 0411,Factory,India,Telangana,Hyderabad,29.307,68.141,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00412,Pune Industrial Location 0412,Distribution Center,India,Maharashtra,Pune,8.444,79.572,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00413,Dhaka Industrial Location 0413,Factory,Bangladesh,Dhaka,Dhaka,15.581,91.003,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00414,Ho Chi Minh City Industrial Location 0414,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,22.718,73.434,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00415,Shenzhen Industrial Location 0415,Distribution Center,China,Guangdong,Shenzhen,29.855,84.865,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00416,Hsinchu Industrial Location 0416,Warehouse,Taiwan,Hsinchu,Hsinchu,8.992,96.296,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00417,Tokyo Industrial Location 0417,Distribution Center,Japan,Tokyo,Tokyo,16.129,78.727,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00418,Munich Industrial Location 0418,Port,Germany,Bavaria,Munich,23.266,90.158,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00419,Austin Industrial Location 0419,Port,USA,Texas,Austin,30.403,72.589,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00420,Monterrey Industrial Location 0420,Factory,Mexico,Nuevo Leon,Monterrey,9.54,84.02,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00421,Mumbai Industrial Location 0421,Office,India,Maharashtra,Mumbai,16.677,95.451,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00422,Bengaluru Industrial Location 0422,Office,India,Karnataka,Bengaluru,23.814,77.882,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00423,Noida Industrial Location 0423,Distribution Center,India,Uttar Pradesh,Noida,30.951,89.313,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00424,Gurugram Industrial Location 0424,Warehouse,India,Haryana,Gurugram,10.088,71.744,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00425,Chennai Industrial Location 0425,Factory,India,Tamil Nadu,Chennai,17.225,83.175,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00426,Hyderabad Industrial Location 0426,Factory,India,Telangana,Hyderabad,24.362,94.606,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00427,Pune Industrial Location 0427,Port,India,Maharashtra,Pune,31.499,77.037,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00428,Dhaka Industrial Location 0428,Factory,Bangladesh,Dhaka,Dhaka,10.636,88.468,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00429,Ho Chi Minh City Industrial Location 0429,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,17.773,70.899,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00430,Shenzhen Industrial Location 0430,Port,China,Guangdong,Shenzhen,24.91,82.33,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00431,Hsinchu Industrial Location 0431,Factory,Taiwan,Hsinchu,Hsinchu,32.047,93.761,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00432,Tokyo Industrial Location 0432,Factory,Japan,Tokyo,Tokyo,11.184,76.192,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00433,Munich Industrial Location 0433,Factory,Germany,Bavaria,Munich,18.321,87.623,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00434,Austin Industrial Location 0434,Office,USA,Texas,Austin,25.458,70.054,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00435,Monterrey Industrial Location 0435,Distribution Center,Mexico,Nuevo Leon,Monterrey,32.595,81.485,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00436,Mumbai Industrial Location 0436,Distribution Center,India,Maharashtra,Mumbai,11.732,92.916,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00437,Bengaluru Industrial Location 0437,Warehouse,India,Karnataka,Bengaluru,18.869,75.347,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00438,Noida Industrial Location 0438,Factory,India,Uttar Pradesh,Noida,26.006,86.778,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00439,Gurugram Industrial Location 0439,Office,India,Haryana,Gurugram,33.143,69.209,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00440,Chennai Industrial Location 0440,Factory,India,Tamil Nadu,Chennai,12.28,80.64,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00441,Hyderabad Industrial Location 0441,Port,India,Telangana,Hyderabad,19.417,92.071,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00442,Pune Industrial Location 0442,Office,India,Maharashtra,Pune,26.554,74.502,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00443,Dhaka Industrial Location 0443,Factory,Bangladesh,Dhaka,Dhaka,33.691,85.933,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00444,Ho Chi Minh City Industrial Location 0444,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,12.828,68.364,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00445,Shenzhen Industrial Location 0445,Factory,China,Guangdong,Shenzhen,19.965,79.795,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00446,Hsinchu Industrial Location 0446,Office,Taiwan,Hsinchu,Hsinchu,27.102,91.226,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00447,Tokyo Industrial Location 0447,Factory,Japan,Tokyo,Tokyo,34.239,73.657,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00448,Munich Industrial Location 0448,Office,Germany,Bavaria,Munich,13.376,85.088,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00449,Austin Industrial Location 0449,Warehouse,USA,Texas,Austin,20.513,96.519,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00450,Monterrey Industrial Location 0450,Distribution Center,Mexico,Nuevo Leon,Monterrey,27.65,78.95,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00451,Mumbai Industrial Location 0451,Warehouse,India,Maharashtra,Mumbai,34.787,90.381,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00452,Bengaluru Industrial Location 0452,Distribution Center,India,Karnataka,Bengaluru,13.924,72.812,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00453,Noida Industrial Location 0453,Distribution Center,India,Uttar Pradesh,Noida,21.061,84.243,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00454,Gurugram Industrial Location 0454,Warehouse,India,Haryana,Gurugram,28.198,95.674,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00455,Chennai Industrial Location 0455,Distribution Center,India,Tamil Nadu,Chennai,35.335,78.105,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00456,Hyderabad Industrial Location 0456,Distribution Center,India,Telangana,Hyderabad,14.472,89.536,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00457,Pune Industrial Location 0457,Factory,India,Maharashtra,Pune,21.609,71.967,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00458,Dhaka Industrial Location 0458,Warehouse,Bangladesh,Dhaka,Dhaka,28.746,83.398,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00459,Ho Chi Minh City Industrial Location 0459,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,35.883,94.829,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00460,Shenzhen Industrial Location 0460,Factory,China,Guangdong,Shenzhen,15.02,77.26,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00461,Hsinchu Industrial Location 0461,Office,Taiwan,Hsinchu,Hsinchu,22.157,88.691,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00462,Tokyo Industrial Location 0462,Factory,Japan,Tokyo,Tokyo,29.294,71.122,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00463,Munich Industrial Location 0463,Office,Germany,Bavaria,Munich,8.431,82.553,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00464,Austin Industrial Location 0464,Office,USA,Texas,Austin,15.568,93.984,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00465,Monterrey Industrial Location 0465,Distribution Center,Mexico,Nuevo Leon,Monterrey,22.705,76.415,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00466,Mumbai Industrial Location 0466,Distribution Center,India,Maharashtra,Mumbai,29.842,87.846,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00467,Bengaluru Industrial Location 0467,Office,India,Karnataka,Bengaluru,8.979,70.277,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00468,Noida Industrial Location 0468,Office,India,Uttar Pradesh,Noida,16.116,81.708,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00469,Gurugram Industrial Location 0469,Factory,India,Haryana,Gurugram,23.253,93.139,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00470,Chennai Industrial Location 0470,Port,India,Tamil Nadu,Chennai,30.39,75.57,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00471,Hyderabad Industrial Location 0471,Port,India,Telangana,Hyderabad,9.527,87.001,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00472,Pune Industrial Location 0472,Factory,India,Maharashtra,Pune,16.664,69.432,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00473,Dhaka Industrial Location 0473,Factory,Bangladesh,Dhaka,Dhaka,23.801,80.863,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00474,Ho Chi Minh City Industrial Location 0474,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,30.938,92.294,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00475,Shenzhen Industrial Location 0475,Office,China,Guangdong,Shenzhen,10.075,74.725,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00476,Hsinchu Industrial Location 0476,Warehouse,Taiwan,Hsinchu,Hsinchu,17.212,86.156,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00477,Tokyo Industrial Location 0477,Distribution Center,Japan,Tokyo,Tokyo,24.349,68.587,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00478,Munich Industrial Location 0478,Distribution Center,Germany,Bavaria,Munich,31.486,80.018,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00479,Austin Industrial Location 0479,Office,USA,Texas,Austin,10.623,91.449,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00480,Monterrey Industrial Location 0480,Factory,Mexico,Nuevo Leon,Monterrey,17.76,73.88,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00481,Mumbai Industrial Location 0481,Factory,India,Maharashtra,Mumbai,24.897,85.311,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00482,Bengaluru Industrial Location 0482,Factory,India,Karnataka,Bengaluru,32.034,96.742,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00483,Noida Industrial Location 0483,Office,India,Uttar Pradesh,Noida,11.171,79.173,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00484,Gurugram Industrial Location 0484,Distribution Center,India,Haryana,Gurugram,18.308,90.604,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00485,Chennai Industrial Location 0485,Factory,India,Tamil Nadu,Chennai,25.445,73.035,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00486,Hyderabad Industrial Location 0486,Office,India,Telangana,Hyderabad,32.582,84.466,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00487,Pune Industrial Location 0487,Office,India,Maharashtra,Pune,11.719,95.897,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00488,Dhaka Industrial Location 0488,Port,Bangladesh,Dhaka,Dhaka,18.856,78.328,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00489,Ho Chi Minh City Industrial Location 0489,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,25.993,89.759,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00490,Shenzhen Industrial Location 0490,Distribution Center,China,Guangdong,Shenzhen,33.13,72.19,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00491,Hsinchu Industrial Location 0491,Factory,Taiwan,Hsinchu,Hsinchu,12.267,83.621,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00492,Tokyo Industrial Location 0492,Warehouse,Japan,Tokyo,Tokyo,19.404,95.052,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00493,Munich Industrial Location 0493,Factory,Germany,Bavaria,Munich,26.541,77.483,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00494,Austin Industrial Location 0494,Warehouse,USA,Texas,Austin,33.678,88.914,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00495,Monterrey Industrial Location 0495,Port,Mexico,Nuevo Leon,Monterrey,12.815,71.345,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00496,Mumbai Industrial Location 0496,Office,India,Maharashtra,Mumbai,19.952,82.776,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00497,Bengaluru Industrial Location 0497,Port,India,Karnataka,Bengaluru,27.089,94.207,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00498,Noida Industrial Location 0498,Office,India,Uttar Pradesh,Noida,34.226,76.638,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00499,Gurugram Industrial Location 0499,Factory,India,Haryana,Gurugram,13.363,88.069,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00500,Chennai Industrial Location 0500,Factory,India,Tamil Nadu,Chennai,20.5,70.5,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00501,Hyderabad Industrial Location 0501,Office,India,Telangana,Hyderabad,27.637,81.931,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00502,Pune Industrial Location 0502,Port,India,Maharashtra,Pune,34.774,93.362,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00503,Dhaka Industrial Location 0503,Warehouse,Bangladesh,Dhaka,Dhaka,13.911,75.793,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00504,Ho Chi Minh City Industrial Location 0504,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,21.048,87.224,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00505,Shenzhen Industrial Location 0505,Office,China,Guangdong,Shenzhen,28.185,69.655,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00506,Hsinchu Industrial Location 0506,Distribution Center,Taiwan,Hsinchu,Hsinchu,35.322,81.086,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00507,Tokyo Industrial Location 0507,Factory,Japan,Tokyo,Tokyo,14.459,92.517,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00508,Munich Industrial Location 0508,Port,Germany,Bavaria,Munich,21.596,74.948,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00509,Austin Industrial Location 0509,Port,USA,Texas,Austin,28.733,86.379,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00510,Monterrey Industrial Location 0510,Port,Mexico,Nuevo Leon,Monterrey,35.87,68.81,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00511,Mumbai Industrial Location 0511,Warehouse,India,Maharashtra,Mumbai,15.007,80.241,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00512,Bengaluru Industrial Location 0512,Port,India,Karnataka,Bengaluru,22.144,91.672,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00513,Noida Industrial Location 0513,Distribution Center,India,Uttar Pradesh,Noida,29.281,74.103,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00514,Gurugram Industrial Location 0514,Factory,India,Haryana,Gurugram,8.418,85.534,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00515,Chennai Industrial Location 0515,Port,India,Tamil Nadu,Chennai,15.555,96.965,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00516,Hyderabad Industrial Location 0516,Warehouse,India,Telangana,Hyderabad,22.692,79.396,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00517,Pune Industrial Location 0517,Port,India,Maharashtra,Pune,29.829,90.827,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00518,Dhaka Industrial Location 0518,Warehouse,Bangladesh,Dhaka,Dhaka,8.966,73.258,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00519,Ho Chi Minh City Industrial Location 0519,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,16.103,84.689,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00520,Shenzhen Industrial Location 0520,Office,China,Guangdong,Shenzhen,23.24,96.12,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00521,Hsinchu Industrial Location 0521,Distribution Center,Taiwan,Hsinchu,Hsinchu,30.377,78.551,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00522,Tokyo Industrial Location 0522,Factory,Japan,Tokyo,Tokyo,9.514,89.982,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00523,Munich Industrial Location 0523,Port,Germany,Bavaria,Munich,16.651,72.413,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00524,Austin Industrial Location 0524,Distribution Center,USA,Texas,Austin,23.788,83.844,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00525,Monterrey Industrial Location 0525,Factory,Mexico,Nuevo Leon,Monterrey,30.925,95.275,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00526,Mumbai Industrial Location 0526,Port,India,Maharashtra,Mumbai,10.062,77.706,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00527,Bengaluru Industrial Location 0527,Office,India,Karnataka,Bengaluru,17.199,89.137,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00528,Noida Industrial Location 0528,Warehouse,India,Uttar Pradesh,Noida,24.336,71.568,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00529,Gurugram Industrial Location 0529,Office,India,Haryana,Gurugram,31.473,82.999,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00530,Chennai Industrial Location 0530,Office,India,Tamil Nadu,Chennai,10.61,94.43,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00531,Hyderabad Industrial Location 0531,Warehouse,India,Telangana,Hyderabad,17.747,76.861,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00532,Pune Industrial Location 0532,Office,India,Maharashtra,Pune,24.884,88.292,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00533,Dhaka Industrial Location 0533,Office,Bangladesh,Dhaka,Dhaka,32.021,70.723,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00534,Ho Chi Minh City Industrial Location 0534,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,11.158,82.154,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00535,Shenzhen Industrial Location 0535,Factory,China,Guangdong,Shenzhen,18.295,93.585,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00536,Hsinchu Industrial Location 0536,Warehouse,Taiwan,Hsinchu,Hsinchu,25.432,76.016,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00537,Tokyo Industrial Location 0537,Warehouse,Japan,Tokyo,Tokyo,32.569,87.447,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00538,Munich Industrial Location 0538,Factory,Germany,Bavaria,Munich,11.706,69.878,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00539,Austin Industrial Location 0539,Warehouse,USA,Texas,Austin,18.843,81.309,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00540,Monterrey Industrial Location 0540,Office,Mexico,Nuevo Leon,Monterrey,25.98,92.74,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00541,Mumbai Industrial Location 0541,Port,India,Maharashtra,Mumbai,33.117,75.171,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00542,Bengaluru Industrial Location 0542,Port,India,Karnataka,Bengaluru,12.254,86.602,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00543,Noida Industrial Location 0543,Factory,India,Uttar Pradesh,Noida,19.391,69.033,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00544,Gurugram Industrial Location 0544,Factory,India,Haryana,Gurugram,26.528,80.464,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00545,Chennai Industrial Location 0545,Port,India,Tamil Nadu,Chennai,33.665,91.895,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00546,Hyderabad Industrial Location 0546,Warehouse,India,Telangana,Hyderabad,12.802,74.326,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00547,Pune Industrial Location 0547,Port,India,Maharashtra,Pune,19.939,85.757,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00548,Dhaka Industrial Location 0548,Port,Bangladesh,Dhaka,Dhaka,27.076,68.188,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00549,Ho Chi Minh City Industrial Location 0549,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,34.213,79.619,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00550,Shenzhen Industrial Location 0550,Port,China,Guangdong,Shenzhen,13.35,91.05,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00551,Hsinchu Industrial Location 0551,Warehouse,Taiwan,Hsinchu,Hsinchu,20.487,73.481,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00552,Tokyo Industrial Location 0552,Distribution Center,Japan,Tokyo,Tokyo,27.624,84.912,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00553,Munich Industrial Location 0553,Warehouse,Germany,Bavaria,Munich,34.761,96.343,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00554,Austin Industrial Location 0554,Distribution Center,USA,Texas,Austin,13.898,78.774,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00555,Monterrey Industrial Location 0555,Factory,Mexico,Nuevo Leon,Monterrey,21.035,90.205,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00556,Mumbai Industrial Location 0556,Office,India,Maharashtra,Mumbai,28.172,72.636,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00557,Bengaluru Industrial Location 0557,Distribution Center,India,Karnataka,Bengaluru,35.309,84.067,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00558,Noida Industrial Location 0558,Warehouse,India,Uttar Pradesh,Noida,14.446,95.498,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00559,Gurugram Industrial Location 0559,Warehouse,India,Haryana,Gurugram,21.583,77.929,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00560,Chennai Industrial Location 0560,Warehouse,India,Tamil Nadu,Chennai,28.72,89.36,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00561,Hyderabad Industrial Location 0561,Warehouse,India,Telangana,Hyderabad,35.857,71.791,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00562,Pune Industrial Location 0562,Port,India,Maharashtra,Pune,14.994,83.222,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00563,Dhaka Industrial Location 0563,Distribution Center,Bangladesh,Dhaka,Dhaka,22.131,94.653,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00564,Ho Chi Minh City Industrial Location 0564,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,29.268,77.084,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00565,Shenzhen Industrial Location 0565,Distribution Center,China,Guangdong,Shenzhen,8.405,88.515,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00566,Hsinchu Industrial Location 0566,Factory,Taiwan,Hsinchu,Hsinchu,15.542,70.946,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00567,Tokyo Industrial Location 0567,Port,Japan,Tokyo,Tokyo,22.679,82.377,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00568,Munich Industrial Location 0568,Distribution Center,Germany,Bavaria,Munich,29.816,93.808,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00569,Austin Industrial Location 0569,Office,USA,Texas,Austin,8.953,76.239,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00570,Monterrey Industrial Location 0570,Warehouse,Mexico,Nuevo Leon,Monterrey,16.09,87.67,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00571,Mumbai Industrial Location 0571,Factory,India,Maharashtra,Mumbai,23.227,70.101,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00572,Bengaluru Industrial Location 0572,Office,India,Karnataka,Bengaluru,30.364,81.532,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00573,Noida Industrial Location 0573,Warehouse,India,Uttar Pradesh,Noida,9.501,92.963,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00574,Gurugram Industrial Location 0574,Port,India,Haryana,Gurugram,16.638,75.394,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00575,Chennai Industrial Location 0575,Office,India,Tamil Nadu,Chennai,23.775,86.825,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00576,Hyderabad Industrial Location 0576,Warehouse,India,Telangana,Hyderabad,30.912,69.256,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00577,Pune Industrial Location 0577,Warehouse,India,Maharashtra,Pune,10.049,80.687,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00578,Dhaka Industrial Location 0578,Factory,Bangladesh,Dhaka,Dhaka,17.186,92.118,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00579,Ho Chi Minh City Industrial Location 0579,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,24.323,74.549,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00580,Shenzhen Industrial Location 0580,Port,China,Guangdong,Shenzhen,31.46,85.98,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00581,Hsinchu Industrial Location 0581,Office,Taiwan,Hsinchu,Hsinchu,10.597,68.411,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00582,Tokyo Industrial Location 0582,Port,Japan,Tokyo,Tokyo,17.734,79.842,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00583,Munich Industrial Location 0583,Office,Germany,Bavaria,Munich,24.871,91.273,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00584,Austin Industrial Location 0584,Distribution Center,USA,Texas,Austin,32.008,73.704,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00585,Monterrey Industrial Location 0585,Distribution Center,Mexico,Nuevo Leon,Monterrey,11.145,85.135,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00586,Mumbai Industrial Location 0586,Office,India,Maharashtra,Mumbai,18.282,96.566,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00587,Bengaluru Industrial Location 0587,Factory,India,Karnataka,Bengaluru,25.419,78.997,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00588,Noida Industrial Location 0588,Factory,India,Uttar Pradesh,Noida,32.556,90.428,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00589,Gurugram Industrial Location 0589,Distribution Center,India,Haryana,Gurugram,11.693,72.859,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00590,Chennai Industrial Location 0590,Warehouse,India,Tamil Nadu,Chennai,18.83,84.29,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00591,Hyderabad Industrial Location 0591,Warehouse,India,Telangana,Hyderabad,25.967,95.721,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00592,Pune Industrial Location 0592,Warehouse,India,Maharashtra,Pune,33.104,78.152,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00593,Dhaka Industrial Location 0593,Distribution Center,Bangladesh,Dhaka,Dhaka,12.241,89.583,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00594,Ho Chi Minh City Industrial Location 0594,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,19.378,72.014,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00595,Shenzhen Industrial Location 0595,Office,China,Guangdong,Shenzhen,26.515,83.445,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00596,Hsinchu Industrial Location 0596,Factory,Taiwan,Hsinchu,Hsinchu,33.652,94.876,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00597,Tokyo Industrial Location 0597,Factory,Japan,Tokyo,Tokyo,12.789,77.307,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00598,Munich Industrial Location 0598,Office,Germany,Bavaria,Munich,19.926,88.738,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00599,Austin Industrial Location 0599,Port,USA,Texas,Austin,27.063,71.169,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00600,Monterrey Industrial Location 0600,Warehouse,Mexico,Nuevo Leon,Monterrey,34.2,82.6,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00601,Mumbai Industrial Location 0601,Port,India,Maharashtra,Mumbai,13.337,94.031,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00602,Bengaluru Industrial Location 0602,Office,India,Karnataka,Bengaluru,20.474,76.462,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00603,Noida Industrial Location 0603,Port,India,Uttar Pradesh,Noida,27.611,87.893,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00604,Gurugram Industrial Location 0604,Office,India,Haryana,Gurugram,34.748,70.324,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00605,Chennai Industrial Location 0605,Office,India,Tamil Nadu,Chennai,13.885,81.755,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00606,Hyderabad Industrial Location 0606,Distribution Center,India,Telangana,Hyderabad,21.022,93.186,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00607,Pune Industrial Location 0607,Office,India,Maharashtra,Pune,28.159,75.617,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00608,Dhaka Industrial Location 0608,Port,Bangladesh,Dhaka,Dhaka,35.296,87.048,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00609,Ho Chi Minh City Industrial Location 0609,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,14.433,69.479,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00610,Shenzhen Industrial Location 0610,Office,China,Guangdong,Shenzhen,21.57,80.91,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00611,Hsinchu Industrial Location 0611,Distribution Center,Taiwan,Hsinchu,Hsinchu,28.707,92.341,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00612,Tokyo Industrial Location 0612,Port,Japan,Tokyo,Tokyo,35.844,74.772,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00613,Munich Industrial Location 0613,Port,Germany,Bavaria,Munich,14.981,86.203,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00614,Austin Industrial Location 0614,Warehouse,USA,Texas,Austin,22.118,68.634,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00615,Monterrey Industrial Location 0615,Office,Mexico,Nuevo Leon,Monterrey,29.255,80.065,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00616,Mumbai Industrial Location 0616,Warehouse,India,Maharashtra,Mumbai,8.392,91.496,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00617,Bengaluru Industrial Location 0617,Port,India,Karnataka,Bengaluru,15.529,73.927,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00618,Noida Industrial Location 0618,Warehouse,India,Uttar Pradesh,Noida,22.666,85.358,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00619,Gurugram Industrial Location 0619,Warehouse,India,Haryana,Gurugram,29.803,96.789,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00620,Chennai Industrial Location 0620,Office,India,Tamil Nadu,Chennai,8.94,79.22,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00621,Hyderabad Industrial Location 0621,Distribution Center,India,Telangana,Hyderabad,16.077,90.651,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00622,Pune Industrial Location 0622,Port,India,Maharashtra,Pune,23.214,73.082,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00623,Dhaka Industrial Location 0623,Distribution Center,Bangladesh,Dhaka,Dhaka,30.351,84.513,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00624,Ho Chi Minh City Industrial Location 0624,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,9.488,95.944,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00625,Shenzhen Industrial Location 0625,Distribution Center,China,Guangdong,Shenzhen,16.625,78.375,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00626,Hsinchu Industrial Location 0626,Warehouse,Taiwan,Hsinchu,Hsinchu,23.762,89.806,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00627,Tokyo Industrial Location 0627,Port,Japan,Tokyo,Tokyo,30.899,72.237,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00628,Munich Industrial Location 0628,Office,Germany,Bavaria,Munich,10.036,83.668,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00629,Austin Industrial Location 0629,Distribution Center,USA,Texas,Austin,17.173,95.099,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00630,Monterrey Industrial Location 0630,Office,Mexico,Nuevo Leon,Monterrey,24.31,77.53,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00631,Mumbai Industrial Location 0631,Distribution Center,India,Maharashtra,Mumbai,31.447,88.961,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00632,Bengaluru Industrial Location 0632,Office,India,Karnataka,Bengaluru,10.584,71.392,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00633,Noida Industrial Location 0633,Factory,India,Uttar Pradesh,Noida,17.721,82.823,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00634,Gurugram Industrial Location 0634,Distribution Center,India,Haryana,Gurugram,24.858,94.254,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00635,Chennai Industrial Location 0635,Office,India,Tamil Nadu,Chennai,31.995,76.685,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00636,Hyderabad Industrial Location 0636,Distribution Center,India,Telangana,Hyderabad,11.132,88.116,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00637,Pune Industrial Location 0637,Port,India,Maharashtra,Pune,18.269,70.547,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00638,Dhaka Industrial Location 0638,Warehouse,Bangladesh,Dhaka,Dhaka,25.406,81.978,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00639,Ho Chi Minh City Industrial Location 0639,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,32.543,93.409,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00640,Shenzhen Industrial Location 0640,Factory,China,Guangdong,Shenzhen,11.68,75.84,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00641,Hsinchu Industrial Location 0641,Warehouse,Taiwan,Hsinchu,Hsinchu,18.817,87.271,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00642,Tokyo Industrial Location 0642,Factory,Japan,Tokyo,Tokyo,25.954,69.702,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00643,Munich Industrial Location 0643,Warehouse,Germany,Bavaria,Munich,33.091,81.133,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00644,Austin Industrial Location 0644,Factory,USA,Texas,Austin,12.228,92.564,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00645,Monterrey Industrial Location 0645,Distribution Center,Mexico,Nuevo Leon,Monterrey,19.365,74.995,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00646,Mumbai Industrial Location 0646,Warehouse,India,Maharashtra,Mumbai,26.502,86.426,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00647,Bengaluru Industrial Location 0647,Port,India,Karnataka,Bengaluru,33.639,68.857,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00648,Noida Industrial Location 0648,Port,India,Uttar Pradesh,Noida,12.776,80.288,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00649,Gurugram Industrial Location 0649,Port,India,Haryana,Gurugram,19.913,91.719,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00650,Chennai Industrial Location 0650,Port,India,Tamil Nadu,Chennai,27.05,74.15,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00651,Hyderabad Industrial Location 0651,Port,India,Telangana,Hyderabad,34.187,85.581,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00652,Pune Industrial Location 0652,Factory,India,Maharashtra,Pune,13.324,68.012,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00653,Dhaka Industrial Location 0653,Port,Bangladesh,Dhaka,Dhaka,20.461,79.443,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00654,Ho Chi Minh City Industrial Location 0654,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,27.598,90.874,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00655,Shenzhen Industrial Location 0655,Office,China,Guangdong,Shenzhen,34.735,73.305,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00656,Hsinchu Industrial Location 0656,Factory,Taiwan,Hsinchu,Hsinchu,13.872,84.736,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00657,Tokyo Industrial Location 0657,Distribution Center,Japan,Tokyo,Tokyo,21.009,96.167,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00658,Munich Industrial Location 0658,Warehouse,Germany,Bavaria,Munich,28.146,78.598,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00659,Austin Industrial Location 0659,Port,USA,Texas,Austin,35.283,90.029,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00660,Monterrey Industrial Location 0660,Port,Mexico,Nuevo Leon,Monterrey,14.42,72.46,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00661,Mumbai Industrial Location 0661,Factory,India,Maharashtra,Mumbai,21.557,83.891,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00662,Bengaluru Industrial Location 0662,Office,India,Karnataka,Bengaluru,28.694,95.322,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00663,Noida Industrial Location 0663,Port,India,Uttar Pradesh,Noida,35.831,77.753,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00664,Gurugram Industrial Location 0664,Port,India,Haryana,Gurugram,14.968,89.184,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00665,Chennai Industrial Location 0665,Office,India,Tamil Nadu,Chennai,22.105,71.615,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00666,Hyderabad Industrial Location 0666,Office,India,Telangana,Hyderabad,29.242,83.046,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00667,Pune Industrial Location 0667,Factory,India,Maharashtra,Pune,8.379,94.477,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00668,Dhaka Industrial Location 0668,Port,Bangladesh,Dhaka,Dhaka,15.516,76.908,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00669,Ho Chi Minh City Industrial Location 0669,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,22.653,88.339,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00670,Shenzhen Industrial Location 0670,Warehouse,China,Guangdong,Shenzhen,29.79,70.77,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00671,Hsinchu Industrial Location 0671,Port,Taiwan,Hsinchu,Hsinchu,8.927,82.201,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00672,Tokyo Industrial Location 0672,Warehouse,Japan,Tokyo,Tokyo,16.064,93.632,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00673,Munich Industrial Location 0673,Warehouse,Germany,Bavaria,Munich,23.201,76.063,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00674,Austin Industrial Location 0674,Office,USA,Texas,Austin,30.338,87.494,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00675,Monterrey Industrial Location 0675,Port,Mexico,Nuevo Leon,Monterrey,9.475,69.925,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00676,Mumbai Industrial Location 0676,Port,India,Maharashtra,Mumbai,16.612,81.356,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00677,Bengaluru Industrial Location 0677,Port,India,Karnataka,Bengaluru,23.749,92.787,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00678,Noida Industrial Location 0678,Distribution Center,India,Uttar Pradesh,Noida,30.886,75.218,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00679,Gurugram Industrial Location 0679,Office,India,Haryana,Gurugram,10.023,86.649,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00680,Chennai Industrial Location 0680,Distribution Center,India,Tamil Nadu,Chennai,17.16,69.08,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00681,Hyderabad Industrial Location 0681,Port,India,Telangana,Hyderabad,24.297,80.511,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00682,Pune Industrial Location 0682,Factory,India,Maharashtra,Pune,31.434,91.942,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00683,Dhaka Industrial Location 0683,Office,Bangladesh,Dhaka,Dhaka,10.571,74.373,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00684,Ho Chi Minh City Industrial Location 0684,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,17.708,85.804,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00685,Shenzhen Industrial Location 0685,Port,China,Guangdong,Shenzhen,24.845,68.235,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00686,Hsinchu Industrial Location 0686,Office,Taiwan,Hsinchu,Hsinchu,31.982,79.666,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00687,Tokyo Industrial Location 0687,Factory,Japan,Tokyo,Tokyo,11.119,91.097,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00688,Munich Industrial Location 0688,Warehouse,Germany,Bavaria,Munich,18.256,73.528,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00689,Austin Industrial Location 0689,Distribution Center,USA,Texas,Austin,25.393,84.959,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00690,Monterrey Industrial Location 0690,Warehouse,Mexico,Nuevo Leon,Monterrey,32.53,96.39,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00691,Mumbai Industrial Location 0691,Distribution Center,India,Maharashtra,Mumbai,11.667,78.821,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00692,Bengaluru Industrial Location 0692,Factory,India,Karnataka,Bengaluru,18.804,90.252,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00693,Noida Industrial Location 0693,Factory,India,Uttar Pradesh,Noida,25.941,72.683,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00694,Gurugram Industrial Location 0694,Warehouse,India,Haryana,Gurugram,33.078,84.114,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00695,Chennai Industrial Location 0695,Port,India,Tamil Nadu,Chennai,12.215,95.545,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00696,Hyderabad Industrial Location 0696,Office,India,Telangana,Hyderabad,19.352,77.976,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00697,Pune Industrial Location 0697,Port,India,Maharashtra,Pune,26.489,89.407,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00698,Dhaka Industrial Location 0698,Office,Bangladesh,Dhaka,Dhaka,33.626,71.838,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00699,Ho Chi Minh City Industrial Location 0699,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,12.763,83.269,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00700,Shenzhen Industrial Location 0700,Factory,China,Guangdong,Shenzhen,19.9,94.7,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00701,Hsinchu Industrial Location 0701,Warehouse,Taiwan,Hsinchu,Hsinchu,27.037,77.131,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00702,Tokyo Industrial Location 0702,Office,Japan,Tokyo,Tokyo,34.174,88.562,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00703,Munich Industrial Location 0703,Office,Germany,Bavaria,Munich,13.311,70.993,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00704,Austin Industrial Location 0704,Port,USA,Texas,Austin,20.448,82.424,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00705,Monterrey Industrial Location 0705,Warehouse,Mexico,Nuevo Leon,Monterrey,27.585,93.855,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00706,Mumbai Industrial Location 0706,Factory,India,Maharashtra,Mumbai,34.722,76.286,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00707,Bengaluru Industrial Location 0707,Port,India,Karnataka,Bengaluru,13.859,87.717,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00708,Noida Industrial Location 0708,Distribution Center,India,Uttar Pradesh,Noida,20.996,70.148,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00709,Gurugram Industrial Location 0709,Warehouse,India,Haryana,Gurugram,28.133,81.579,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00710,Chennai Industrial Location 0710,Port,India,Tamil Nadu,Chennai,35.27,93.01,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00711,Hyderabad Industrial Location 0711,Port,India,Telangana,Hyderabad,14.407,75.441,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00712,Pune Industrial Location 0712,Port,India,Maharashtra,Pune,21.544,86.872,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00713,Dhaka Industrial Location 0713,Office,Bangladesh,Dhaka,Dhaka,28.681,69.303,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00714,Ho Chi Minh City Industrial Location 0714,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,35.818,80.734,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00715,Shenzhen Industrial Location 0715,Factory,China,Guangdong,Shenzhen,14.955,92.165,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00716,Hsinchu Industrial Location 0716,Factory,Taiwan,Hsinchu,Hsinchu,22.092,74.596,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00717,Tokyo Industrial Location 0717,Distribution Center,Japan,Tokyo,Tokyo,29.229,86.027,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00718,Munich Industrial Location 0718,Factory,Germany,Bavaria,Munich,8.366,68.458,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00719,Austin Industrial Location 0719,Factory,USA,Texas,Austin,15.503,79.889,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00720,Monterrey Industrial Location 0720,Office,Mexico,Nuevo Leon,Monterrey,22.64,91.32,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00721,Mumbai Industrial Location 0721,Factory,India,Maharashtra,Mumbai,29.777,73.751,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00722,Bengaluru Industrial Location 0722,Factory,India,Karnataka,Bengaluru,8.914,85.182,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00723,Noida Industrial Location 0723,Port,India,Uttar Pradesh,Noida,16.051,96.613,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00724,Gurugram Industrial Location 0724,Distribution Center,India,Haryana,Gurugram,23.188,79.044,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00725,Chennai Industrial Location 0725,Distribution Center,India,Tamil Nadu,Chennai,30.325,90.475,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00726,Hyderabad Industrial Location 0726,Factory,India,Telangana,Hyderabad,9.462,72.906,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00727,Pune Industrial Location 0727,Factory,India,Maharashtra,Pune,16.599,84.337,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00728,Dhaka Industrial Location 0728,Office,Bangladesh,Dhaka,Dhaka,23.736,95.768,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00729,Ho Chi Minh City Industrial Location 0729,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,30.873,78.199,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00730,Shenzhen Industrial Location 0730,Port,China,Guangdong,Shenzhen,10.01,89.63,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00731,Hsinchu Industrial Location 0731,Warehouse,Taiwan,Hsinchu,Hsinchu,17.147,72.061,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00732,Tokyo Industrial Location 0732,Warehouse,Japan,Tokyo,Tokyo,24.284,83.492,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00733,Munich Industrial Location 0733,Port,Germany,Bavaria,Munich,31.421,94.923,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00734,Austin Industrial Location 0734,Port,USA,Texas,Austin,10.558,77.354,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00735,Monterrey Industrial Location 0735,Warehouse,Mexico,Nuevo Leon,Monterrey,17.695,88.785,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00736,Mumbai Industrial Location 0736,Warehouse,India,Maharashtra,Mumbai,24.832,71.216,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00737,Bengaluru Industrial Location 0737,Factory,India,Karnataka,Bengaluru,31.969,82.647,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00738,Noida Industrial Location 0738,Office,India,Uttar Pradesh,Noida,11.106,94.078,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00739,Gurugram Industrial Location 0739,Factory,India,Haryana,Gurugram,18.243,76.509,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00740,Chennai Industrial Location 0740,Distribution Center,India,Tamil Nadu,Chennai,25.38,87.94,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00741,Hyderabad Industrial Location 0741,Distribution Center,India,Telangana,Hyderabad,32.517,70.371,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00742,Pune Industrial Location 0742,Port,India,Maharashtra,Pune,11.654,81.802,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00743,Dhaka Industrial Location 0743,Distribution Center,Bangladesh,Dhaka,Dhaka,18.791,93.233,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00744,Ho Chi Minh City Industrial Location 0744,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,25.928,75.664,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00745,Shenzhen Industrial Location 0745,Office,China,Guangdong,Shenzhen,33.065,87.095,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00746,Hsinchu Industrial Location 0746,Office,Taiwan,Hsinchu,Hsinchu,12.202,69.526,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00747,Tokyo Industrial Location 0747,Factory,Japan,Tokyo,Tokyo,19.339,80.957,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00748,Munich Industrial Location 0748,Distribution Center,Germany,Bavaria,Munich,26.476,92.388,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00749,Austin Industrial Location 0749,Warehouse,USA,Texas,Austin,33.613,74.819,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00750,Monterrey Industrial Location 0750,Factory,Mexico,Nuevo Leon,Monterrey,12.75,86.25,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00751,Mumbai Industrial Location 0751,Port,India,Maharashtra,Mumbai,19.887,68.681,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00752,Bengaluru Industrial Location 0752,Factory,India,Karnataka,Bengaluru,27.024,80.112,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00753,Noida Industrial Location 0753,Port,India,Uttar Pradesh,Noida,34.161,91.543,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00754,Gurugram Industrial Location 0754,Port,India,Haryana,Gurugram,13.298,73.974,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00755,Chennai Industrial Location 0755,Port,India,Tamil Nadu,Chennai,20.435,85.405,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00756,Hyderabad Industrial Location 0756,Warehouse,India,Telangana,Hyderabad,27.572,96.836,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00757,Pune Industrial Location 0757,Port,India,Maharashtra,Pune,34.709,79.267,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00758,Dhaka Industrial Location 0758,Warehouse,Bangladesh,Dhaka,Dhaka,13.846,90.698,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00759,Ho Chi Minh City Industrial Location 0759,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,20.983,73.129,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00760,Shenzhen Industrial Location 0760,Distribution Center,China,Guangdong,Shenzhen,28.12,84.56,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00761,Hsinchu Industrial Location 0761,Port,Taiwan,Hsinchu,Hsinchu,35.257,95.991,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00762,Tokyo Industrial Location 0762,Distribution Center,Japan,Tokyo,Tokyo,14.394,78.422,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00763,Munich Industrial Location 0763,Port,Germany,Bavaria,Munich,21.531,89.853,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00764,Austin Industrial Location 0764,Warehouse,USA,Texas,Austin,28.668,72.284,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00765,Monterrey Industrial Location 0765,Office,Mexico,Nuevo Leon,Monterrey,35.805,83.715,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00766,Mumbai Industrial Location 0766,Warehouse,India,Maharashtra,Mumbai,14.942,95.146,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00767,Bengaluru Industrial Location 0767,Office,India,Karnataka,Bengaluru,22.079,77.577,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00768,Noida Industrial Location 0768,Warehouse,India,Uttar Pradesh,Noida,29.216,89.008,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00769,Gurugram Industrial Location 0769,Port,India,Haryana,Gurugram,8.353,71.439,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00770,Chennai Industrial Location 0770,Office,India,Tamil Nadu,Chennai,15.49,82.87,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00771,Hyderabad Industrial Location 0771,Port,India,Telangana,Hyderabad,22.627,94.301,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00772,Pune Industrial Location 0772,Distribution Center,India,Maharashtra,Pune,29.764,76.732,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00773,Dhaka Industrial Location 0773,Office,Bangladesh,Dhaka,Dhaka,8.901,88.163,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00774,Ho Chi Minh City Industrial Location 0774,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,16.038,70.594,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00775,Shenzhen Industrial Location 0775,Factory,China,Guangdong,Shenzhen,23.175,82.025,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00776,Hsinchu Industrial Location 0776,Office,Taiwan,Hsinchu,Hsinchu,30.312,93.456,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00777,Tokyo Industrial Location 0777,Distribution Center,Japan,Tokyo,Tokyo,9.449,75.887,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00778,Munich Industrial Location 0778,Distribution Center,Germany,Bavaria,Munich,16.586,87.318,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00779,Austin Industrial Location 0779,Factory,USA,Texas,Austin,23.723,69.749,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00780,Monterrey Industrial Location 0780,Office,Mexico,Nuevo Leon,Monterrey,30.86,81.18,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00781,Mumbai Industrial Location 0781,Distribution Center,India,Maharashtra,Mumbai,9.997,92.611,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00782,Bengaluru Industrial Location 0782,Factory,India,Karnataka,Bengaluru,17.134,75.042,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00783,Noida Industrial Location 0783,Warehouse,India,Uttar Pradesh,Noida,24.271,86.473,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00784,Gurugram Industrial Location 0784,Factory,India,Haryana,Gurugram,31.408,68.904,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00785,Chennai Industrial Location 0785,Office,India,Tamil Nadu,Chennai,10.545,80.335,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00786,Hyderabad Industrial Location 0786,Distribution Center,India,Telangana,Hyderabad,17.682,91.766,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00787,Pune Industrial Location 0787,Factory,India,Maharashtra,Pune,24.819,74.197,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00788,Dhaka Industrial Location 0788,Office,Bangladesh,Dhaka,Dhaka,31.956,85.628,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00789,Ho Chi Minh City Industrial Location 0789,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,11.093,68.059,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00790,Shenzhen Industrial Location 0790,Distribution Center,China,Guangdong,Shenzhen,18.23,79.49,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00791,Hsinchu Industrial Location 0791,Warehouse,Taiwan,Hsinchu,Hsinchu,25.367,90.921,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00792,Tokyo Industrial Location 0792,Distribution Center,Japan,Tokyo,Tokyo,32.504,73.352,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00793,Munich Industrial Location 0793,Distribution Center,Germany,Bavaria,Munich,11.641,84.783,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00794,Austin Industrial Location 0794,Warehouse,USA,Texas,Austin,18.778,96.214,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00795,Monterrey Industrial Location 0795,Factory,Mexico,Nuevo Leon,Monterrey,25.915,78.645,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00796,Mumbai Industrial Location 0796,Factory,India,Maharashtra,Mumbai,33.052,90.076,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00797,Bengaluru Industrial Location 0797,Office,India,Karnataka,Bengaluru,12.189,72.507,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00798,Noida Industrial Location 0798,Office,India,Uttar Pradesh,Noida,19.326,83.938,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00799,Gurugram Industrial Location 0799,Office,India,Haryana,Gurugram,26.463,95.369,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00800,Chennai Industrial Location 0800,Office,India,Tamil Nadu,Chennai,33.6,77.8,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00801,Hyderabad Industrial Location 0801,Port,India,Telangana,Hyderabad,12.737,89.231,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00802,Pune Industrial Location 0802,Warehouse,India,Maharashtra,Pune,19.874,71.662,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00803,Dhaka Industrial Location 0803,Distribution Center,Bangladesh,Dhaka,Dhaka,27.011,83.093,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00804,Ho Chi Minh City Industrial Location 0804,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,34.148,94.524,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00805,Shenzhen Industrial Location 0805,Office,China,Guangdong,Shenzhen,13.285,76.955,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00806,Hsinchu Industrial Location 0806,Distribution Center,Taiwan,Hsinchu,Hsinchu,20.422,88.386,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00807,Tokyo Industrial Location 0807,Office,Japan,Tokyo,Tokyo,27.559,70.817,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00808,Munich Industrial Location 0808,Office,Germany,Bavaria,Munich,34.696,82.248,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00809,Austin Industrial Location 0809,Factory,USA,Texas,Austin,13.833,93.679,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00810,Monterrey Industrial Location 0810,Factory,Mexico,Nuevo Leon,Monterrey,20.97,76.11,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00811,Mumbai Industrial Location 0811,Factory,India,Maharashtra,Mumbai,28.107,87.541,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00812,Bengaluru Industrial Location 0812,Warehouse,India,Karnataka,Bengaluru,35.244,69.972,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00813,Noida Industrial Location 0813,Port,India,Uttar Pradesh,Noida,14.381,81.403,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00814,Gurugram Industrial Location 0814,Office,India,Haryana,Gurugram,21.518,92.834,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00815,Chennai Industrial Location 0815,Warehouse,India,Tamil Nadu,Chennai,28.655,75.265,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00816,Hyderabad Industrial Location 0816,Port,India,Telangana,Hyderabad,35.792,86.696,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00817,Pune Industrial Location 0817,Factory,India,Maharashtra,Pune,14.929,69.127,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00818,Dhaka Industrial Location 0818,Office,Bangladesh,Dhaka,Dhaka,22.066,80.558,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00819,Ho Chi Minh City Industrial Location 0819,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,29.203,91.989,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00820,Shenzhen Industrial Location 0820,Factory,China,Guangdong,Shenzhen,8.34,74.42,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00821,Hsinchu Industrial Location 0821,Office,Taiwan,Hsinchu,Hsinchu,15.477,85.851,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00822,Tokyo Industrial Location 0822,Warehouse,Japan,Tokyo,Tokyo,22.614,68.282,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00823,Munich Industrial Location 0823,Distribution Center,Germany,Bavaria,Munich,29.751,79.713,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00824,Austin Industrial Location 0824,Warehouse,USA,Texas,Austin,8.888,91.144,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00825,Monterrey Industrial Location 0825,Office,Mexico,Nuevo Leon,Monterrey,16.025,73.575,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00826,Mumbai Industrial Location 0826,Warehouse,India,Maharashtra,Mumbai,23.162,85.006,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00827,Bengaluru Industrial Location 0827,Warehouse,India,Karnataka,Bengaluru,30.299,96.437,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00828,Noida Industrial Location 0828,Port,India,Uttar Pradesh,Noida,9.436,78.868,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00829,Gurugram Industrial Location 0829,Factory,India,Haryana,Gurugram,16.573,90.299,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00830,Chennai Industrial Location 0830,Warehouse,India,Tamil Nadu,Chennai,23.71,72.73,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00831,Hyderabad Industrial Location 0831,Port,India,Telangana,Hyderabad,30.847,84.161,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00832,Pune Industrial Location 0832,Port,India,Maharashtra,Pune,9.984,95.592,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00833,Dhaka Industrial Location 0833,Office,Bangladesh,Dhaka,Dhaka,17.121,78.023,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00834,Ho Chi Minh City Industrial Location 0834,Factory,Vietnam,Ho Chi Minh,Ho Chi Minh City,24.258,89.454,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00835,Shenzhen Industrial Location 0835,Port,China,Guangdong,Shenzhen,31.395,71.885,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00836,Hsinchu Industrial Location 0836,Factory,Taiwan,Hsinchu,Hsinchu,10.532,83.316,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00837,Tokyo Industrial Location 0837,Distribution Center,Japan,Tokyo,Tokyo,17.669,94.747,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00838,Munich Industrial Location 0838,Port,Germany,Bavaria,Munich,24.806,77.178,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00839,Austin Industrial Location 0839,Port,USA,Texas,Austin,31.943,88.609,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00840,Monterrey Industrial Location 0840,Office,Mexico,Nuevo Leon,Monterrey,11.08,71.04,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00841,Mumbai Industrial Location 0841,Warehouse,India,Maharashtra,Mumbai,18.217,82.471,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00842,Bengaluru Industrial Location 0842,Warehouse,India,Karnataka,Bengaluru,25.354,93.902,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00843,Noida Industrial Location 0843,Distribution Center,India,Uttar Pradesh,Noida,32.491,76.333,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00844,Gurugram Industrial Location 0844,Port,India,Haryana,Gurugram,11.628,87.764,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00845,Chennai Industrial Location 0845,Office,India,Tamil Nadu,Chennai,18.765,70.195,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00846,Hyderabad Industrial Location 0846,Port,India,Telangana,Hyderabad,25.902,81.626,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00847,Pune Industrial Location 0847,Factory,India,Maharashtra,Pune,33.039,93.057,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00848,Dhaka Industrial Location 0848,Factory,Bangladesh,Dhaka,Dhaka,12.176,75.488,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00849,Ho Chi Minh City Industrial Location 0849,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,19.313,86.919,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00850,Shenzhen Industrial Location 0850,Warehouse,China,Guangdong,Shenzhen,26.45,69.35,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00851,Hsinchu Industrial Location 0851,Factory,Taiwan,Hsinchu,Hsinchu,33.587,80.781,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00852,Tokyo Industrial Location 0852,Warehouse,Japan,Tokyo,Tokyo,12.724,92.212,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00853,Munich Industrial Location 0853,Factory,Germany,Bavaria,Munich,19.861,74.643,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00854,Austin Industrial Location 0854,Factory,USA,Texas,Austin,26.998,86.074,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00855,Monterrey Industrial Location 0855,Factory,Mexico,Nuevo Leon,Monterrey,34.135,68.505,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00856,Mumbai Industrial Location 0856,Port,India,Maharashtra,Mumbai,13.272,79.936,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00857,Bengaluru Industrial Location 0857,Factory,India,Karnataka,Bengaluru,20.409,91.367,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00858,Noida Industrial Location 0858,Factory,India,Uttar Pradesh,Noida,27.546,73.798,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00859,Gurugram Industrial Location 0859,Warehouse,India,Haryana,Gurugram,34.683,85.229,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00860,Chennai Industrial Location 0860,Warehouse,India,Tamil Nadu,Chennai,13.82,96.66,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00861,Hyderabad Industrial Location 0861,Warehouse,India,Telangana,Hyderabad,20.957,79.091,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00862,Pune Industrial Location 0862,Warehouse,India,Maharashtra,Pune,28.094,90.522,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00863,Dhaka Industrial Location 0863,Factory,Bangladesh,Dhaka,Dhaka,35.231,72.953,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00864,Ho Chi Minh City Industrial Location 0864,Warehouse,Vietnam,Ho Chi Minh,Ho Chi Minh City,14.368,84.384,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00865,Shenzhen Industrial Location 0865,Factory,China,Guangdong,Shenzhen,21.505,95.815,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00866,Hsinchu Industrial Location 0866,Distribution Center,Taiwan,Hsinchu,Hsinchu,28.642,78.246,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00867,Tokyo Industrial Location 0867,Distribution Center,Japan,Tokyo,Tokyo,35.779,89.677,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00868,Munich Industrial Location 0868,Office,Germany,Bavaria,Munich,14.916,72.108,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00869,Austin Industrial Location 0869,Port,USA,Texas,Austin,22.053,83.539,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00870,Monterrey Industrial Location 0870,Factory,Mexico,Nuevo Leon,Monterrey,29.19,94.97,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00871,Mumbai Industrial Location 0871,Distribution Center,India,Maharashtra,Mumbai,8.327,77.401,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00872,Bengaluru Industrial Location 0872,Warehouse,India,Karnataka,Bengaluru,15.464,88.832,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00873,Noida Industrial Location 0873,Factory,India,Uttar Pradesh,Noida,22.601,71.263,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00874,Gurugram Industrial Location 0874,Office,India,Haryana,Gurugram,29.738,82.694,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00875,Chennai Industrial Location 0875,Warehouse,India,Tamil Nadu,Chennai,8.875,94.125,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00876,Hyderabad Industrial Location 0876,Port,India,Telangana,Hyderabad,16.012,76.556,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00877,Pune Industrial Location 0877,Distribution Center,India,Maharashtra,Pune,23.149,87.987,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00878,Dhaka Industrial Location 0878,Office,Bangladesh,Dhaka,Dhaka,30.286,70.418,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00879,Ho Chi Minh City Industrial Location 0879,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,9.423,81.849,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00880,Shenzhen Industrial Location 0880,Port,China,Guangdong,Shenzhen,16.56,93.28,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00881,Hsinchu Industrial Location 0881,Port,Taiwan,Hsinchu,Hsinchu,23.697,75.711,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00882,Tokyo Industrial Location 0882,Office,Japan,Tokyo,Tokyo,30.834,87.142,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00883,Munich Industrial Location 0883,Distribution Center,Germany,Bavaria,Munich,9.971,69.573,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00884,Austin Industrial Location 0884,Office,USA,Texas,Austin,17.108,81.004,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00885,Monterrey Industrial Location 0885,Warehouse,Mexico,Nuevo Leon,Monterrey,24.245,92.435,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00886,Mumbai Industrial Location 0886,Office,India,Maharashtra,Mumbai,31.382,74.866,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00887,Bengaluru Industrial Location 0887,Port,India,Karnataka,Bengaluru,10.519,86.297,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00888,Noida Industrial Location 0888,Port,India,Uttar Pradesh,Noida,17.656,68.728,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00889,Gurugram Industrial Location 0889,Distribution Center,India,Haryana,Gurugram,24.793,80.159,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00890,Chennai Industrial Location 0890,Office,India,Tamil Nadu,Chennai,31.93,91.59,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00891,Hyderabad Industrial Location 0891,Warehouse,India,Telangana,Hyderabad,11.067,74.021,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00892,Pune Industrial Location 0892,Distribution Center,India,Maharashtra,Pune,18.204,85.452,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00893,Dhaka Industrial Location 0893,Distribution Center,Bangladesh,Dhaka,Dhaka,25.341,96.883,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00894,Ho Chi Minh City Industrial Location 0894,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,32.478,79.314,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00895,Shenzhen Industrial Location 0895,Warehouse,China,Guangdong,Shenzhen,11.615,90.745,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00896,Hsinchu Industrial Location 0896,Port,Taiwan,Hsinchu,Hsinchu,18.752,73.176,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00897,Tokyo Industrial Location 0897,Factory,Japan,Tokyo,Tokyo,25.889,84.607,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00898,Munich Industrial Location 0898,Port,Germany,Bavaria,Munich,33.026,96.038,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00899,Austin Industrial Location 0899,Warehouse,USA,Texas,Austin,12.163,78.469,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00900,Monterrey Industrial Location 0900,Port,Mexico,Nuevo Leon,Monterrey,19.3,89.9,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00901,Mumbai Industrial Location 0901,Port,India,Maharashtra,Mumbai,26.437,72.331,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00902,Bengaluru Industrial Location 0902,Warehouse,India,Karnataka,Bengaluru,33.574,83.762,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00903,Noida Industrial Location 0903,Distribution Center,India,Uttar Pradesh,Noida,12.711,95.193,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00904,Gurugram Industrial Location 0904,Distribution Center,India,Haryana,Gurugram,19.848,77.624,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00905,Chennai Industrial Location 0905,Warehouse,India,Tamil Nadu,Chennai,26.985,89.055,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00906,Hyderabad Industrial Location 0906,Warehouse,India,Telangana,Hyderabad,34.122,71.486,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00907,Pune Industrial Location 0907,Distribution Center,India,Maharashtra,Pune,13.259,82.917,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00908,Dhaka Industrial Location 0908,Port,Bangladesh,Dhaka,Dhaka,20.396,94.348,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00909,Ho Chi Minh City Industrial Location 0909,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,27.533,76.779,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00910,Shenzhen Industrial Location 0910,Office,China,Guangdong,Shenzhen,34.67,88.21,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00911,Hsinchu Industrial Location 0911,Distribution Center,Taiwan,Hsinchu,Hsinchu,13.807,70.641,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00912,Tokyo Industrial Location 0912,Distribution Center,Japan,Tokyo,Tokyo,20.944,82.072,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00913,Munich Industrial Location 0913,Factory,Germany,Bavaria,Munich,28.081,93.503,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00914,Austin Industrial Location 0914,Office,USA,Texas,Austin,35.218,75.934,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00915,Monterrey Industrial Location 0915,Port,Mexico,Nuevo Leon,Monterrey,14.355,87.365,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00916,Mumbai Industrial Location 0916,Distribution Center,India,Maharashtra,Mumbai,21.492,69.796,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00917,Bengaluru Industrial Location 0917,Office,India,Karnataka,Bengaluru,28.629,81.227,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00918,Noida Industrial Location 0918,Office,India,Uttar Pradesh,Noida,35.766,92.658,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00919,Gurugram Industrial Location 0919,Factory,India,Haryana,Gurugram,14.903,75.089,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00920,Chennai Industrial Location 0920,Factory,India,Tamil Nadu,Chennai,22.04,86.52,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00921,Hyderabad Industrial Location 0921,Office,India,Telangana,Hyderabad,29.177,68.951,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00922,Pune Industrial Location 0922,Warehouse,India,Maharashtra,Pune,8.314,80.382,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00923,Dhaka Industrial Location 0923,Distribution Center,Bangladesh,Dhaka,Dhaka,15.451,91.813,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00924,Ho Chi Minh City Industrial Location 0924,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,22.588,74.244,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00925,Shenzhen Industrial Location 0925,Warehouse,China,Guangdong,Shenzhen,29.725,85.675,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00926,Hsinchu Industrial Location 0926,Factory,Taiwan,Hsinchu,Hsinchu,8.862,68.106,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00927,Tokyo Industrial Location 0927,Office,Japan,Tokyo,Tokyo,15.999,79.537,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00928,Munich Industrial Location 0928,Office,Germany,Bavaria,Munich,23.136,90.968,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00929,Austin Industrial Location 0929,Factory,USA,Texas,Austin,30.273,73.399,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00930,Monterrey Industrial Location 0930,Factory,Mexico,Nuevo Leon,Monterrey,9.41,84.83,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00931,Mumbai Industrial Location 0931,Office,India,Maharashtra,Mumbai,16.547,96.261,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00932,Bengaluru Industrial Location 0932,Distribution Center,India,Karnataka,Bengaluru,23.684,78.692,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00933,Noida Industrial Location 0933,Distribution Center,India,Uttar Pradesh,Noida,30.821,90.123,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00934,Gurugram Industrial Location 0934,Warehouse,India,Haryana,Gurugram,9.958,72.554,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00935,Chennai Industrial Location 0935,Distribution Center,India,Tamil Nadu,Chennai,17.095,83.985,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00936,Hyderabad Industrial Location 0936,Warehouse,India,Telangana,Hyderabad,24.232,95.416,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00937,Pune Industrial Location 0937,Office,India,Maharashtra,Pune,31.369,77.847,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00938,Dhaka Industrial Location 0938,Office,Bangladesh,Dhaka,Dhaka,10.506,89.278,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00939,Ho Chi Minh City Industrial Location 0939,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,17.643,71.709,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00940,Shenzhen Industrial Location 0940,Port,China,Guangdong,Shenzhen,24.78,83.14,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00941,Hsinchu Industrial Location 0941,Factory,Taiwan,Hsinchu,Hsinchu,31.917,94.571,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00942,Tokyo Industrial Location 0942,Factory,Japan,Tokyo,Tokyo,11.054,77.002,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00943,Munich Industrial Location 0943,Warehouse,Germany,Bavaria,Munich,18.191,88.433,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00944,Austin Industrial Location 0944,Warehouse,USA,Texas,Austin,25.328,70.864,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00945,Monterrey Industrial Location 0945,Office,Mexico,Nuevo Leon,Monterrey,32.465,82.295,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00946,Mumbai Industrial Location 0946,Port,India,Maharashtra,Mumbai,11.602,93.726,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00947,Bengaluru Industrial Location 0947,Office,India,Karnataka,Bengaluru,18.739,76.157,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00948,Noida Industrial Location 0948,Port,India,Uttar Pradesh,Noida,25.876,87.588,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00949,Gurugram Industrial Location 0949,Factory,India,Haryana,Gurugram,33.013,70.019,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00950,Chennai Industrial Location 0950,Port,India,Tamil Nadu,Chennai,12.15,81.45,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00951,Hyderabad Industrial Location 0951,Office,India,Telangana,Hyderabad,19.287,92.881,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00952,Pune Industrial Location 0952,Warehouse,India,Maharashtra,Pune,26.424,75.312,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00953,Dhaka Industrial Location 0953,Office,Bangladesh,Dhaka,Dhaka,33.561,86.743,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00954,Ho Chi Minh City Industrial Location 0954,Office,Vietnam,Ho Chi Minh,Ho Chi Minh City,12.698,69.174,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00955,Shenzhen Industrial Location 0955,Port,China,Guangdong,Shenzhen,19.835,80.605,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00956,Hsinchu Industrial Location 0956,Factory,Taiwan,Hsinchu,Hsinchu,26.972,92.036,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00957,Tokyo Industrial Location 0957,Port,Japan,Tokyo,Tokyo,34.109,74.467,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00958,Munich Industrial Location 0958,Warehouse,Germany,Bavaria,Munich,13.246,85.898,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00959,Austin Industrial Location 0959,Office,USA,Texas,Austin,20.383,68.329,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00960,Monterrey Industrial Location 0960,Port,Mexico,Nuevo Leon,Monterrey,27.52,79.76,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00961,Mumbai Industrial Location 0961,Factory,India,Maharashtra,Mumbai,34.657,91.191,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00962,Bengaluru Industrial Location 0962,Factory,India,Karnataka,Bengaluru,13.794,73.622,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00963,Noida Industrial Location 0963,Distribution Center,India,Uttar Pradesh,Noida,20.931,85.053,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00964,Gurugram Industrial Location 0964,Warehouse,India,Haryana,Gurugram,28.068,96.484,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00965,Chennai Industrial Location 0965,Factory,India,Tamil Nadu,Chennai,35.205,78.915,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00966,Hyderabad Industrial Location 0966,Warehouse,India,Telangana,Hyderabad,14.342,90.346,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00967,Pune Industrial Location 0967,Warehouse,India,Maharashtra,Pune,21.479,72.777,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00968,Dhaka Industrial Location 0968,Distribution Center,Bangladesh,Dhaka,Dhaka,28.616,84.208,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00969,Ho Chi Minh City Industrial Location 0969,Port,Vietnam,Ho Chi Minh,Ho Chi Minh City,35.753,95.639,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00970,Shenzhen Industrial Location 0970,Warehouse,China,Guangdong,Shenzhen,14.89,78.07,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00971,Hsinchu Industrial Location 0971,Warehouse,Taiwan,Hsinchu,Hsinchu,22.027,89.501,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00972,Tokyo Industrial Location 0972,Port,Japan,Tokyo,Tokyo,29.164,71.932,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00973,Munich Industrial Location 0973,Distribution Center,Germany,Bavaria,Munich,8.301,83.363,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00974,Austin Industrial Location 0974,Port,USA,Texas,Austin,15.438,94.794,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00975,Monterrey Industrial Location 0975,Warehouse,Mexico,Nuevo Leon,Monterrey,22.575,77.225,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00976,Mumbai Industrial Location 0976,Distribution Center,India,Maharashtra,Mumbai,29.712,88.656,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00977,Bengaluru Industrial Location 0977,Warehouse,India,Karnataka,Bengaluru,8.849,71.087,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00978,Noida Industrial Location 0978,Distribution Center,India,Uttar Pradesh,Noida,15.986,82.518,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00979,Gurugram Industrial Location 0979,Office,India,Haryana,Gurugram,23.123,93.949,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00980,Chennai Industrial Location 0980,Warehouse,India,Tamil Nadu,Chennai,30.26,76.38,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00981,Hyderabad Industrial Location 0981,Port,India,Telangana,Hyderabad,9.397,87.811,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00982,Pune Industrial Location 0982,Factory,India,Maharashtra,Pune,16.534,70.242,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00983,Dhaka Industrial Location 0983,Warehouse,Bangladesh,Dhaka,Dhaka,23.671,81.673,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00984,Ho Chi Minh City Industrial Location 0984,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,30.808,93.104,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00985,Shenzhen Industrial Location 0985,Port,China,Guangdong,Shenzhen,9.945,75.535,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00986,Hsinchu Industrial Location 0986,Factory,Taiwan,Hsinchu,Hsinchu,17.082,86.966,Hsinchu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00987,Tokyo Industrial Location 0987,Port,Japan,Tokyo,Tokyo,24.219,69.397,Tokyo,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00988,Munich Industrial Location 0988,Port,Germany,Bavaria,Munich,31.356,80.828,Bavaria,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00989,Austin Industrial Location 0989,Office,USA,Texas,Austin,10.493,92.259,Texas,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00990,Monterrey Industrial Location 0990,Office,Mexico,Nuevo Leon,Monterrey,17.63,74.69,Nuevo Leon,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00991,Mumbai Industrial Location 0991,Warehouse,India,Maharashtra,Mumbai,24.767,86.121,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00992,Bengaluru Industrial Location 0992,Warehouse,India,Karnataka,Bengaluru,31.904,68.552,Karnataka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00993,Noida Industrial Location 0993,Distribution Center,India,Uttar Pradesh,Noida,11.041,79.983,Uttar Pradesh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00994,Gurugram Industrial Location 0994,Office,India,Haryana,Gurugram,18.178,91.414,Haryana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00995,Chennai Industrial Location 0995,Distribution Center,India,Tamil Nadu,Chennai,25.315,73.845,Tamil Nadu,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00996,Hyderabad Industrial Location 0996,Office,India,Telangana,Hyderabad,32.452,85.276,Telangana,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00997,Pune Industrial Location 0997,Factory,India,Maharashtra,Pune,11.589,96.707,Maharashtra,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00998,Dhaka Industrial Location 0998,Port,Bangladesh,Dhaka,Dhaka,18.726,79.138,Dhaka,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC00999,Ho Chi Minh City Industrial Location 0999,Distribution Center,Vietnam,Ho Chi Minh,Ho Chi Minh City,25.863,90.569,Ho Chi Minh,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO
+LOC01000,Shenzhen Industrial Location 1000,Office,China,Guangdong,Shenzhen,33.0,73.0,Guangdong,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real facility.,SYNTHETIC_DEMO

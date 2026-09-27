@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Sensitive environment variables (Never commit API keys!)
+.env
+.env.local
+.env.*.local
+
+# Databases & local run logs
+*.db
+*.sqlite3
+logs/*.log
+*.log
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

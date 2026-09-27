@@ -1,0 +1,2 @@
+event_id,news_id,title,event_type,trigger,impact,severity,location_name,location_id,supplier_id,supplier_name,source,url,published_at,data_status
+EVT-NEWS00001,NEWS00001,Demo supply-chain disruption article 0001,Supply Disruption,operational bottleneck,Delivery Delay,Medium,Unknown Location,,,,DEMO_NEWS_PLACEHOLDER,,2026-09-22T23:00:00+00:00,SYNTHETIC_DEMO

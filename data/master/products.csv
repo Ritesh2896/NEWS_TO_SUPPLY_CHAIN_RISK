@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,criticality,lead_time_days,substitutability,source,source_date,evidence,data_status
+PROD00001,Cotton knitwear 0001,Apparel,Cotton knitwear,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00002,PCB assembly 0002,Electronics,PCB assembly,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00003,Powertrain component 0003,Automotive,Powertrain component,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00004,Vial 0004,Pharma,Vial,HIGH,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00005,Industrial resin 0005,Chemicals,Industrial resin,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00006,Packaging material 0006,Food,Packaging material,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00007,Power semiconductor 0007,Semiconductors,Power semiconductor,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00008,Port handling 0008,Logistics,Port handling,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00009,Pump assembly 0009,Industrial Equipment,Pump assembly,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00010,Flexible packaging 0010,Packaging,Flexible packaging,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00011,Garment accessories 0011,Apparel,Garment accessories,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00012,Sensors 0012,Electronics,Sensors,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00013,Brake component 0013,Automotive,Brake component,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00014,Tablet excipient 0014,Pharma,Tablet excipient,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00015,Adhesive 0015,Chemicals,Adhesive,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00016,Cold-chain product 0016,Food,Cold-chain product,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00017,Memory chip 0017,Semiconductors,Memory chip,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00018,Freight forwarding 0018,Logistics,Freight forwarding,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00019,Valve 0019,Industrial Equipment,Valve,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00020,Label material 0020,Packaging,Label material,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00021,Cotton knitwear 0021,Apparel,Cotton knitwear,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00022,PCB assembly 0022,Electronics,PCB assembly,UNKNOWN,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00023,Powertrain component 0023,Automotive,Powertrain component,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00024,Vial 0024,Pharma,Vial,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00025,Industrial resin 0025,Chemicals,Industrial resin,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00026,Packaging material 0026,Food,Packaging material,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00027,Power semiconductor 0027,Semiconductors,Power semiconductor,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00028,Port handling 0028,Logistics,Port handling,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00029,Pump assembly 0029,Industrial Equipment,Pump assembly,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00030,Flexible packaging 0030,Packaging,Flexible packaging,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00031,Garment accessories 0031,Apparel,Garment accessories,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00032,Sensors 0032,Electronics,Sensors,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00033,Brake component 0033,Automotive,Brake component,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00034,Tablet excipient 0034,Pharma,Tablet excipient,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00035,Adhesive 0035,Chemicals,Adhesive,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00036,Cold-chain product 0036,Food,Cold-chain product,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00037,Memory chip 0037,Semiconductors,Memory chip,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00038,Freight forwarding 0038,Logistics,Freight forwarding,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00039,Valve 0039,Industrial Equipment,Valve,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00040,Label material 0040,Packaging,Label material,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00041,Cotton knitwear 0041,Apparel,Cotton knitwear,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00042,PCB assembly 0042,Electronics,PCB assembly,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00043,Powertrain component 0043,Automotive,Powertrain component,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00044,Vial 0044,Pharma,Vial,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00045,Industrial resin 0045,Chemicals,Industrial resin,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00046,Packaging material 0046,Food,Packaging material,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00047,Power semiconductor 0047,Semiconductors,Power semiconductor,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00048,Port handling 0048,Logistics,Port handling,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00049,Pump assembly 0049,Industrial Equipment,Pump assembly,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00050,Flexible packaging 0050,Packaging,Flexible packaging,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00051,Garment accessories 0051,Apparel,Garment accessories,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00052,Sensors 0052,Electronics,Sensors,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00053,Brake component 0053,Automotive,Brake component,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00054,Tablet excipient 0054,Pharma,Tablet excipient,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00055,Adhesive 0055,Chemicals,Adhesive,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00056,Cold-chain product 0056,Food,Cold-chain product,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00057,Memory chip 0057,Semiconductors,Memory chip,HIGH,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00058,Freight forwarding 0058,Logistics,Freight forwarding,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00059,Valve 0059,Industrial Equipment,Valve,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00060,Label material 0060,Packaging,Label material,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00061,Cotton knitwear 0061,Apparel,Cotton knitwear,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00062,PCB assembly 0062,Electronics,PCB assembly,MEDIUM,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00063,Powertrain component 0063,Automotive,Powertrain component,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00064,Vial 0064,Pharma,Vial,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00065,Industrial resin 0065,Chemicals,Industrial resin,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00066,Packaging material 0066,Food,Packaging material,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00067,Power semiconductor 0067,Semiconductors,Power semiconductor,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00068,Port handling 0068,Logistics,Port handling,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00069,Pump assembly 0069,Industrial Equipment,Pump assembly,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00070,Flexible packaging 0070,Packaging,Flexible packaging,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00071,Garment accessories 0071,Apparel,Garment accessories,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00072,Sensors 0072,Electronics,Sensors,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00073,Brake component 0073,Automotive,Brake component,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00074,Tablet excipient 0074,Pharma,Tablet excipient,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00075,Adhesive 0075,Chemicals,Adhesive,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00076,Cold-chain product 0076,Food,Cold-chain product,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00077,Memory chip 0077,Semiconductors,Memory chip,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00078,Freight forwarding 0078,Logistics,Freight forwarding,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00079,Valve 0079,Industrial Equipment,Valve,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00080,Label material 0080,Packaging,Label material,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00081,Cotton knitwear 0081,Apparel,Cotton knitwear,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00082,PCB assembly 0082,Electronics,PCB assembly,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00083,Powertrain component 0083,Automotive,Powertrain component,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00084,Vial 0084,Pharma,Vial,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00085,Industrial resin 0085,Chemicals,Industrial resin,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00086,Packaging material 0086,Food,Packaging material,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00087,Power semiconductor 0087,Semiconductors,Power semiconductor,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00088,Port handling 0088,Logistics,Port handling,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00089,Pump assembly 0089,Industrial Equipment,Pump assembly,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00090,Flexible packaging 0090,Packaging,Flexible packaging,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00091,Garment accessories 0091,Apparel,Garment accessories,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00092,Sensors 0092,Electronics,Sensors,MEDIUM,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00093,Brake component 0093,Automotive,Brake component,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00094,Tablet excipient 0094,Pharma,Tablet excipient,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00095,Adhesive 0095,Chemicals,Adhesive,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00096,Cold-chain product 0096,Food,Cold-chain product,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00097,Memory chip 0097,Semiconductors,Memory chip,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00098,Freight forwarding 0098,Logistics,Freight forwarding,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00099,Valve 0099,Industrial Equipment,Valve,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00100,Label material 0100,Packaging,Label material,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00101,Cotton knitwear 0101,Apparel,Cotton knitwear,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00102,PCB assembly 0102,Electronics,PCB assembly,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00103,Powertrain component 0103,Automotive,Powertrain component,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00104,Vial 0104,Pharma,Vial,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00105,Industrial resin 0105,Chemicals,Industrial resin,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00106,Packaging material 0106,Food,Packaging material,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00107,Power semiconductor 0107,Semiconductors,Power semiconductor,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00108,Port handling 0108,Logistics,Port handling,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00109,Pump assembly 0109,Industrial Equipment,Pump assembly,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00110,Flexible packaging 0110,Packaging,Flexible packaging,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00111,Garment accessories 0111,Apparel,Garment accessories,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00112,Sensors 0112,Electronics,Sensors,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00113,Brake component 0113,Automotive,Brake component,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00114,Tablet excipient 0114,Pharma,Tablet excipient,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00115,Adhesive 0115,Chemicals,Adhesive,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00116,Cold-chain product 0116,Food,Cold-chain product,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00117,Memory chip 0117,Semiconductors,Memory chip,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00118,Freight forwarding 0118,Logistics,Freight forwarding,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00119,Valve 0119,Industrial Equipment,Valve,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00120,Label material 0120,Packaging,Label material,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00121,Cotton knitwear 0121,Apparel,Cotton knitwear,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00122,PCB assembly 0122,Electronics,PCB assembly,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00123,Powertrain component 0123,Automotive,Powertrain component,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00124,Vial 0124,Pharma,Vial,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00125,Industrial resin 0125,Chemicals,Industrial resin,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00126,Packaging material 0126,Food,Packaging material,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00127,Power semiconductor 0127,Semiconductors,Power semiconductor,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00128,Port handling 0128,Logistics,Port handling,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00129,Pump assembly 0129,Industrial Equipment,Pump assembly,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00130,Flexible packaging 0130,Packaging,Flexible packaging,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00131,Garment accessories 0131,Apparel,Garment accessories,UNKNOWN,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00132,Sensors 0132,Electronics,Sensors,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00133,Brake component 0133,Automotive,Brake component,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00134,Tablet excipient 0134,Pharma,Tablet excipient,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00135,Adhesive 0135,Chemicals,Adhesive,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00136,Cold-chain product 0136,Food,Cold-chain product,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00137,Memory chip 0137,Semiconductors,Memory chip,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00138,Freight forwarding 0138,Logistics,Freight forwarding,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00139,Valve 0139,Industrial Equipment,Valve,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00140,Label material 0140,Packaging,Label material,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00141,Cotton knitwear 0141,Apparel,Cotton knitwear,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00142,PCB assembly 0142,Electronics,PCB assembly,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00143,Powertrain component 0143,Automotive,Powertrain component,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00144,Vial 0144,Pharma,Vial,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00145,Industrial resin 0145,Chemicals,Industrial resin,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00146,Packaging material 0146,Food,Packaging material,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00147,Power semiconductor 0147,Semiconductors,Power semiconductor,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00148,Port handling 0148,Logistics,Port handling,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00149,Pump assembly 0149,Industrial Equipment,Pump assembly,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00150,Flexible packaging 0150,Packaging,Flexible packaging,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00151,Garment accessories 0151,Apparel,Garment accessories,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00152,Sensors 0152,Electronics,Sensors,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00153,Brake component 0153,Automotive,Brake component,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00154,Tablet excipient 0154,Pharma,Tablet excipient,UNKNOWN,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00155,Adhesive 0155,Chemicals,Adhesive,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00156,Cold-chain product 0156,Food,Cold-chain product,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00157,Memory chip 0157,Semiconductors,Memory chip,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00158,Freight forwarding 0158,Logistics,Freight forwarding,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00159,Valve 0159,Industrial Equipment,Valve,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00160,Label material 0160,Packaging,Label material,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00161,Cotton knitwear 0161,Apparel,Cotton knitwear,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00162,PCB assembly 0162,Electronics,PCB assembly,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00163,Powertrain component 0163,Automotive,Powertrain component,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00164,Vial 0164,Pharma,Vial,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00165,Industrial resin 0165,Chemicals,Industrial resin,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00166,Packaging material 0166,Food,Packaging material,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00167,Power semiconductor 0167,Semiconductors,Power semiconductor,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00168,Port handling 0168,Logistics,Port handling,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00169,Pump assembly 0169,Industrial Equipment,Pump assembly,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00170,Flexible packaging 0170,Packaging,Flexible packaging,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00171,Garment accessories 0171,Apparel,Garment accessories,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00172,Sensors 0172,Electronics,Sensors,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00173,Brake component 0173,Automotive,Brake component,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00174,Tablet excipient 0174,Pharma,Tablet excipient,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00175,Adhesive 0175,Chemicals,Adhesive,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00176,Cold-chain product 0176,Food,Cold-chain product,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00177,Memory chip 0177,Semiconductors,Memory chip,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00178,Freight forwarding 0178,Logistics,Freight forwarding,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00179,Valve 0179,Industrial Equipment,Valve,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00180,Label material 0180,Packaging,Label material,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00181,Cotton knitwear 0181,Apparel,Cotton knitwear,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00182,PCB assembly 0182,Electronics,PCB assembly,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00183,Powertrain component 0183,Automotive,Powertrain component,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00184,Vial 0184,Pharma,Vial,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00185,Industrial resin 0185,Chemicals,Industrial resin,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00186,Packaging material 0186,Food,Packaging material,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00187,Power semiconductor 0187,Semiconductors,Power semiconductor,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00188,Port handling 0188,Logistics,Port handling,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00189,Pump assembly 0189,Industrial Equipment,Pump assembly,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00190,Flexible packaging 0190,Packaging,Flexible packaging,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00191,Garment accessories 0191,Apparel,Garment accessories,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00192,Sensors 0192,Electronics,Sensors,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00193,Brake component 0193,Automotive,Brake component,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00194,Tablet excipient 0194,Pharma,Tablet excipient,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00195,Adhesive 0195,Chemicals,Adhesive,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00196,Cold-chain product 0196,Food,Cold-chain product,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00197,Memory chip 0197,Semiconductors,Memory chip,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00198,Freight forwarding 0198,Logistics,Freight forwarding,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00199,Valve 0199,Industrial Equipment,Valve,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00200,Label material 0200,Packaging,Label material,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00201,Cotton knitwear 0201,Apparel,Cotton knitwear,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00202,PCB assembly 0202,Electronics,PCB assembly,LOW,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00203,Powertrain component 0203,Automotive,Powertrain component,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00204,Vial 0204,Pharma,Vial,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00205,Industrial resin 0205,Chemicals,Industrial resin,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00206,Packaging material 0206,Food,Packaging material,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00207,Power semiconductor 0207,Semiconductors,Power semiconductor,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00208,Port handling 0208,Logistics,Port handling,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00209,Pump assembly 0209,Industrial Equipment,Pump assembly,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00210,Flexible packaging 0210,Packaging,Flexible packaging,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00211,Garment accessories 0211,Apparel,Garment accessories,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00212,Sensors 0212,Electronics,Sensors,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00213,Brake component 0213,Automotive,Brake component,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00214,Tablet excipient 0214,Pharma,Tablet excipient,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00215,Adhesive 0215,Chemicals,Adhesive,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00216,Cold-chain product 0216,Food,Cold-chain product,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00217,Memory chip 0217,Semiconductors,Memory chip,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00218,Freight forwarding 0218,Logistics,Freight forwarding,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00219,Valve 0219,Industrial Equipment,Valve,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00220,Label material 0220,Packaging,Label material,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00221,Cotton knitwear 0221,Apparel,Cotton knitwear,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00222,PCB assembly 0222,Electronics,PCB assembly,LOW,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00223,Powertrain component 0223,Automotive,Powertrain component,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00224,Vial 0224,Pharma,Vial,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00225,Industrial resin 0225,Chemicals,Industrial resin,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00226,Packaging material 0226,Food,Packaging material,UNKNOWN,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00227,Power semiconductor 0227,Semiconductors,Power semiconductor,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00228,Port handling 0228,Logistics,Port handling,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00229,Pump assembly 0229,Industrial Equipment,Pump assembly,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00230,Flexible packaging 0230,Packaging,Flexible packaging,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00231,Garment accessories 0231,Apparel,Garment accessories,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00232,Sensors 0232,Electronics,Sensors,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00233,Brake component 0233,Automotive,Brake component,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00234,Tablet excipient 0234,Pharma,Tablet excipient,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00235,Adhesive 0235,Chemicals,Adhesive,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00236,Cold-chain product 0236,Food,Cold-chain product,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00237,Memory chip 0237,Semiconductors,Memory chip,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00238,Freight forwarding 0238,Logistics,Freight forwarding,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00239,Valve 0239,Industrial Equipment,Valve,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00240,Label material 0240,Packaging,Label material,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00241,Cotton knitwear 0241,Apparel,Cotton knitwear,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00242,PCB assembly 0242,Electronics,PCB assembly,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00243,Powertrain component 0243,Automotive,Powertrain component,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00244,Vial 0244,Pharma,Vial,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00245,Industrial resin 0245,Chemicals,Industrial resin,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00246,Packaging material 0246,Food,Packaging material,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00247,Power semiconductor 0247,Semiconductors,Power semiconductor,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00248,Port handling 0248,Logistics,Port handling,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00249,Pump assembly 0249,Industrial Equipment,Pump assembly,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00250,Flexible packaging 0250,Packaging,Flexible packaging,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00251,Garment accessories 0251,Apparel,Garment accessories,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00252,Sensors 0252,Electronics,Sensors,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00253,Brake component 0253,Automotive,Brake component,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00254,Tablet excipient 0254,Pharma,Tablet excipient,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00255,Adhesive 0255,Chemicals,Adhesive,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00256,Cold-chain product 0256,Food,Cold-chain product,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00257,Memory chip 0257,Semiconductors,Memory chip,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00258,Freight forwarding 0258,Logistics,Freight forwarding,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00259,Valve 0259,Industrial Equipment,Valve,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00260,Label material 0260,Packaging,Label material,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00261,Cotton knitwear 0261,Apparel,Cotton knitwear,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00262,PCB assembly 0262,Electronics,PCB assembly,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00263,Powertrain component 0263,Automotive,Powertrain component,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00264,Vial 0264,Pharma,Vial,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00265,Industrial resin 0265,Chemicals,Industrial resin,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00266,Packaging material 0266,Food,Packaging material,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00267,Power semiconductor 0267,Semiconductors,Power semiconductor,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00268,Port handling 0268,Logistics,Port handling,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00269,Pump assembly 0269,Industrial Equipment,Pump assembly,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00270,Flexible packaging 0270,Packaging,Flexible packaging,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00271,Garment accessories 0271,Apparel,Garment accessories,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00272,Sensors 0272,Electronics,Sensors,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00273,Brake component 0273,Automotive,Brake component,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00274,Tablet excipient 0274,Pharma,Tablet excipient,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00275,Adhesive 0275,Chemicals,Adhesive,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00276,Cold-chain product 0276,Food,Cold-chain product,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00277,Memory chip 0277,Semiconductors,Memory chip,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00278,Freight forwarding 0278,Logistics,Freight forwarding,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00279,Valve 0279,Industrial Equipment,Valve,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00280,Label material 0280,Packaging,Label material,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00281,Cotton knitwear 0281,Apparel,Cotton knitwear,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00282,PCB assembly 0282,Electronics,PCB assembly,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00283,Powertrain component 0283,Automotive,Powertrain component,UNKNOWN,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00284,Vial 0284,Pharma,Vial,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00285,Industrial resin 0285,Chemicals,Industrial resin,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00286,Packaging material 0286,Food,Packaging material,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00287,Power semiconductor 0287,Semiconductors,Power semiconductor,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00288,Port handling 0288,Logistics,Port handling,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00289,Pump assembly 0289,Industrial Equipment,Pump assembly,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00290,Flexible packaging 0290,Packaging,Flexible packaging,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00291,Garment accessories 0291,Apparel,Garment accessories,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00292,Sensors 0292,Electronics,Sensors,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00293,Brake component 0293,Automotive,Brake component,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00294,Tablet excipient 0294,Pharma,Tablet excipient,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00295,Adhesive 0295,Chemicals,Adhesive,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00296,Cold-chain product 0296,Food,Cold-chain product,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00297,Memory chip 0297,Semiconductors,Memory chip,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00298,Freight forwarding 0298,Logistics,Freight forwarding,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00299,Valve 0299,Industrial Equipment,Valve,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00300,Label material 0300,Packaging,Label material,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00301,Cotton knitwear 0301,Apparel,Cotton knitwear,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00302,PCB assembly 0302,Electronics,PCB assembly,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00303,Powertrain component 0303,Automotive,Powertrain component,UNKNOWN,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00304,Vial 0304,Pharma,Vial,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00305,Industrial resin 0305,Chemicals,Industrial resin,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00306,Packaging material 0306,Food,Packaging material,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00307,Power semiconductor 0307,Semiconductors,Power semiconductor,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00308,Port handling 0308,Logistics,Port handling,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00309,Pump assembly 0309,Industrial Equipment,Pump assembly,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00310,Flexible packaging 0310,Packaging,Flexible packaging,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00311,Garment accessories 0311,Apparel,Garment accessories,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00312,Sensors 0312,Electronics,Sensors,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00313,Brake component 0313,Automotive,Brake component,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00314,Tablet excipient 0314,Pharma,Tablet excipient,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00315,Adhesive 0315,Chemicals,Adhesive,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00316,Cold-chain product 0316,Food,Cold-chain product,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00317,Memory chip 0317,Semiconductors,Memory chip,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00318,Freight forwarding 0318,Logistics,Freight forwarding,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00319,Valve 0319,Industrial Equipment,Valve,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00320,Label material 0320,Packaging,Label material,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00321,Cotton knitwear 0321,Apparel,Cotton knitwear,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00322,PCB assembly 0322,Electronics,PCB assembly,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00323,Powertrain component 0323,Automotive,Powertrain component,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00324,Vial 0324,Pharma,Vial,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00325,Industrial resin 0325,Chemicals,Industrial resin,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00326,Packaging material 0326,Food,Packaging material,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00327,Power semiconductor 0327,Semiconductors,Power semiconductor,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00328,Port handling 0328,Logistics,Port handling,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00329,Pump assembly 0329,Industrial Equipment,Pump assembly,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00330,Flexible packaging 0330,Packaging,Flexible packaging,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00331,Garment accessories 0331,Apparel,Garment accessories,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00332,Sensors 0332,Electronics,Sensors,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00333,Brake component 0333,Automotive,Brake component,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00334,Tablet excipient 0334,Pharma,Tablet excipient,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00335,Adhesive 0335,Chemicals,Adhesive,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00336,Cold-chain product 0336,Food,Cold-chain product,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00337,Memory chip 0337,Semiconductors,Memory chip,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00338,Freight forwarding 0338,Logistics,Freight forwarding,UNKNOWN,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00339,Valve 0339,Industrial Equipment,Valve,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00340,Label material 0340,Packaging,Label material,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00341,Cotton knitwear 0341,Apparel,Cotton knitwear,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00342,PCB assembly 0342,Electronics,PCB assembly,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00343,Powertrain component 0343,Automotive,Powertrain component,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00344,Vial 0344,Pharma,Vial,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00345,Industrial resin 0345,Chemicals,Industrial resin,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00346,Packaging material 0346,Food,Packaging material,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00347,Power semiconductor 0347,Semiconductors,Power semiconductor,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00348,Port handling 0348,Logistics,Port handling,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00349,Pump assembly 0349,Industrial Equipment,Pump assembly,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00350,Flexible packaging 0350,Packaging,Flexible packaging,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00351,Garment accessories 0351,Apparel,Garment accessories,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00352,Sensors 0352,Electronics,Sensors,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00353,Brake component 0353,Automotive,Brake component,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00354,Tablet excipient 0354,Pharma,Tablet excipient,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00355,Adhesive 0355,Chemicals,Adhesive,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00356,Cold-chain product 0356,Food,Cold-chain product,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00357,Memory chip 0357,Semiconductors,Memory chip,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00358,Freight forwarding 0358,Logistics,Freight forwarding,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00359,Valve 0359,Industrial Equipment,Valve,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00360,Label material 0360,Packaging,Label material,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00361,Cotton knitwear 0361,Apparel,Cotton knitwear,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00362,PCB assembly 0362,Electronics,PCB assembly,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00363,Powertrain component 0363,Automotive,Powertrain component,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00364,Vial 0364,Pharma,Vial,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00365,Industrial resin 0365,Chemicals,Industrial resin,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00366,Packaging material 0366,Food,Packaging material,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00367,Power semiconductor 0367,Semiconductors,Power semiconductor,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00368,Port handling 0368,Logistics,Port handling,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00369,Pump assembly 0369,Industrial Equipment,Pump assembly,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00370,Flexible packaging 0370,Packaging,Flexible packaging,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00371,Garment accessories 0371,Apparel,Garment accessories,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00372,Sensors 0372,Electronics,Sensors,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00373,Brake component 0373,Automotive,Brake component,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00374,Tablet excipient 0374,Pharma,Tablet excipient,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00375,Adhesive 0375,Chemicals,Adhesive,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00376,Cold-chain product 0376,Food,Cold-chain product,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00377,Memory chip 0377,Semiconductors,Memory chip,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00378,Freight forwarding 0378,Logistics,Freight forwarding,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00379,Valve 0379,Industrial Equipment,Valve,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00380,Label material 0380,Packaging,Label material,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00381,Cotton knitwear 0381,Apparel,Cotton knitwear,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00382,PCB assembly 0382,Electronics,PCB assembly,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00383,Powertrain component 0383,Automotive,Powertrain component,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00384,Vial 0384,Pharma,Vial,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00385,Industrial resin 0385,Chemicals,Industrial resin,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00386,Packaging material 0386,Food,Packaging material,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00387,Power semiconductor 0387,Semiconductors,Power semiconductor,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00388,Port handling 0388,Logistics,Port handling,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00389,Pump assembly 0389,Industrial Equipment,Pump assembly,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00390,Flexible packaging 0390,Packaging,Flexible packaging,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00391,Garment accessories 0391,Apparel,Garment accessories,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00392,Sensors 0392,Electronics,Sensors,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00393,Brake component 0393,Automotive,Brake component,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00394,Tablet excipient 0394,Pharma,Tablet excipient,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00395,Adhesive 0395,Chemicals,Adhesive,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00396,Cold-chain product 0396,Food,Cold-chain product,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00397,Memory chip 0397,Semiconductors,Memory chip,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00398,Freight forwarding 0398,Logistics,Freight forwarding,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00399,Valve 0399,Industrial Equipment,Valve,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00400,Label material 0400,Packaging,Label material,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00401,Cotton knitwear 0401,Apparel,Cotton knitwear,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00402,PCB assembly 0402,Electronics,PCB assembly,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00403,Powertrain component 0403,Automotive,Powertrain component,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00404,Vial 0404,Pharma,Vial,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00405,Industrial resin 0405,Chemicals,Industrial resin,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00406,Packaging material 0406,Food,Packaging material,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00407,Power semiconductor 0407,Semiconductors,Power semiconductor,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00408,Port handling 0408,Logistics,Port handling,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00409,Pump assembly 0409,Industrial Equipment,Pump assembly,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00410,Flexible packaging 0410,Packaging,Flexible packaging,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00411,Garment accessories 0411,Apparel,Garment accessories,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00412,Sensors 0412,Electronics,Sensors,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00413,Brake component 0413,Automotive,Brake component,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00414,Tablet excipient 0414,Pharma,Tablet excipient,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00415,Adhesive 0415,Chemicals,Adhesive,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00416,Cold-chain product 0416,Food,Cold-chain product,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00417,Memory chip 0417,Semiconductors,Memory chip,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00418,Freight forwarding 0418,Logistics,Freight forwarding,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00419,Valve 0419,Industrial Equipment,Valve,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00420,Label material 0420,Packaging,Label material,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00421,Cotton knitwear 0421,Apparel,Cotton knitwear,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00422,PCB assembly 0422,Electronics,PCB assembly,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00423,Powertrain component 0423,Automotive,Powertrain component,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00424,Vial 0424,Pharma,Vial,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00425,Industrial resin 0425,Chemicals,Industrial resin,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00426,Packaging material 0426,Food,Packaging material,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00427,Power semiconductor 0427,Semiconductors,Power semiconductor,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00428,Port handling 0428,Logistics,Port handling,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00429,Pump assembly 0429,Industrial Equipment,Pump assembly,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00430,Flexible packaging 0430,Packaging,Flexible packaging,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00431,Garment accessories 0431,Apparel,Garment accessories,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00432,Sensors 0432,Electronics,Sensors,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00433,Brake component 0433,Automotive,Brake component,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00434,Tablet excipient 0434,Pharma,Tablet excipient,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00435,Adhesive 0435,Chemicals,Adhesive,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00436,Cold-chain product 0436,Food,Cold-chain product,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00437,Memory chip 0437,Semiconductors,Memory chip,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00438,Freight forwarding 0438,Logistics,Freight forwarding,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00439,Valve 0439,Industrial Equipment,Valve,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00440,Label material 0440,Packaging,Label material,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00441,Cotton knitwear 0441,Apparel,Cotton knitwear,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00442,PCB assembly 0442,Electronics,PCB assembly,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00443,Powertrain component 0443,Automotive,Powertrain component,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00444,Vial 0444,Pharma,Vial,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00445,Industrial resin 0445,Chemicals,Industrial resin,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00446,Packaging material 0446,Food,Packaging material,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00447,Power semiconductor 0447,Semiconductors,Power semiconductor,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00448,Port handling 0448,Logistics,Port handling,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00449,Pump assembly 0449,Industrial Equipment,Pump assembly,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00450,Flexible packaging 0450,Packaging,Flexible packaging,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00451,Garment accessories 0451,Apparel,Garment accessories,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00452,Sensors 0452,Electronics,Sensors,LOW,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00453,Brake component 0453,Automotive,Brake component,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00454,Tablet excipient 0454,Pharma,Tablet excipient,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00455,Adhesive 0455,Chemicals,Adhesive,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00456,Cold-chain product 0456,Food,Cold-chain product,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00457,Memory chip 0457,Semiconductors,Memory chip,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00458,Freight forwarding 0458,Logistics,Freight forwarding,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00459,Valve 0459,Industrial Equipment,Valve,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00460,Label material 0460,Packaging,Label material,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00461,Cotton knitwear 0461,Apparel,Cotton knitwear,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00462,PCB assembly 0462,Electronics,PCB assembly,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00463,Powertrain component 0463,Automotive,Powertrain component,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00464,Vial 0464,Pharma,Vial,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00465,Industrial resin 0465,Chemicals,Industrial resin,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00466,Packaging material 0466,Food,Packaging material,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00467,Power semiconductor 0467,Semiconductors,Power semiconductor,UNKNOWN,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00468,Port handling 0468,Logistics,Port handling,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00469,Pump assembly 0469,Industrial Equipment,Pump assembly,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00470,Flexible packaging 0470,Packaging,Flexible packaging,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00471,Garment accessories 0471,Apparel,Garment accessories,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00472,Sensors 0472,Electronics,Sensors,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00473,Brake component 0473,Automotive,Brake component,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00474,Tablet excipient 0474,Pharma,Tablet excipient,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00475,Adhesive 0475,Chemicals,Adhesive,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00476,Cold-chain product 0476,Food,Cold-chain product,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00477,Memory chip 0477,Semiconductors,Memory chip,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00478,Freight forwarding 0478,Logistics,Freight forwarding,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00479,Valve 0479,Industrial Equipment,Valve,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00480,Label material 0480,Packaging,Label material,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00481,Cotton knitwear 0481,Apparel,Cotton knitwear,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00482,PCB assembly 0482,Electronics,PCB assembly,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00483,Powertrain component 0483,Automotive,Powertrain component,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00484,Vial 0484,Pharma,Vial,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00485,Industrial resin 0485,Chemicals,Industrial resin,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00486,Packaging material 0486,Food,Packaging material,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00487,Power semiconductor 0487,Semiconductors,Power semiconductor,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00488,Port handling 0488,Logistics,Port handling,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00489,Pump assembly 0489,Industrial Equipment,Pump assembly,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00490,Flexible packaging 0490,Packaging,Flexible packaging,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00491,Garment accessories 0491,Apparel,Garment accessories,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00492,Sensors 0492,Electronics,Sensors,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00493,Brake component 0493,Automotive,Brake component,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00494,Tablet excipient 0494,Pharma,Tablet excipient,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00495,Adhesive 0495,Chemicals,Adhesive,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00496,Cold-chain product 0496,Food,Cold-chain product,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00497,Memory chip 0497,Semiconductors,Memory chip,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00498,Freight forwarding 0498,Logistics,Freight forwarding,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00499,Valve 0499,Industrial Equipment,Valve,HIGH,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00500,Label material 0500,Packaging,Label material,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00501,Cotton knitwear 0501,Apparel,Cotton knitwear,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00502,PCB assembly 0502,Electronics,PCB assembly,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00503,Powertrain component 0503,Automotive,Powertrain component,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00504,Vial 0504,Pharma,Vial,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00505,Industrial resin 0505,Chemicals,Industrial resin,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00506,Packaging material 0506,Food,Packaging material,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00507,Power semiconductor 0507,Semiconductors,Power semiconductor,MEDIUM,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00508,Port handling 0508,Logistics,Port handling,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00509,Pump assembly 0509,Industrial Equipment,Pump assembly,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00510,Flexible packaging 0510,Packaging,Flexible packaging,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00511,Garment accessories 0511,Apparel,Garment accessories,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00512,Sensors 0512,Electronics,Sensors,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00513,Brake component 0513,Automotive,Brake component,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00514,Tablet excipient 0514,Pharma,Tablet excipient,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00515,Adhesive 0515,Chemicals,Adhesive,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00516,Cold-chain product 0516,Food,Cold-chain product,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00517,Memory chip 0517,Semiconductors,Memory chip,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00518,Freight forwarding 0518,Logistics,Freight forwarding,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00519,Valve 0519,Industrial Equipment,Valve,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00520,Label material 0520,Packaging,Label material,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00521,Cotton knitwear 0521,Apparel,Cotton knitwear,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00522,PCB assembly 0522,Electronics,PCB assembly,UNKNOWN,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00523,Powertrain component 0523,Automotive,Powertrain component,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00524,Vial 0524,Pharma,Vial,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00525,Industrial resin 0525,Chemicals,Industrial resin,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00526,Packaging material 0526,Food,Packaging material,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00527,Power semiconductor 0527,Semiconductors,Power semiconductor,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00528,Port handling 0528,Logistics,Port handling,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00529,Pump assembly 0529,Industrial Equipment,Pump assembly,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00530,Flexible packaging 0530,Packaging,Flexible packaging,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00531,Garment accessories 0531,Apparel,Garment accessories,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00532,Sensors 0532,Electronics,Sensors,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00533,Brake component 0533,Automotive,Brake component,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00534,Tablet excipient 0534,Pharma,Tablet excipient,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00535,Adhesive 0535,Chemicals,Adhesive,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00536,Cold-chain product 0536,Food,Cold-chain product,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00537,Memory chip 0537,Semiconductors,Memory chip,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00538,Freight forwarding 0538,Logistics,Freight forwarding,MEDIUM,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00539,Valve 0539,Industrial Equipment,Valve,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00540,Label material 0540,Packaging,Label material,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00541,Cotton knitwear 0541,Apparel,Cotton knitwear,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00542,PCB assembly 0542,Electronics,PCB assembly,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00543,Powertrain component 0543,Automotive,Powertrain component,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00544,Vial 0544,Pharma,Vial,LOW,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00545,Industrial resin 0545,Chemicals,Industrial resin,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00546,Packaging material 0546,Food,Packaging material,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00547,Power semiconductor 0547,Semiconductors,Power semiconductor,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00548,Port handling 0548,Logistics,Port handling,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00549,Pump assembly 0549,Industrial Equipment,Pump assembly,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00550,Flexible packaging 0550,Packaging,Flexible packaging,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00551,Garment accessories 0551,Apparel,Garment accessories,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00552,Sensors 0552,Electronics,Sensors,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00553,Brake component 0553,Automotive,Brake component,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00554,Tablet excipient 0554,Pharma,Tablet excipient,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00555,Adhesive 0555,Chemicals,Adhesive,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00556,Cold-chain product 0556,Food,Cold-chain product,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00557,Memory chip 0557,Semiconductors,Memory chip,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00558,Freight forwarding 0558,Logistics,Freight forwarding,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00559,Valve 0559,Industrial Equipment,Valve,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00560,Label material 0560,Packaging,Label material,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00561,Cotton knitwear 0561,Apparel,Cotton knitwear,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00562,PCB assembly 0562,Electronics,PCB assembly,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00563,Powertrain component 0563,Automotive,Powertrain component,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00564,Vial 0564,Pharma,Vial,MEDIUM,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00565,Industrial resin 0565,Chemicals,Industrial resin,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00566,Packaging material 0566,Food,Packaging material,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00567,Power semiconductor 0567,Semiconductors,Power semiconductor,UNKNOWN,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00568,Port handling 0568,Logistics,Port handling,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00569,Pump assembly 0569,Industrial Equipment,Pump assembly,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00570,Flexible packaging 0570,Packaging,Flexible packaging,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00571,Garment accessories 0571,Apparel,Garment accessories,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00572,Sensors 0572,Electronics,Sensors,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00573,Brake component 0573,Automotive,Brake component,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00574,Tablet excipient 0574,Pharma,Tablet excipient,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00575,Adhesive 0575,Chemicals,Adhesive,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00576,Cold-chain product 0576,Food,Cold-chain product,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00577,Memory chip 0577,Semiconductors,Memory chip,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00578,Freight forwarding 0578,Logistics,Freight forwarding,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00579,Valve 0579,Industrial Equipment,Valve,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00580,Label material 0580,Packaging,Label material,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00581,Cotton knitwear 0581,Apparel,Cotton knitwear,LOW,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00582,PCB assembly 0582,Electronics,PCB assembly,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00583,Powertrain component 0583,Automotive,Powertrain component,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00584,Vial 0584,Pharma,Vial,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00585,Industrial resin 0585,Chemicals,Industrial resin,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00586,Packaging material 0586,Food,Packaging material,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00587,Power semiconductor 0587,Semiconductors,Power semiconductor,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00588,Port handling 0588,Logistics,Port handling,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00589,Pump assembly 0589,Industrial Equipment,Pump assembly,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00590,Flexible packaging 0590,Packaging,Flexible packaging,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00591,Garment accessories 0591,Apparel,Garment accessories,MEDIUM,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00592,Sensors 0592,Electronics,Sensors,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00593,Brake component 0593,Automotive,Brake component,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00594,Tablet excipient 0594,Pharma,Tablet excipient,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00595,Adhesive 0595,Chemicals,Adhesive,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00596,Cold-chain product 0596,Food,Cold-chain product,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00597,Memory chip 0597,Semiconductors,Memory chip,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00598,Freight forwarding 0598,Logistics,Freight forwarding,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00599,Valve 0599,Industrial Equipment,Valve,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00600,Label material 0600,Packaging,Label material,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00601,Cotton knitwear 0601,Apparel,Cotton knitwear,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00602,PCB assembly 0602,Electronics,PCB assembly,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00603,Powertrain component 0603,Automotive,Powertrain component,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00604,Vial 0604,Pharma,Vial,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00605,Industrial resin 0605,Chemicals,Industrial resin,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00606,Packaging material 0606,Food,Packaging material,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00607,Power semiconductor 0607,Semiconductors,Power semiconductor,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00608,Port handling 0608,Logistics,Port handling,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00609,Pump assembly 0609,Industrial Equipment,Pump assembly,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00610,Flexible packaging 0610,Packaging,Flexible packaging,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00611,Garment accessories 0611,Apparel,Garment accessories,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00612,Sensors 0612,Electronics,Sensors,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00613,Brake component 0613,Automotive,Brake component,UNKNOWN,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00614,Tablet excipient 0614,Pharma,Tablet excipient,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00615,Adhesive 0615,Chemicals,Adhesive,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00616,Cold-chain product 0616,Food,Cold-chain product,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00617,Memory chip 0617,Semiconductors,Memory chip,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00618,Freight forwarding 0618,Logistics,Freight forwarding,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00619,Valve 0619,Industrial Equipment,Valve,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00620,Label material 0620,Packaging,Label material,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00621,Cotton knitwear 0621,Apparel,Cotton knitwear,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00622,PCB assembly 0622,Electronics,PCB assembly,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00623,Powertrain component 0623,Automotive,Powertrain component,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00624,Vial 0624,Pharma,Vial,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00625,Industrial resin 0625,Chemicals,Industrial resin,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00626,Packaging material 0626,Food,Packaging material,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00627,Power semiconductor 0627,Semiconductors,Power semiconductor,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00628,Port handling 0628,Logistics,Port handling,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00629,Pump assembly 0629,Industrial Equipment,Pump assembly,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00630,Flexible packaging 0630,Packaging,Flexible packaging,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00631,Garment accessories 0631,Apparel,Garment accessories,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00632,Sensors 0632,Electronics,Sensors,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00633,Brake component 0633,Automotive,Brake component,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00634,Tablet excipient 0634,Pharma,Tablet excipient,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00635,Adhesive 0635,Chemicals,Adhesive,MEDIUM,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00636,Cold-chain product 0636,Food,Cold-chain product,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00637,Memory chip 0637,Semiconductors,Memory chip,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00638,Freight forwarding 0638,Logistics,Freight forwarding,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00639,Valve 0639,Industrial Equipment,Valve,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00640,Label material 0640,Packaging,Label material,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00641,Cotton knitwear 0641,Apparel,Cotton knitwear,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00642,PCB assembly 0642,Electronics,PCB assembly,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00643,Powertrain component 0643,Automotive,Powertrain component,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00644,Vial 0644,Pharma,Vial,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00645,Industrial resin 0645,Chemicals,Industrial resin,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00646,Packaging material 0646,Food,Packaging material,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00647,Power semiconductor 0647,Semiconductors,Power semiconductor,MEDIUM,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00648,Port handling 0648,Logistics,Port handling,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00649,Pump assembly 0649,Industrial Equipment,Pump assembly,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00650,Flexible packaging 0650,Packaging,Flexible packaging,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00651,Garment accessories 0651,Apparel,Garment accessories,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00652,Sensors 0652,Electronics,Sensors,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00653,Brake component 0653,Automotive,Brake component,HIGH,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00654,Tablet excipient 0654,Pharma,Tablet excipient,LOW,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00655,Adhesive 0655,Chemicals,Adhesive,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00656,Cold-chain product 0656,Food,Cold-chain product,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00657,Memory chip 0657,Semiconductors,Memory chip,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00658,Freight forwarding 0658,Logistics,Freight forwarding,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00659,Valve 0659,Industrial Equipment,Valve,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00660,Label material 0660,Packaging,Label material,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00661,Cotton knitwear 0661,Apparel,Cotton knitwear,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00662,PCB assembly 0662,Electronics,PCB assembly,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00663,Powertrain component 0663,Automotive,Powertrain component,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00664,Vial 0664,Pharma,Vial,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00665,Industrial resin 0665,Chemicals,Industrial resin,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00666,Packaging material 0666,Food,Packaging material,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00667,Power semiconductor 0667,Semiconductors,Power semiconductor,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00668,Port handling 0668,Logistics,Port handling,MEDIUM,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00669,Pump assembly 0669,Industrial Equipment,Pump assembly,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00670,Flexible packaging 0670,Packaging,Flexible packaging,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00671,Garment accessories 0671,Apparel,Garment accessories,UNKNOWN,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00672,Sensors 0672,Electronics,Sensors,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00673,Brake component 0673,Automotive,Brake component,UNKNOWN,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00674,Tablet excipient 0674,Pharma,Tablet excipient,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00675,Adhesive 0675,Chemicals,Adhesive,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00676,Cold-chain product 0676,Food,Cold-chain product,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00677,Memory chip 0677,Semiconductors,Memory chip,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00678,Freight forwarding 0678,Logistics,Freight forwarding,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00679,Valve 0679,Industrial Equipment,Valve,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00680,Label material 0680,Packaging,Label material,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00681,Cotton knitwear 0681,Apparel,Cotton knitwear,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00682,PCB assembly 0682,Electronics,PCB assembly,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00683,Powertrain component 0683,Automotive,Powertrain component,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00684,Vial 0684,Pharma,Vial,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00685,Industrial resin 0685,Chemicals,Industrial resin,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00686,Packaging material 0686,Food,Packaging material,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00687,Power semiconductor 0687,Semiconductors,Power semiconductor,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00688,Port handling 0688,Logistics,Port handling,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00689,Pump assembly 0689,Industrial Equipment,Pump assembly,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00690,Flexible packaging 0690,Packaging,Flexible packaging,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00691,Garment accessories 0691,Apparel,Garment accessories,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00692,Sensors 0692,Electronics,Sensors,HIGH,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00693,Brake component 0693,Automotive,Brake component,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00694,Tablet excipient 0694,Pharma,Tablet excipient,MEDIUM,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00695,Adhesive 0695,Chemicals,Adhesive,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00696,Cold-chain product 0696,Food,Cold-chain product,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00697,Memory chip 0697,Semiconductors,Memory chip,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00698,Freight forwarding 0698,Logistics,Freight forwarding,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00699,Valve 0699,Industrial Equipment,Valve,HIGH,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00700,Label material 0700,Packaging,Label material,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00701,Cotton knitwear 0701,Apparel,Cotton knitwear,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00702,PCB assembly 0702,Electronics,PCB assembly,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00703,Powertrain component 0703,Automotive,Powertrain component,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00704,Vial 0704,Pharma,Vial,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00705,Industrial resin 0705,Chemicals,Industrial resin,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00706,Packaging material 0706,Food,Packaging material,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00707,Power semiconductor 0707,Semiconductors,Power semiconductor,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00708,Port handling 0708,Logistics,Port handling,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00709,Pump assembly 0709,Industrial Equipment,Pump assembly,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00710,Flexible packaging 0710,Packaging,Flexible packaging,MEDIUM,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00711,Garment accessories 0711,Apparel,Garment accessories,UNKNOWN,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00712,Sensors 0712,Electronics,Sensors,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00713,Brake component 0713,Automotive,Brake component,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00714,Tablet excipient 0714,Pharma,Tablet excipient,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00715,Adhesive 0715,Chemicals,Adhesive,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00716,Cold-chain product 0716,Food,Cold-chain product,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00717,Memory chip 0717,Semiconductors,Memory chip,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00718,Freight forwarding 0718,Logistics,Freight forwarding,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00719,Valve 0719,Industrial Equipment,Valve,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00720,Label material 0720,Packaging,Label material,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00721,Cotton knitwear 0721,Apparel,Cotton knitwear,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00722,PCB assembly 0722,Electronics,PCB assembly,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00723,Powertrain component 0723,Automotive,Powertrain component,UNKNOWN,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00724,Vial 0724,Pharma,Vial,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00725,Industrial resin 0725,Chemicals,Industrial resin,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00726,Packaging material 0726,Food,Packaging material,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00727,Power semiconductor 0727,Semiconductors,Power semiconductor,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00728,Port handling 0728,Logistics,Port handling,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00729,Pump assembly 0729,Industrial Equipment,Pump assembly,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00730,Flexible packaging 0730,Packaging,Flexible packaging,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00731,Garment accessories 0731,Apparel,Garment accessories,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00732,Sensors 0732,Electronics,Sensors,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00733,Brake component 0733,Automotive,Brake component,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00734,Tablet excipient 0734,Pharma,Tablet excipient,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00735,Adhesive 0735,Chemicals,Adhesive,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00736,Cold-chain product 0736,Food,Cold-chain product,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00737,Memory chip 0737,Semiconductors,Memory chip,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00738,Freight forwarding 0738,Logistics,Freight forwarding,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00739,Valve 0739,Industrial Equipment,Valve,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00740,Label material 0740,Packaging,Label material,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00741,Cotton knitwear 0741,Apparel,Cotton knitwear,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00742,PCB assembly 0742,Electronics,PCB assembly,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00743,Powertrain component 0743,Automotive,Powertrain component,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00744,Vial 0744,Pharma,Vial,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00745,Industrial resin 0745,Chemicals,Industrial resin,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00746,Packaging material 0746,Food,Packaging material,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00747,Power semiconductor 0747,Semiconductors,Power semiconductor,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00748,Port handling 0748,Logistics,Port handling,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00749,Pump assembly 0749,Industrial Equipment,Pump assembly,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00750,Flexible packaging 0750,Packaging,Flexible packaging,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00751,Garment accessories 0751,Apparel,Garment accessories,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00752,Sensors 0752,Electronics,Sensors,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00753,Brake component 0753,Automotive,Brake component,MEDIUM,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00754,Tablet excipient 0754,Pharma,Tablet excipient,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00755,Adhesive 0755,Chemicals,Adhesive,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00756,Cold-chain product 0756,Food,Cold-chain product,HIGH,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00757,Memory chip 0757,Semiconductors,Memory chip,MEDIUM,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00758,Freight forwarding 0758,Logistics,Freight forwarding,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00759,Valve 0759,Industrial Equipment,Valve,LOW,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00760,Label material 0760,Packaging,Label material,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00761,Cotton knitwear 0761,Apparel,Cotton knitwear,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00762,PCB assembly 0762,Electronics,PCB assembly,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00763,Powertrain component 0763,Automotive,Powertrain component,MEDIUM,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00764,Vial 0764,Pharma,Vial,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00765,Industrial resin 0765,Chemicals,Industrial resin,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00766,Packaging material 0766,Food,Packaging material,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00767,Power semiconductor 0767,Semiconductors,Power semiconductor,HIGH,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00768,Port handling 0768,Logistics,Port handling,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00769,Pump assembly 0769,Industrial Equipment,Pump assembly,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00770,Flexible packaging 0770,Packaging,Flexible packaging,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00771,Garment accessories 0771,Apparel,Garment accessories,LOW,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00772,Sensors 0772,Electronics,Sensors,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00773,Brake component 0773,Automotive,Brake component,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00774,Tablet excipient 0774,Pharma,Tablet excipient,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00775,Adhesive 0775,Chemicals,Adhesive,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00776,Cold-chain product 0776,Food,Cold-chain product,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00777,Memory chip 0777,Semiconductors,Memory chip,UNKNOWN,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00778,Freight forwarding 0778,Logistics,Freight forwarding,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00779,Valve 0779,Industrial Equipment,Valve,MEDIUM,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00780,Label material 0780,Packaging,Label material,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00781,Cotton knitwear 0781,Apparel,Cotton knitwear,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00782,PCB assembly 0782,Electronics,PCB assembly,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00783,Powertrain component 0783,Automotive,Powertrain component,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00784,Vial 0784,Pharma,Vial,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00785,Industrial resin 0785,Chemicals,Industrial resin,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00786,Packaging material 0786,Food,Packaging material,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00787,Power semiconductor 0787,Semiconductors,Power semiconductor,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00788,Port handling 0788,Logistics,Port handling,MEDIUM,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00789,Pump assembly 0789,Industrial Equipment,Pump assembly,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00790,Flexible packaging 0790,Packaging,Flexible packaging,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00791,Garment accessories 0791,Apparel,Garment accessories,UNKNOWN,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00792,Sensors 0792,Electronics,Sensors,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00793,Brake component 0793,Automotive,Brake component,MEDIUM,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00794,Tablet excipient 0794,Pharma,Tablet excipient,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00795,Adhesive 0795,Chemicals,Adhesive,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00796,Cold-chain product 0796,Food,Cold-chain product,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00797,Memory chip 0797,Semiconductors,Memory chip,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00798,Freight forwarding 0798,Logistics,Freight forwarding,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00799,Valve 0799,Industrial Equipment,Valve,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00800,Label material 0800,Packaging,Label material,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00801,Cotton knitwear 0801,Apparel,Cotton knitwear,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00802,PCB assembly 0802,Electronics,PCB assembly,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00803,Powertrain component 0803,Automotive,Powertrain component,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00804,Vial 0804,Pharma,Vial,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00805,Industrial resin 0805,Chemicals,Industrial resin,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00806,Packaging material 0806,Food,Packaging material,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00807,Power semiconductor 0807,Semiconductors,Power semiconductor,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00808,Port handling 0808,Logistics,Port handling,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00809,Pump assembly 0809,Industrial Equipment,Pump assembly,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00810,Flexible packaging 0810,Packaging,Flexible packaging,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00811,Garment accessories 0811,Apparel,Garment accessories,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00812,Sensors 0812,Electronics,Sensors,HIGH,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00813,Brake component 0813,Automotive,Brake component,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00814,Tablet excipient 0814,Pharma,Tablet excipient,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00815,Adhesive 0815,Chemicals,Adhesive,UNKNOWN,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00816,Cold-chain product 0816,Food,Cold-chain product,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00817,Memory chip 0817,Semiconductors,Memory chip,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00818,Freight forwarding 0818,Logistics,Freight forwarding,MEDIUM,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00819,Valve 0819,Industrial Equipment,Valve,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00820,Label material 0820,Packaging,Label material,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00821,Cotton knitwear 0821,Apparel,Cotton knitwear,LOW,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00822,PCB assembly 0822,Electronics,PCB assembly,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00823,Powertrain component 0823,Automotive,Powertrain component,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00824,Vial 0824,Pharma,Vial,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00825,Industrial resin 0825,Chemicals,Industrial resin,MEDIUM,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00826,Packaging material 0826,Food,Packaging material,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00827,Power semiconductor 0827,Semiconductors,Power semiconductor,UNKNOWN,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00828,Port handling 0828,Logistics,Port handling,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00829,Pump assembly 0829,Industrial Equipment,Pump assembly,MEDIUM,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00830,Flexible packaging 0830,Packaging,Flexible packaging,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00831,Garment accessories 0831,Apparel,Garment accessories,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00832,Sensors 0832,Electronics,Sensors,MEDIUM,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00833,Brake component 0833,Automotive,Brake component,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00834,Tablet excipient 0834,Pharma,Tablet excipient,HIGH,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00835,Adhesive 0835,Chemicals,Adhesive,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00836,Cold-chain product 0836,Food,Cold-chain product,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00837,Memory chip 0837,Semiconductors,Memory chip,LOW,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00838,Freight forwarding 0838,Logistics,Freight forwarding,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00839,Valve 0839,Industrial Equipment,Valve,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00840,Label material 0840,Packaging,Label material,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00841,Cotton knitwear 0841,Apparel,Cotton knitwear,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00842,PCB assembly 0842,Electronics,PCB assembly,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00843,Powertrain component 0843,Automotive,Powertrain component,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00844,Vial 0844,Pharma,Vial,MEDIUM,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00845,Industrial resin 0845,Chemicals,Industrial resin,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00846,Packaging material 0846,Food,Packaging material,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00847,Power semiconductor 0847,Semiconductors,Power semiconductor,LOW,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00848,Port handling 0848,Logistics,Port handling,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00849,Pump assembly 0849,Industrial Equipment,Pump assembly,HIGH,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00850,Flexible packaging 0850,Packaging,Flexible packaging,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00851,Garment accessories 0851,Apparel,Garment accessories,MEDIUM,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00852,Sensors 0852,Electronics,Sensors,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00853,Brake component 0853,Automotive,Brake component,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00854,Tablet excipient 0854,Pharma,Tablet excipient,MEDIUM,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00855,Adhesive 0855,Chemicals,Adhesive,HIGH,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00856,Cold-chain product 0856,Food,Cold-chain product,HIGH,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00857,Memory chip 0857,Semiconductors,Memory chip,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00858,Freight forwarding 0858,Logistics,Freight forwarding,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00859,Valve 0859,Industrial Equipment,Valve,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00860,Label material 0860,Packaging,Label material,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00861,Cotton knitwear 0861,Apparel,Cotton knitwear,UNKNOWN,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00862,PCB assembly 0862,Electronics,PCB assembly,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00863,Powertrain component 0863,Automotive,Powertrain component,MEDIUM,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00864,Vial 0864,Pharma,Vial,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00865,Industrial resin 0865,Chemicals,Industrial resin,HIGH,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00866,Packaging material 0866,Food,Packaging material,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00867,Power semiconductor 0867,Semiconductors,Power semiconductor,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00868,Port handling 0868,Logistics,Port handling,MEDIUM,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00869,Pump assembly 0869,Industrial Equipment,Pump assembly,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00870,Flexible packaging 0870,Packaging,Flexible packaging,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00871,Garment accessories 0871,Apparel,Garment accessories,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00872,Sensors 0872,Electronics,Sensors,UNKNOWN,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00873,Brake component 0873,Automotive,Brake component,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00874,Tablet excipient 0874,Pharma,Tablet excipient,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00875,Adhesive 0875,Chemicals,Adhesive,LOW,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00876,Cold-chain product 0876,Food,Cold-chain product,LOW,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00877,Memory chip 0877,Semiconductors,Memory chip,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00878,Freight forwarding 0878,Logistics,Freight forwarding,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00879,Valve 0879,Industrial Equipment,Valve,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00880,Label material 0880,Packaging,Label material,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00881,Cotton knitwear 0881,Apparel,Cotton knitwear,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00882,PCB assembly 0882,Electronics,PCB assembly,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00883,Powertrain component 0883,Automotive,Powertrain component,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00884,Vial 0884,Pharma,Vial,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00885,Industrial resin 0885,Chemicals,Industrial resin,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00886,Packaging material 0886,Food,Packaging material,LOW,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00887,Power semiconductor 0887,Semiconductors,Power semiconductor,UNKNOWN,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00888,Port handling 0888,Logistics,Port handling,LOW,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00889,Pump assembly 0889,Industrial Equipment,Pump assembly,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00890,Flexible packaging 0890,Packaging,Flexible packaging,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00891,Garment accessories 0891,Apparel,Garment accessories,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00892,Sensors 0892,Electronics,Sensors,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00893,Brake component 0893,Automotive,Brake component,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00894,Tablet excipient 0894,Pharma,Tablet excipient,LOW,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00895,Adhesive 0895,Chemicals,Adhesive,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00896,Cold-chain product 0896,Food,Cold-chain product,UNKNOWN,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00897,Memory chip 0897,Semiconductors,Memory chip,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00898,Freight forwarding 0898,Logistics,Freight forwarding,LOW,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00899,Valve 0899,Industrial Equipment,Valve,HIGH,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00900,Label material 0900,Packaging,Label material,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00901,Cotton knitwear 0901,Apparel,Cotton knitwear,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00902,PCB assembly 0902,Electronics,PCB assembly,UNKNOWN,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00903,Powertrain component 0903,Automotive,Powertrain component,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00904,Vial 0904,Pharma,Vial,HIGH,14,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00905,Industrial resin 0905,Chemicals,Industrial resin,UNKNOWN,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00906,Packaging material 0906,Food,Packaging material,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00907,Power semiconductor 0907,Semiconductors,Power semiconductor,LOW,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00908,Port handling 0908,Logistics,Port handling,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00909,Pump assembly 0909,Industrial Equipment,Pump assembly,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00910,Flexible packaging 0910,Packaging,Flexible packaging,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00911,Garment accessories 0911,Apparel,Garment accessories,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00912,Sensors 0912,Electronics,Sensors,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00913,Brake component 0913,Automotive,Brake component,HIGH,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00914,Tablet excipient 0914,Pharma,Tablet excipient,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00915,Adhesive 0915,Chemicals,Adhesive,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00916,Cold-chain product 0916,Food,Cold-chain product,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00917,Memory chip 0917,Semiconductors,Memory chip,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00918,Freight forwarding 0918,Logistics,Freight forwarding,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00919,Valve 0919,Industrial Equipment,Valve,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00920,Label material 0920,Packaging,Label material,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00921,Cotton knitwear 0921,Apparel,Cotton knitwear,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00922,PCB assembly 0922,Electronics,PCB assembly,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00923,Powertrain component 0923,Automotive,Powertrain component,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00924,Vial 0924,Pharma,Vial,HIGH,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00925,Industrial resin 0925,Chemicals,Industrial resin,MEDIUM,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00926,Packaging material 0926,Food,Packaging material,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00927,Power semiconductor 0927,Semiconductors,Power semiconductor,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00928,Port handling 0928,Logistics,Port handling,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00929,Pump assembly 0929,Industrial Equipment,Pump assembly,LOW,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00930,Flexible packaging 0930,Packaging,Flexible packaging,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00931,Garment accessories 0931,Apparel,Garment accessories,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00932,Sensors 0932,Electronics,Sensors,UNKNOWN,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00933,Brake component 0933,Automotive,Brake component,MEDIUM,21,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00934,Tablet excipient 0934,Pharma,Tablet excipient,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00935,Adhesive 0935,Chemicals,Adhesive,UNKNOWN,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00936,Cold-chain product 0936,Food,Cold-chain product,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00937,Memory chip 0937,Semiconductors,Memory chip,HIGH,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00938,Freight forwarding 0938,Logistics,Freight forwarding,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00939,Valve 0939,Industrial Equipment,Valve,HIGH,30,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00940,Label material 0940,Packaging,Label material,MEDIUM,30,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00941,Cotton knitwear 0941,Apparel,Cotton knitwear,MEDIUM,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00942,PCB assembly 0942,Electronics,PCB assembly,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00943,Powertrain component 0943,Automotive,Powertrain component,UNKNOWN,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00944,Vial 0944,Pharma,Vial,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00945,Industrial resin 0945,Chemicals,Industrial resin,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00946,Packaging material 0946,Food,Packaging material,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00947,Power semiconductor 0947,Semiconductors,Power semiconductor,UNKNOWN,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00948,Port handling 0948,Logistics,Port handling,MEDIUM,90,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00949,Pump assembly 0949,Industrial Equipment,Pump assembly,HIGH,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00950,Flexible packaging 0950,Packaging,Flexible packaging,LOW,45,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00951,Garment accessories 0951,Apparel,Garment accessories,UNKNOWN,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00952,Sensors 0952,Electronics,Sensors,MEDIUM,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00953,Brake component 0953,Automotive,Brake component,LOW,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00954,Tablet excipient 0954,Pharma,Tablet excipient,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00955,Adhesive 0955,Chemicals,Adhesive,HIGH,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00956,Cold-chain product 0956,Food,Cold-chain product,UNKNOWN,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00957,Memory chip 0957,Semiconductors,Memory chip,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00958,Freight forwarding 0958,Logistics,Freight forwarding,UNKNOWN,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00959,Valve 0959,Industrial Equipment,Valve,HIGH,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00960,Label material 0960,Packaging,Label material,UNKNOWN,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00961,Cotton knitwear 0961,Apparel,Cotton knitwear,LOW,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00962,PCB assembly 0962,Electronics,PCB assembly,LOW,60,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00963,Powertrain component 0963,Automotive,Powertrain component,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00964,Vial 0964,Pharma,Vial,LOW,90,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00965,Industrial resin 0965,Chemicals,Industrial resin,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00966,Packaging material 0966,Food,Packaging material,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00967,Power semiconductor 0967,Semiconductors,Power semiconductor,MEDIUM,14,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00968,Port handling 0968,Logistics,Port handling,LOW,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00969,Pump assembly 0969,Industrial Equipment,Pump assembly,UNKNOWN,45,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00970,Flexible packaging 0970,Packaging,Flexible packaging,MEDIUM,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00971,Garment accessories 0971,Apparel,Garment accessories,HIGH,21,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00972,Sensors 0972,Electronics,Sensors,LOW,60,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00973,Brake component 0973,Automotive,Brake component,UNKNOWN,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00974,Tablet excipient 0974,Pharma,Tablet excipient,MEDIUM,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00975,Adhesive 0975,Chemicals,Adhesive,HIGH,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00976,Cold-chain product 0976,Food,Cold-chain product,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00977,Memory chip 0977,Semiconductors,Memory chip,LOW,30,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00978,Freight forwarding 0978,Logistics,Freight forwarding,UNKNOWN,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00979,Valve 0979,Industrial Equipment,Valve,HIGH,7,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00980,Label material 0980,Packaging,Label material,MEDIUM,7,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00981,Cotton knitwear 0981,Apparel,Cotton knitwear,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00982,PCB assembly 0982,Electronics,PCB assembly,LOW,90,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00983,Powertrain component 0983,Automotive,Powertrain component,MEDIUM,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00984,Vial 0984,Pharma,Vial,HIGH,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00985,Industrial resin 0985,Chemicals,Industrial resin,MEDIUM,7,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00986,Packaging material 0986,Food,Packaging material,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00987,Power semiconductor 0987,Semiconductors,Power semiconductor,HIGH,60,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00988,Port handling 0988,Logistics,Port handling,LOW,14,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00989,Pump assembly 0989,Industrial Equipment,Pump assembly,UNKNOWN,45,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00990,Flexible packaging 0990,Packaging,Flexible packaging,HIGH,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00991,Garment accessories 0991,Apparel,Garment accessories,LOW,14,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00992,Sensors 0992,Electronics,Sensors,LOW,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00993,Brake component 0993,Automotive,Brake component,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00994,Tablet excipient 0994,Pharma,Tablet excipient,MEDIUM,21,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00995,Adhesive 0995,Chemicals,Adhesive,UNKNOWN,21,MEDIUM,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00996,Cold-chain product 0996,Food,Cold-chain product,UNKNOWN,90,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00997,Memory chip 0997,Semiconductors,Memory chip,HIGH,60,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00998,Freight forwarding 0998,Logistics,Freight forwarding,HIGH,7,UNKNOWN,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD00999,Valve 0999,Industrial Equipment,Valve,LOW,30,LOW,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
+PROD01000,Label material 1000,Packaging,Label material,HIGH,45,HIGH,PROJECT_DEMO_EXPANSION,2026-09-23,Synthetic/demo record; not a real product master.,SYNTHETIC_DEMO
