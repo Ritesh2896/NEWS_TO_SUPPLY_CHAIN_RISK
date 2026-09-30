@@ -13,5 +13,6 @@ spacy>=3.8
 rapidfuzz>=3.9
 pytest>=8.3
 torch>=2.2
+torch_geometric>=2.5
 xgboost>=2.1
 pyvis>=0.3.2
