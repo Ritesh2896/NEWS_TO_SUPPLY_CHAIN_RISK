@@ -14,7 +14,7 @@
     "smoothness_weight": 0.2,
     "seed": 42,
     "device": "cpu",
-    "checkpoint_path": "C:\\Users\\Jaswant\\AppData\\Local\\Temp\\pytest-of-Jaswant\\pytest-64\\test_attention_neighborhood_in0\\gat_interpret.pt",
+    "checkpoint_path": "C:\\Users\\Jaswant\\AppData\\Local\\Temp\\pytest-of-Jaswant\\pytest-66\\test_attention_neighborhood_in0\\gat_interpret.pt",
     "log_path": "logs/gat_training.json",
     "paradigm": "SEMI_SUPERVISED_RISK_PROPAGATION_DEMO",
     "attention_disclaimer": "Attention weights reflect relative feature aggregation importance in localized graph neighborhoods. Attention weights do NOT prove or establish causal relationships."

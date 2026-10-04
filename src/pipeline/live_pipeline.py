@@ -67,6 +67,7 @@ def _run_pipeline_core(
     language: str = "en",
     country: Optional[str] = None,
     model_type: str = "both",
+    api_key: Optional[str] = None,
 ) -> dict[str, Any]:
     """Execute all 8 pipeline stages synchronously."""
     start_time = time.time()
@@ -86,12 +87,15 @@ def _run_pipeline_core(
     }
 
     try:
+        from src.news.client import NewsApiClient
+        client = NewsApiClient(api_key=api_key) if api_key else None
         ingest_res = ingest_live_news(
             topic=topic,
             hours=hours,
             language=language,
             country=country,
             limit=limit,
+            client=client,
         )
         ingestion_metrics = {
             "fetched": ingest_res.fetched,
@@ -502,6 +506,7 @@ def execute_live_pipeline(
     language: str = "en",
     country: Optional[str] = None,
     model_type: str = "both",
+    api_key: Optional[str] = None,
     timeout_seconds: int = 60,
 ) -> dict[str, Any]:
     """Execute live pipeline with non-blocking timeout safeguard."""
@@ -514,6 +519,7 @@ def execute_live_pipeline(
         language=language,
         country=country,
         model_type=model_type,
+        api_key=api_key,
     )
     try:
         result = future.result(timeout=timeout_seconds)

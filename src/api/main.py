@@ -248,6 +248,7 @@ def run_live_pipeline(req: LivePipelineRequest):
             language=req.language,
             country=req.country,
             model_type=req.model_type,
+            api_key=req.api_key,
             timeout_seconds=req.timeout_seconds,
         )
         return result

@@ -35,8 +35,17 @@ def _normalize(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return out
 
 def search_newsapi(topic: str, hours: int=48, limit: int=20) -> list[dict[str,Any]]:
-    key=os.getenv("NEWSAPI_API_KEY")
-    if not key: raise RuntimeError("NEWSAPI_API_KEY is not configured in .env")
+    key = os.getenv("NEWSAPI_API_KEY") or os.getenv("NEWSAPI_KEY")
+    if not key:
+        try:
+            import streamlit as st
+            if hasattr(st, "secrets"):
+                key = st.secrets.get("NEWSAPI_API_KEY") or st.secrets.get("NEWSAPI_KEY")
+            if not key and hasattr(st, "session_state"):
+                key = st.session_state.get("custom_newsapi_key")
+        except Exception:
+            pass
+    if not key: raise RuntimeError("NEWSAPI_API_KEY is not configured in .env or Streamlit secrets")
     now=datetime.now(timezone.utc); start=now-timedelta(hours=hours)
     params={"q":topic,"from":start.isoformat(timespec="seconds"),"to":now.isoformat(timespec="seconds"),"language":"en","sortBy":"publishedAt","pageSize":min(limit,100),"apiKey":key}
     r=requests.get(BASE_URL,params=params,timeout=30)

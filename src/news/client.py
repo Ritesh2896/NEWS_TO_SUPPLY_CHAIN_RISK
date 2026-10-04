@@ -29,7 +29,22 @@ class NewsApiClient:
     """Client for NewsAPI endpoints with error handling and normalization."""
 
     def __init__(self, api_key: str | None = None, max_retries: int = 2, timeout_seconds: int = 15):
-        self.api_key = api_key.strip() if api_key is not None else os.getenv("NEWSAPI_API_KEY", "").strip()
+        if api_key is not None:
+            self.api_key = str(api_key).strip()
+        else:
+            self.api_key = (
+                os.getenv("NEWSAPI_API_KEY", "").strip()
+                or os.getenv("NEWSAPI_KEY", "").strip()
+            )
+            if not self.api_key:
+                try:
+                    import streamlit as st
+                    if hasattr(st, "secrets"):
+                        self.api_key = str(st.secrets.get("NEWSAPI_API_KEY") or st.secrets.get("NEWSAPI_KEY") or "").strip()
+                    if not self.api_key and hasattr(st, "session_state") and "custom_newsapi_key" in st.session_state:
+                        self.api_key = str(st.session_state.get("custom_newsapi_key") or "").strip()
+                except Exception:
+                    pass
         self.max_retries = max_retries
         self.timeout = timeout_seconds
 

@@ -237,6 +237,7 @@ class LivePipelineRequest(BaseModel):
     language: str = Field(default="en", max_length=5, description="Article language code")
     country: Optional[str] = Field(default=None, max_length=5, description="Country filter code if supported")
     model_type: str = Field(default="both", description="GNN model for inference: 'graphsage', 'gat', or 'both'")
+    api_key: Optional[str] = Field(default=None, max_length=100, description="Optional NewsAPI key (if None, reads from server environment)")
     timeout_seconds: int = Field(default=60, ge=5, le=300, description="Timeout in seconds to prevent blocking indefinitely")
 
 

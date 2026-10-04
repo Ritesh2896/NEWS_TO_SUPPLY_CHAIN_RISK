@@ -8,7 +8,7 @@
     "smoothness_weight": 0.2,
     "seed": 42,
     "device": "cpu",
-    "checkpoint_path": "C:\\Users\\Jaswant\\AppData\\Local\\Temp\\pytest-of-Jaswant\\pytest-64\\test_inference_and_risk_propag0\\inference_test_model.pt",
+    "checkpoint_path": "C:\\Users\\Jaswant\\AppData\\Local\\Temp\\pytest-of-Jaswant\\pytest-66\\test_inference_and_risk_propag0\\inference_test_model.pt",
     "log_path": "logs/graphsage_training.json",
     "paradigm": "SEMI_SUPERVISED_RISK_PROPAGATION_DEMO"
   },

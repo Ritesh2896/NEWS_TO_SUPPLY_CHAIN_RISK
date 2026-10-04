@@ -279,6 +279,28 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("**⚡ Live Pipeline Ingestion**")
+
+    # Optional NewsAPI Key Input for interactive cloud usage
+    detected_key = (
+        os.getenv("NEWSAPI_API_KEY", "").strip()
+        or os.getenv("NEWSAPI_KEY", "").strip()
+        or str(st.secrets.get("NEWSAPI_API_KEY", "") if hasattr(st, "secrets") else "").strip()
+        or str(st.session_state.get("custom_newsapi_key", "")).strip()
+    )
+    user_api_key = st.text_input(
+        "NewsAPI Key (Optional)",
+        value=st.session_state.get("custom_newsapi_key", ""),
+        type="password",
+        help="Optional: Enter free API key from https://newsapi.org/register. If blank, high-fidelity disruption demo data is used automatically.",
+    )
+    if user_api_key.strip():
+        st.session_state["custom_newsapi_key"] = user_api_key.strip()
+        st.markdown('Status: <span class="badge-live">🟢 LIVE KEY ACTIVE</span>', unsafe_allow_html=True)
+    elif detected_key:
+        st.markdown('Status: <span class="badge-live">🟢 ENV KEY ACTIVE</span>', unsafe_allow_html=True)
+    else:
+        st.markdown('Status: <span class="badge-demo">🟡 DEMO MODE ACTIVE</span>', unsafe_allow_html=True)
+
     live_topic = st.text_input(
         "Topic Query",
         value="India ports suppliers logistics manufacturing disruptions",
@@ -291,17 +313,19 @@ with st.sidebar:
         live_limit = st.number_input("Limit", min_value=1, max_value=25, value=5)
 
     if st.button("🚀 Trigger Live Pipeline", type="primary", use_container_width=True):
+        active_key = user_api_key.strip() or detected_key or None
         with st.spinner("Executing NewsAPI → NLP → Linking → GNN → Alerts..."):
             try:
                 summary = execute_live_pipeline(
                     topic=live_topic,
                     hours=int(live_hours),
                     limit=int(live_limit),
+                    api_key=active_key,
                     timeout_seconds=60,
                 )
                 st.session_state["last_execution_summary"] = summary
                 st.cache_data.clear()
-                st.success(f"Pipeline executed in {summary['execution_time_seconds']}s! {summary['alerts_count']} alerts synthesized.")
+                st.success(f"Pipeline executed in {summary['execution_time_seconds']}s! {summary['alerts_count']} alerts synthesized ({summary['data_status']}).")
                 st.rerun()
             except Exception as ex:
                 st.error(f"Pipeline execution error: {ex}")
@@ -309,6 +333,8 @@ with st.sidebar:
     st.markdown("---")
     st.markdown(
         '<div style="font-size:0.75rem; color:#64748b; text-align:center;">'
+        '🌐 <strong>Backend REST API:</strong><br>'
+        '<a href="https://news-to-supply-chain-risk.onrender.com/docs" target="_blank" style="color:#2563eb; text-decoration:none; font-weight:600;">Open Render Swagger Docs ↗</a><br><br>'
         'BDS-35 Academic Intelligence Engine<br>GraphSAGE & GAT Neural Models'
         '</div>',
         unsafe_allow_html=True,
@@ -462,6 +488,17 @@ elif nav_selection == "2. Live News":
         f'</div>',
         unsafe_allow_html=True,
     )
+
+    with st.expander("ℹ️ How Live News Ingestion & API Key Works in BDS-35"):
+        st.markdown(
+            """
+            1. **NewsAPI Ingestion:** Real-time query to `https://newsapi.org/v2/everything` with the query topic.
+            2. **Deterministic Deduplication:** MD5 hashing of canonical URLs and normalized titles discards duplicate syndications.
+            3. **Supply Chain Relevance Filter:** Keyword scoring validates that articles contain genuine disruption context (port strikes, facility closures, weather catastrophes, logistics delays).
+            4. **Graceful Demo Fallback:** If `NEWSAPI_API_KEY` is not provided or quota (100 req/day) is exhausted, the system automatically uses verified disruption benchmark records so the dashboard never breaks.
+            5. **API Key Setup:** You can enter your free key in the sidebar under **⚡ Live Pipeline Ingestion** or add it to Streamlit Secrets / `.env`.
+            """
+        )
 
     c_f1, c_f2 = st.columns([3, 1])
     with c_f1:
@@ -1128,12 +1165,13 @@ elif nav_selection == "12. System Information":
         ]
         st.dataframe(pd.DataFrame(models_info), use_container_width=True, hide_index=True)
 
-        st.subheader("Runtime Environment")
+        st.subheader("Runtime Environment & Cloud Endpoints")
         st.markdown(
             f"- **Python Version:** `{sys.version.split()[0]}`\n"
             f"- **Frameworks:** Streamlit `{st.__version__}`, Plotly, PyTorch, PyTorch Geometric\n"
             f"- **NLP Pipeline:** Local spaCy + Rule-based Entity Normalization (Zero Cloud LLMs)\n"
-            f"- **API Backend:** FastAPI 2.2.0 at `http://localhost:8000`"
+            f"- **Live Cloud Dashboard:** [https://news-to-supply-chain-risk.streamlit.app/](https://news-to-supply-chain-risk.streamlit.app/)\n"
+            f"- **Live Backend API (Render):** [https://news-to-supply-chain-risk.onrender.com/docs](https://news-to-supply-chain-risk.onrender.com/docs)"
         )
 
     with c_inf2:
