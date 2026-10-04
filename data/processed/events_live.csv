@@ -1,2 +1,2 @@
 event_id,news_id,title,event_type,trigger,impact,severity,location_name,location_id,supplier_id,supplier_name,source,url,published_at,data_status
-EVT-NEWS00001,NEWS00001,Demo supply-chain disruption article 0001,Supply Disruption,operational bottleneck,Delivery Delay,Medium,Unknown Location,,,,DEMO_NEWS_PLACEHOLDER,,2026-09-22T23:00:00+00:00,SYNTHETIC_DEMO
+EVT-NEWSAPI-20261003071804-0002,NEWSAPI-20261003071804-0002,Transporters protest illegal checkpoints along Lagos ports corridor,Supply Disruption,operational bottleneck,Delivery Delay,Medium,Lagos,,,,Daily Post Nigeria,https://dailypost.ng/2026/10/03/transporters-protest-illegal-checkpoints-along-lagos-ports-corridor/,2026-10-03T07:18:04Z,REAL_DATA
