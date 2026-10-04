@@ -439,7 +439,16 @@ if nav_selection == "1. Overview":
             df_exec = pd.DataFrame(summary["alerts"])
             cols_show = ["supplier_id", "supplier_name", "event_type", "risk_band", "risk_score_100", "data_status", "reasons"]
             ex_cols = [c for c in cols_show if c in df_exec.columns]
-            st.dataframe(df_exec[ex_cols], use_container_width=True, hide_index=True)
+            st.dataframe(
+                df_exec[ex_cols],
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "reasons": st.column_config.TextColumn("Reasons", width="large"),
+                    "supplier_name": st.column_config.TextColumn("Supplier", width="medium"),
+                    "risk_score_100": st.column_config.NumberColumn("Risk Score", format="%.1f"),
+                },
+            )
 
         if st.button("✕ Dismiss Live Summary", key="dismiss_exec_summary"):
             del st.session_state["last_execution_summary"]
@@ -575,10 +584,12 @@ elif nav_selection == "2. Live News":
             """
         )
 
-    c_f1, c_f2 = st.columns([3, 1])
+    c_f1, c_f2, c_f3 = st.columns([3, 1, 1])
     with c_f1:
         news_search = st.text_input("Search news by keyword or entity:", "")
     with c_f2:
+        source_filter = st.selectbox("Data Source", ["ALL", "LIVE / NEWSAPI", "DEMO DATA"])
+    with c_f3:
         if st.button("🔄 Refresh News", use_container_width=True):
             st.cache_data.clear()
             st.rerun()
@@ -586,12 +597,17 @@ elif nav_selection == "2. Live News":
     filtered_news = news_df.copy()
     if news_search and not filtered_news.empty:
         s = news_search.lower()
-        filtered_news = filtered_news[
-            filtered_news["title"].str.lower().str.contains(s)
-            | filtered_news["content"].str.lower().str.contains(s)
-        ]
+        title_col = filtered_news["title"].fillna("") if "title" in filtered_news.columns else pd.Series([""] * len(filtered_news))
+        content_col = filtered_news["content"].fillna("") if "content" in filtered_news.columns else pd.Series([""] * len(filtered_news))
+        filtered_news = filtered_news[title_col.str.lower().str.contains(s) | content_col.str.lower().str.contains(s)]
+    if source_filter != "ALL" and "data_status" in filtered_news.columns:
+        if source_filter == "LIVE / NEWSAPI":
+            filtered_news = filtered_news[filtered_news["data_status"].str.upper().str.contains("REAL|LIVE|NEWSAPI")]
+        else:
+            filtered_news = filtered_news[~filtered_news["data_status"].str.upper().str.contains("REAL|LIVE|NEWSAPI")]
 
-    st.markdown(f"**Showing {len(filtered_news)} articles:**")
+    total_news = len(news_df)
+    st.markdown(f"**Showing {len(filtered_news)} of {total_news} articles:**")
     for _, art in filtered_news.head(20).iterrows():
         with st.expander(f"📌 {art.get('title', 'Untitled')} ({art.get('source_name', 'Unknown')})"):
             c_meta1, c_meta2 = st.columns([3, 1])
@@ -733,7 +749,7 @@ elif nav_selection == "4. Risk Alerts":
     if not curr_alerts.empty:
         fig_bar = go.Figure()
         sample_alerts = curr_alerts.sort_values(by="risk_score_100", ascending=False).head(10)
-        x_labels = [f"{s[:12]}" for s in sample_alerts["supplier_name"]]
+        x_labels = [f"{s[:25]}" for s in sample_alerts["supplier_name"]]
 
         d_vals = sample_alerts["deterministic_risk"].astype(float)
         d_vals = [v if v <= 1.0 else v / 100.0 for v in d_vals]
@@ -779,7 +795,10 @@ elif nav_selection == "4. Risk Alerts":
         c_risk = float(alt.get("combined_risk", 0.0))
         c_risk_norm = c_risk if c_risk <= 1.0 else c_risk / 100.0
 
-        with st.expander(f"{risk_band_badge_html(band)} {sname} ({sid}) • Score: {score:.1f}/100 • Event: {ev_type}"):
+        # Map band to plain-text emoji prefix (st.expander does not render HTML)
+        _band_emoji = {"CRITICAL": "🔴 [CRITICAL]", "HIGH": "🟠 [HIGH]", "MEDIUM": "🟡 [MEDIUM]", "LOW": "🟢 [LOW]"}
+        _band_label = _band_emoji.get(str(band).upper(), f"[{band}]")
+        with st.expander(f"{_band_label}  {sname} ({sid})  •  Score: {score:.1f}/100  •  {ev_type}"):
             c_det1, c_det2 = st.columns([3, 2])
             with c_det1:
                 st.markdown(f"**Supplier:** `{sid}` — {sname}")
@@ -1034,8 +1053,14 @@ elif nav_selection == "8. Supply Chain Graph":
         node_y.append(y)
         ntype = str(subG.nodes[node].get("node_type", "SUPPLIER")).upper()
         node_colors.append(node_types_map.get(ntype, "#2563eb"))
-        node_text.append(node[:8])
-        node_hover.append(f"<b>Node:</b> {node}<br><b>Type:</b> {ntype}<br><b>In-Degree:</b> {subG.in_degree(node)}<br><b>Out-Degree:</b> {subG.out_degree(node)}")
+        # Build a human-readable label: type prefix + truncated node id
+        _type_prefix = {"NEWS": "📰", "EVENT": "⚡", "LOCATION": "📍", "SUPPLIER": "🏭", "PRODUCT": "📦", "FACILITY": "🏗️"}
+        _icon = _type_prefix.get(ntype, "🔵")
+        # Use the 'name' attribute from graph data if available, else clean up the node id
+        _raw_name = subG.nodes[node].get("name", subG.nodes[node].get("supplier_name", subG.nodes[node].get("product_name", "")))
+        _display = str(_raw_name)[:18] if _raw_name else str(node)[:18]
+        node_text.append(f"{_icon} {_display}")
+        node_hover.append(f"<b>ID:</b> {node}<br><b>Type:</b> {ntype}<br><b>Name:</b> {_raw_name or node}<br><b>In-Degree:</b> {subG.in_degree(node)}<br><b>Out-Degree:</b> {subG.out_degree(node)}")
 
     node_trace = go.Scatter(
         x=node_x,
