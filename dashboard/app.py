@@ -324,11 +324,14 @@ with st.sidebar:
                     timeout_seconds=60,
                 )
                 st.session_state["last_execution_summary"] = summary
+                st.session_state["pipeline_success_banner"] = f"Pipeline executed in {summary['execution_time_seconds']}s! {summary['alerts_count']} alerts synthesized ({summary['data_status']})."
                 st.cache_data.clear()
-                st.success(f"Pipeline executed in {summary['execution_time_seconds']}s! {summary['alerts_count']} alerts synthesized ({summary['data_status']}).")
                 st.rerun()
             except Exception as ex:
                 st.error(f"Pipeline execution error: {ex}")
+
+    if "pipeline_success_banner" in st.session_state:
+        st.success(st.session_state["pipeline_success_banner"])
 
     st.markdown("---")
     st.markdown(
@@ -345,15 +348,39 @@ with st.sidebar:
 suppliers_df = load_csv("data/master/suppliers.csv")
 products_df = load_csv("data/master/products.csv")
 locations_df = load_csv("data/master/locations.csv")
+
 alerts_df = load_csv("data/processed/alerts.csv")
 if alerts_df.empty:
     alerts_df = load_csv("data/processed/final_alerts.csv")
-news_df = load_csv("data/processed/news.csv")
-if news_df.empty:
-    news_df = load_csv("data/processed/live_news.csv")
-events_df = load_csv("data/processed/events.csv")
-if events_df.empty:
-    events_df = load_csv("data/processed/events_live.csv")
+
+# Prioritize newest alerts and REAL_DATA
+if not alerts_df.empty and "data_status" in alerts_df.columns:
+    alerts_df = alerts_df.sort_values(by=["data_status", "risk_score_100"], ascending=[False, False])
+
+# Merge live_news.csv and news.csv, placing REAL_DATA at the very top
+live_news_df = load_csv("data/processed/live_news.csv")
+base_news_df = load_csv("data/processed/news.csv")
+if not live_news_df.empty and not base_news_df.empty:
+    news_df = pd.concat([live_news_df, base_news_df]).drop_duplicates(subset=["url", "title"], keep="first")
+elif not live_news_df.empty:
+    news_df = live_news_df
+else:
+    news_df = base_news_df
+
+if not news_df.empty and "data_status" in news_df.columns:
+    news_df = news_df.sort_values(by=["data_status", "published_at"], ascending=[False, False])
+
+events_live_df = load_csv("data/processed/events_live.csv")
+events_base_df = load_csv("data/processed/events.csv")
+if not events_live_df.empty and not events_base_df.empty:
+    events_df = pd.concat([events_live_df, events_base_df]).drop_duplicates(subset=["event_id"], keep="first")
+elif not events_live_df.empty:
+    events_df = events_live_df
+else:
+    events_df = events_base_df
+
+if not events_df.empty and "data_status" in events_df.columns:
+    events_df = events_df.sort_values(by=["data_status"], ascending=[False])
 
 edges_df = load_csv("data/master/edges.csv")
 if edges_df.empty:
@@ -377,6 +404,50 @@ if nav_selection == "1. Overview":
         f'<div class="disclaimer-box">ℹ️ {PROJECT_THRESHOLDS_DISCLAIMER}</div>',
         unsafe_allow_html=True,
     )
+
+    # ⚡ Real-Time Live Pipeline Execution Card
+    if "last_execution_summary" in st.session_state and st.session_state["last_execution_summary"]:
+        summary = st.session_state["last_execution_summary"]
+        st.markdown(
+            f'<div style="background:#eff6ff; border:2px solid #2563eb; border-radius:10px; padding:16px 20px; margin-bottom:18px;">'
+            f'<div style="display:flex; justify-content:space-between; align-items:center;">'
+            f'<h3 style="margin:0; color:#1e3a8a; font-size:1.15rem;">⚡ Latest Live Execution: Disruption Identified</h3>'
+            f'{badge_html(summary.get("data_status", "REAL_DATA"))}'
+            f'</div>'
+            f'<div style="font-size:0.85rem; color:#1e40af; margin-top:4px;">'
+            f'Topic: <strong>"{summary.get("topic", "")}"</strong> | '
+            f'Execution: <strong>{summary.get("execution_time_seconds", 0)}s</strong> | '
+            f'Alerts Synthesized: <strong>{summary.get("alerts_count", 0)}</strong>'
+            f'</div>'
+            f'</div>',
+            unsafe_allow_html=True,
+        )
+
+        stg = summary.get("stages", {})
+        c_m1, c_m2, c_m3, c_m4 = st.columns(4)
+        with c_m1:
+            st.metric("Articles Ingested", f"{stg.get('news_ingestion', {}).get('accepted', 0)} accepted", f"{stg.get('news_ingestion', {}).get('fetched', 0)} fetched")
+        with c_m2:
+            st.metric("Disruption Events", f"{stg.get('nlp_processing', {}).get('events_extracted', 0)} Extracted", "NLP Deterministic")
+        with c_m3:
+            st.metric("Entities Linked", f"{stg.get('entity_linking', {}).get('suppliers_linked', 0)} Suppliers", f"{stg.get('entity_linking', {}).get('locations_linked', 0)} Locations")
+        with c_m4:
+            st.metric("GNN Propagation", "GraphSAGE + GAT", f"{stg.get('gnn_inference', {}).get('scores_generated', 0)} Scores")
+
+        if summary.get("alerts"):
+            st.markdown("**🚨 Newly Synthesized Disruption Alerts:**")
+            df_exec = pd.DataFrame(summary["alerts"])
+            cols_show = ["supplier_id", "supplier_name", "event_type", "risk_band", "risk_score_100", "data_status", "reasons"]
+            ex_cols = [c for c in cols_show if c in df_exec.columns]
+            st.dataframe(df_exec[ex_cols], use_container_width=True, hide_index=True)
+
+        if st.button("✕ Dismiss Live Summary", key="dismiss_exec_summary"):
+            del st.session_state["last_execution_summary"]
+            if "pipeline_success_banner" in st.session_state:
+                del st.session_state["pipeline_success_banner"]
+            st.rerun()
+
+        st.markdown("---")
 
     # 1. Overview KPI Cards Row
     total_sups = len(suppliers_df)
@@ -444,12 +515,16 @@ if nav_selection == "1. Overview":
             high_df = alerts_df[alerts_df[band_col].isin(["HIGH", "CRITICAL"])].copy()
 
             if not high_df.empty:
-                show_cols = ["supplier_id", "supplier_name", band_col, score_col, "event_type"]
+                show_cols = ["supplier_id", "supplier_name", band_col, score_col, "event_type", "data_status"]
                 existing_cols = [c for c in show_cols if c in high_df.columns]
                 preview_df = high_df[existing_cols].sort_values(by=score_col, ascending=False).head(8)
                 st.dataframe(preview_df, use_container_width=True, hide_index=True)
             else:
-                st.info("No suppliers currently flagged at HIGH or CRITICAL risk bands.")
+                st.markdown(f"**Active Disruption Alerts ({len(alerts_df)} Active - Ranked by Score):**")
+                show_cols = ["supplier_id", "supplier_name", band_col, score_col, "event_type", "data_status"]
+                existing_cols = [c for c in show_cols if c in alerts_df.columns]
+                preview_df = alerts_df[existing_cols].sort_values(by=score_col, ascending=False).head(8)
+                st.dataframe(preview_df, use_container_width=True, hide_index=True)
         else:
             st.info("No active alerts generated yet. Run pipeline via the sidebar.")
 
